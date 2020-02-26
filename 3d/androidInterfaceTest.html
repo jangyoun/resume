@@ -1,22 +1,22 @@
-
-
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="UTF-8">
-<title>Title of the document</title>
+<title>Page Title</title>
 </head>
+<script>
 
+  window.onload = function loadDefFrame() {
+   setTimeout(function () {
+   loadFrame(); //call your method
+  },2000)};
+
+  function loadFrame() {        
+   window.location.href = 'oso://studio/ocs/acctoken/AKIASRBKZEWYXDEGUCX!DFEHHDFPMB';
+  };
+
+</script>
 <body>
-</body>
-    <a href="oso://studio/ocs/acctoken/AKIASRBKZEWYXDEGUCX!DFEHHDFPMB">deeplinkdeeplinkdeeplinkdeeplink</a>
-    
-<input type="button" value="Say hello" onClick="onSuccess('AKIASRBKZEWYXDEGUCX!DFEHHDFPMB')" />
-    <script type="text/javascript">
-        function onSuccess(accessToken) {
-            Android.onSuccessOCSLogin(accessToken);
-        }
-    </script>
-    
-</html>    
 
+
+</body>
+</html>
