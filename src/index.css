@@ -1,27 +1,20 @@
-body {
-  margin: 0;
-}
-.ant-table-content {
-  -ms-overflow-style: none; /* IE and Edge */
-  scrollbar-width: none; /* Firefox */
-  box-shadow: none;
-}
-.ant-table-content::-webkit-scrollbar {
-  display: none;
-  box-shadow: none;
+#root {
+  height: 100%;
 }
 
-/* .ant-table-ping-right:not(.ant-table-has-fix-right) .ant-table-container::after {
-  -webkit-box-shadow: inset -10px 0 8px -8px rgba(0, 0, 0, 0);
-  box-shadow: inset -10px 0 8px -8px rgba(0, 0, 0, 0);
-  z-index: 4;
-} */
+.ant-layout {
+  height: 100%;
+  background-color: #fff;
+}
 
-/* .ant-table-ping-right:not(.ant-table-has-fix-right) .ant-table-container::after {
-  box-shadow: none;
-} */
+.ant-layout-header {
+  padding: 0;
+}
 
-/* .ant-table-ping-right:not(.ant-table-has-fix-right).ant-table-container::after .ant-table-container::before {
-  -webkit-box-shadow: none;
-  box-shadow: none;
-} */
+.ant-layout-sider {
+  height: 100%;
+}
+
+.ant-layout tr {
+  cursor: pointer;
+}

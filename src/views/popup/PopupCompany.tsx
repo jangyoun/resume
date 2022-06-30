@@ -1,11 +1,28 @@
 import { Table, Tag, List, Typography, Image } from "antd";
 import { CloseOutlined, SmileFilled } from "@ant-design/icons";
+import React, { useState, useEffect } from 'react';
+
 import { Swiper, SwiperSlide } from "swiper/react";
-import React from "react";
+import 'swiper/css';
 
-import * as CONST from "../ConstHome";
+import * as INFO from "../../info/InfoHome";
 
-function PopupProject(props) {
+interface IPopupCompanyProps {
+  visible: boolean;
+  index: number;
+  onClosed: () => void;
+}
+
+export const PopupCompany: React.FunctionComponent<IPopupCompanyProps> = (props) => {
+
+  const { visible, index, onClosed } = props;
+  const [swiper, setSwiper] = useState<any>(null);
+
+  useEffect(() => {
+    console.log(index);
+    swiper?.slideTo(index)
+  }, [index]);
+
   return (
     <>
       <div style={{ display: props.visible ? "block" : "none", position: "fixed", zIndex: 100, left: 0, top: 0, width: "100%", height: "100%", backgroundColor: "rgba(0,0,0,0.4)" }}>
@@ -15,9 +32,9 @@ function PopupProject(props) {
             <div style={{ width: 50 }} />
             <span style={{ flex: 1 }}>Company</span>
             <div
-              style={{ width: 50 }}
+              style={{ width: 50, cursor: 'pointer' }}
               onClick={(e) => {
-                console.log("onCancel");
+                onClosed();
               }}
             >
               <CloseOutlined />
@@ -26,17 +43,19 @@ function PopupProject(props) {
           <div style={{ width: 500, height: 1, backgroundColor: "rgba(255,255,255,0.2)" }} />
           <div style={{ height: 50 }} />
           <Swiper
-            style={{ flex: 1, width: "100%" }}
-            slidesPerView={4}
+            onSwiper={setSwiper}
+            initialSlide={index}
+            style={{ flex: 1, width: "100%", height: '100%' }}
+            slidesPerView={3}
             spaceBetween={30}
             centeredSlides={true}
             pagination={{
               clickable: true,
             }}
-            onSwiper={(swiper) => console.log("onSwiper", swiper)}
-            onSlideChange={(e) => console.log("onSlideChange", e.activeIndex)}
+          // onSwiper={(swiper) => console.log("onSwiper", swiper)}
+          // onSlideChange={(e) => console.log("onSlideChange", e.activeIndex)}
           >
-            {CONST.PROJECT_ARR.map((item) => (
+            {INFO.COMPANY_ARR.map((item) => (
               <SwiperSlide key={item.id}>
                 <div style={{ height: "100%", display: "flex", flexDirection: "column", backgroundColor: "#fff", borderRadius: "10px 10px 0px 0px" }}>
                   <div style={{ width: "100%", padding: 5, fontSize: 16, fontWeight: "bold", textAlign: "center" }}>{item.name}</div>
@@ -50,6 +69,4 @@ function PopupProject(props) {
       </div>
     </>
   );
-}
-
-export default PopupProject;
+};
