@@ -25,11 +25,11 @@ export const PopupCompany: React.FunctionComponent<IPopupCompanyProps> = (props)
 
   return (
     <>
-      <div style={{ display: props.visible ? "block" : "none", position: "fixed", zIndex: 100, left: 0, top: 0, width: "100%", height: "100%", backgroundColor: "rgba(0,0,0,0.4)" }}>
+      <div style={{ display: props.visible ? "block" : "none", position: "fixed", zIndex: 100, left: 0, top: 0, width: "100%", height: "100%", backgroundColor: "rgba(0,0,0,0.3)" }}>
         <div style={{ display: "flex", flexDirection: "column", height: "100%", alignItems: "center" }}>
           <div style={{ height: 50 }} />
-          <div style={{ width: 500, display: "flex", color: "#fff", fontSize: 24, fontWeight: "bold", textAlign: "center" }}>
-            <div style={{ width: 50 }} />
+          <div style={{ width: '100%', display: "flex", color: "#fff", fontSize: 24, fontWeight: "bold", textAlign: "center" }}>
+            <div style={{ width: 100 }} />
             <span style={{ flex: 1 }}>Company</span>
             <div
               style={{ width: 50, cursor: 'pointer' }}
@@ -39,8 +39,9 @@ export const PopupCompany: React.FunctionComponent<IPopupCompanyProps> = (props)
             >
               <CloseOutlined />
             </div>
+            <div style={{ width: 100 }} />
           </div>
-          <div style={{ width: 500, height: 1, backgroundColor: "rgba(255,255,255,0.2)" }} />
+          <div style={{ width: 'calc(100% - 200px)', height: 1, backgroundColor: "rgba(255,255,255,0.2)" }} />
           <div style={{ height: 50 }} />
           <Swiper
             onSwiper={setSwiper}
