@@ -10,11 +10,11 @@ export const EDU_ARR = [
   { id: 1, thumb: ImgEdu01, name: "Yushin high school", date: "2004.03 ~ 2004.03", major: "", location: "Seoul, Korea", grade: "" },
 ];
 export const COMPANY_ARR = [
-  { id: 0, thumb: ImgCom00, from: Moment([2020, 9, 1]), to: Moment(), now: true, name: "Buildprop", position: "CTO", etc: "" },
-  { id: 1, thumb: ImgCom01, from: Moment([2019, 8, 1]), to: Moment([2020, 9, 1]), now: false, name: "OGQ", position: "Team Leader", etc: "" },
-  { id: 2, thumb: ImgCom02, from: Moment([2014, 8, 1]), to: Moment([2019, 7, 1]), now: false, name: "ListenSoft", position: "CEO", etc: "Exit & M&A" },
-  { id: 3, thumb: ImgCom03, from: Moment([2011, 0, 1]), to: Moment([2014, 7, 1]), now: false, name: "Pantech", position: "Engineer", etc: "" },
-  { id: 4, thumb: ImgCom04, from: Moment([2010, 5, 1]), to: Moment([2010, 11, 1]), now: false, name: "SK Communications", position: "Engineer", etc: "" },
+  { id: 0, thumb: ImgCom00, from: Moment([2020, 9, 1]), to: Moment(), now: true, name: "Buildprop", position: "CTO", etc: "", desc: ["Buildprop desc1", "Buildprop desc2"] },
+  { id: 1, thumb: ImgCom01, from: Moment([2019, 8, 1]), to: Moment([2020, 9, 1]), now: false, name: "OGQ", position: "Team Leader", etc: "", desc: ["OGQ desc1", "OGQ desc2"] },
+  { id: 2, thumb: ImgCom02, from: Moment([2014, 8, 1]), to: Moment([2019, 7, 1]), now: false, name: "ListenSoft", position: "CEO", etc: "Exit & M&A", desc: ["ListenSoft desc1", "ListenSoft desc2"] },
+  { id: 3, thumb: ImgCom03, from: Moment([2011, 0, 1]), to: Moment([2014, 7, 1]), now: false, name: "Pantech", position: "Engineer", etc: "", desc: ["Pantech desc1", "Pantech desc2"] },
+  { id: 4, thumb: ImgCom04, from: Moment([2010, 5, 1]), to: Moment([2010, 11, 1]), now: false, name: "SK Communications", position: "Engineer", etc: "", desc: ["SK desc1"] },
 ];
 
 export const AWARD_ARR = [

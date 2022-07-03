@@ -1,10 +1,11 @@
-import { Table, Tag, List, Typography, Image } from "antd";
+import { Table, Tag, List, Typography, Descriptions } from "antd";
 import { CloseOutlined, SmileFilled } from "@ant-design/icons";
 import React, { useState, useEffect } from 'react';
 
 import { Swiper, SwiperSlide } from "swiper/react";
 import 'swiper/css';
 
+import { Util } from "../../util/Util";
 import * as INFO from "../../info/InfoHome";
 
 interface IPopupCompanyProps {
@@ -39,16 +40,16 @@ export const PopupCompany: React.FunctionComponent<IPopupCompanyProps> = (props)
             >
               <CloseOutlined />
             </div>
-            <div style={{ width: 100 }} />
+            <div style={{ width: 50 }} />
           </div>
-          <div style={{ width: 'calc(100% - 200px)', height: 1, backgroundColor: "rgba(255,255,255,0.2)" }} />
+          <div style={{ width: 'calc(100% - 100px)', height: 1, backgroundColor: "rgba(255,255,255)" }} />
           <div style={{ height: 50 }} />
           <Swiper
             onSwiper={setSwiper}
             initialSlide={index}
             style={{ flex: 1, width: "100%", height: '100%' }}
-            slidesPerView={3}
-            spaceBetween={30}
+            slidesPerView={Util.isMobile() ? 1.5 : 2}
+            spaceBetween={20}
             centeredSlides={true}
             pagination={{
               clickable: true,
@@ -58,8 +59,18 @@ export const PopupCompany: React.FunctionComponent<IPopupCompanyProps> = (props)
           >
             {INFO.COMPANY_ARR.map((item) => (
               <SwiperSlide key={item.id}>
-                <div style={{ height: "100%", display: "flex", flexDirection: "column", backgroundColor: "#fff", borderRadius: "10px 10px 0px 0px" }}>
+                <div style={{ width: "100%", display: "flex", flexDirection: "column", backgroundColor: "#fff", borderRadius: "10px 10px 0px 0px" }}>
                   <div style={{ width: "100%", padding: 5, fontSize: 16, fontWeight: "bold", textAlign: "center" }}>{item.name}</div>
+                  <div style={{ width: "100%", height: 100, backgroundColor: '#ccc' }} />
+                  <div>
+                    <Descriptions bordered size="small" column={1}>
+                      <Descriptions.Item label="From ~ To">{item.to.diff(item.from, "months")}M ({item.from.format("YYYY.MM")} ~ {item.now ? "" : item.to.format("YYYY.MM")})</Descriptions.Item>
+                      <Descriptions.Item label="Position">{item.position}</Descriptions.Item>
+                      <Descriptions.Item label="Description" span={1}>
+                        {item.desc.map((desc) => <>· {desc}<br /></>)}
+                      </Descriptions.Item>
+                    </Descriptions>
+                  </div>
                 </div>
               </SwiperSlide>
             ))}
