@@ -18,3 +18,25 @@
 .ant-layout tr {
   cursor: pointer;
 }
+
+.ant-table-title {
+  cursor: pointer;
+  padding: 0;
+  margin: 0;
+  /* background-color: lightblue; */
+}
+
+.notion-text {
+  font-size: 15px;
+  font-weight: bold;
+  text-decoration: underline;
+}
+.notion-list-disc li {
+  font-size: 13px;
+  padding: 2px 0px;
+  /* background-color: red; */
+}
+.notion-asset-wrapper {
+  padding: 0;
+  margin: 0;
+}

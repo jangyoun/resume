@@ -1,10 +1,10 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { ConfigProvider } from 'antd';
-import 'antd/dist/antd.css';
 import locale from 'antd/es/locale/ko_KR';
 
 import { Home } from './views/Home';
 import { User } from './views/User';
+import { Test } from './views/Test';
 
 function App() {
   return (
@@ -14,6 +14,7 @@ function App() {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="users/*" element={<User />} />
+          <Route path="test" element={<Test />} />
           <Route path="*" element={<Home />} />
         </Routes>
       </BrowserRouter>
