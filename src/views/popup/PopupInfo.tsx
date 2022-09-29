@@ -28,7 +28,8 @@ export const PopupInfo: React.FunctionComponent<IPopupInfoProps> = (props) => {
 
     const getNotionInfo = async (notion: string) => {
         setLoading(true);
-        const data: BlockMapType = await fetch(`https://notion-api.splitbee.io/v1/page/${notion}`).then(res => res.json());
+        const data: BlockMapType = await fetch(`http://jangyounc.com/notion/${notion}`).then(res => res.json());
+        // const data: BlockMapType = await fetch(`https://notion-api.splitbee.io/v1/page/${notion}`).then(res => res.json());
         setLoading(false);
         setInfo(data);
     };
@@ -38,7 +39,7 @@ export const PopupInfo: React.FunctionComponent<IPopupInfoProps> = (props) => {
 
             {/* side */}
             <div
-                style={{ width: Util.isMobile() ? 0 : 100 }}
+                style={{ width: Util.isMobile() ? 50 : 100 }}
                 onClick={(e) => props.onClosed()}
             />
 
@@ -64,7 +65,7 @@ export const PopupInfo: React.FunctionComponent<IPopupInfoProps> = (props) => {
                 <div style={{ height: 1, width: '100%', backgroundColor: 'lightblue' }} />
 
                 {/* desc */}
-                <div style={{ flex: 1, padding: 10, overflow: 'auto', width: window.innerWidth - (Util.isMobile() ? 0 : 100) }} >
+                <div style={{ flex: 1, padding: 10, overflow: 'auto', width: window.innerWidth - (Util.isMobile() ? 50 : 100) }} >
                     {!info ?
                         <div style={{ textAlign: 'center' }}> {isLoading ? <Spin size="large" /> : <>준비중</>}</div> :
                         <NotionRenderer blockMap={info} />

@@ -3,7 +3,7 @@ import { Table, Tag, List, Typography, Image } from "antd";
 import { DownloadOutlined } from "@ant-design/icons";
 
 import { ImgProfileThumb } from '../images/zIndex';
-import * as INFO from "../info/InfoHome";
+import * as INFO from "../info/CONST_INFO_ARR";
 
 import { PopupInfo } from "./popup/PopupInfo";
 
@@ -206,7 +206,7 @@ export const Home: React.FunctionComponent = () => {
                 </div>
 
                 {/* footer */}
-                <div style={{ backgroundColor: '#aaa', padding: 5, color: '#666' }} >
+                <div style={{ backgroundColor: '#666', padding: '5px 20px', color: '#fff' }} >
                     made with React.js &nbsp; | &nbsp;  Modified on : 2022.09.29
                 </div>
             </div>

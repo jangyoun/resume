@@ -6,7 +6,7 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import 'swiper/css';
 
 import { Util } from "../../util/Util";
-import * as INFO from "../../info/InfoHome";
+import * as INFO from "../../info/CONST_INFO_ARR";
 
 interface IPopupCompanyProps {
   visible: boolean;
