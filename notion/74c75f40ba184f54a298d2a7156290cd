@@ -1,9 +1,9 @@
 {
-	"a63ce67d-384a-41e8-8bba-9c3655606182": {
+	"74c75f40-ba18-4f54-a298-d2a7156290cd": {
 		"role": "reader",
 		"value": {
-			"id": "a63ce67d-384a-41e8-8bba-9c3655606182",
-			"version": 163,
+			"id": "74c75f40-ba18-4f54-a298-d2a7156290cd",
+			"version": 119,
 			"type": "page",
 			"properties": {
 				"%bzi": [
@@ -14,61 +14,8 @@
 								"d",
 								{
 									"type": "date",
-									"start_date": "2020-11-01"
+									"start_date": "2019-09-01"
 								}
-							]
-						]
-					]
-				],
-				"4WCF": [
-					[
-						"‣",
-						[
-							[
-								"p",
-								"d5cd199f-e739-447b-991a-de06f40ff078",
-								"e31efbed-6b94-433c-b384-c6e0981d0789"
-							]
-						]
-					],
-					[
-						","
-					],
-					[
-						"‣",
-						[
-							[
-								"p",
-								"8c7845b3-cf45-4e8d-b518-a6b7be560993",
-								"e31efbed-6b94-433c-b384-c6e0981d0789"
-							]
-						]
-					],
-					[
-						","
-					],
-					[
-						"‣",
-						[
-							[
-								"p",
-								"9c205d84-e95f-4011-9c92-47319b75c246",
-								"e31efbed-6b94-433c-b384-c6e0981d0789"
-							]
-						]
-					]
-				],
-				"ITHS": [
-					[
-						"소개링크",
-						[
-							[
-								"h",
-								"blue"
-							],
-							[
-								"a",
-								"https://www.notion.so/Portfolio-999d59ef28274dc296f403cd606d8f8a?p=9958fca70d7b4da4babe6f49eed528d9"
 							]
 						]
 					]
@@ -81,161 +28,70 @@
 								"d",
 								{
 									"type": "date",
-									"start_date": "2022-09-01"
+									"start_date": "2020-10-31"
 								}
-							]
-						]
-					]
-				],
-				"Tx+-": [
-					[
-						"‣",
-						[
-							[
-								"p",
-								"141e177f-212a-4927-834e-b9acff853ab1",
-								"5e1b3ceb-735a-46d1-9323-4d3f552017e4"
-							]
-						]
-					],
-					[
-						","
-					],
-					[
-						"‣",
-						[
-							[
-								"p",
-								"1f0de4dc-afc1-4f99-a8f7-e3823a9bfa1c",
-								"5e1b3ceb-735a-46d1-9323-4d3f552017e4"
-							]
-						]
-					],
-					[
-						","
-					],
-					[
-						"‣",
-						[
-							[
-								"p",
-								"3b92882f-aae4-46c1-9c72-eab9a051e0ce",
-								"5e1b3ceb-735a-46d1-9323-4d3f552017e4"
 							]
 						]
 					]
 				],
 				"WE_D": [
 					[
-						"now"
+						"2020-10"
 					]
 				],
 				"Zecu": [
 					[
-						"총괄"
+						"A.I.팀"
 					]
 				],
 				"nJq$": [
 					[
-						"CTO"
-					]
-				],
-				"nmT~": [
-					[
-						"‣",
-						[
-							[
-								"d",
-								{
-									"type": "date",
-									"start_date": "2019-11-01"
-								}
-							]
-						]
-					]
-				],
-				"pvnz": [
-					[
-						"‣",
-						[
-							[
-								"p",
-								"b88a2f7e-82e2-4b1a-887c-d7ddd20ff544",
-								"5e1b3ceb-735a-46d1-9323-4d3f552017e4"
-							]
-						]
-					],
-					[
-						","
-					],
-					[
-						"‣",
-						[
-							[
-								"p",
-								"d13c24fb-75ac-4ecb-b04a-124ca48df905",
-								"c6c62feb-1540-4467-b79b-50a3d5a76a63"
-							]
-						]
-					],
-					[
-						","
-					],
-					[
-						"‣",
-						[
-							[
-								"p",
-								"4890f81d-8726-45c2-b47a-42fcec04257c",
-								"c6c62feb-1540-4467-b79b-50a3d5a76a63"
-							]
-						]
+						"팀장"
 					]
 				],
 				"sXGR": [
 					[
-						"2020-11"
-					]
-				],
-				"~`zq": [
-					[
-						"140648"
+						"2019-09"
 					]
 				],
 				"title": [
 					[
-						"Buildprop"
+						"OGQ"
 					]
 				]
 			},
 			"content": [
-				"e51b94b5-25c0-4fda-90da-03c5468f9cae",
-				"e841694f-e453-491a-8af1-89223b62277e",
-				"cb57e687-9a5e-4941-9430-92b0cc2e9c11",
-				"d01a3561-bd8a-4ea1-a621-8ffb828520aa",
-				"1edf6c5d-53e0-4f63-9181-0bfb5c5b639b",
-				"4908fa8f-d0be-4e93-8c2b-cb18dd641ca8",
-				"50df60c3-b4a3-4de0-bb7e-f0222e138d5c",
-				"07a3f8d6-538d-48b8-9943-28405a1f0572"
+				"e87432d1-5ef8-4069-a5f2-27fc5424c202",
+				"bdd9b084-3b9b-4091-8225-a58097a68db4",
+				"f555e4b1-35df-4db3-9d5c-49b8a5bd8de5",
+				"833ad5db-d052-4ad4-81c6-db8d74c4c6e1",
+				"7c71bca3-fa98-437a-bcc5-6c21ff32fd1a",
+				"cfc12e69-598a-4894-b7b2-944717e6a722",
+				"1e3f820f-23fe-42fd-89e9-1ebab99d92ce",
+				"f4cd328f-c190-414c-bf45-12d591252713",
+				"8a265e80-13f1-4346-a955-8a8592e4b753",
+				"8776ccbe-8730-4d45-b2f2-22c4d4d54701",
+				"d9155592-d224-47c9-a58b-99882383edf8",
+				"81f87bfe-d9c8-40b7-a0a1-913c0d1f4715"
 			],
 			"format": {
-				"page_icon": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bf330b22-1c95-414f-9941-d7a89ea6f01d/Untitled-3.png",
+				"page_icon": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a413f1e3-f9d3-4975-9cb0-13ad3b55aeb3/KakaoTalk_Photo_2021-07-12-10-57-00.png",
+				"block_locked": false,
+				"block_locked_by": "6362623b-74f5-4e6e-b364-235fb75e31ff",
 				"copied_from_pointer": {
-					"id": "9b7cc611-8f88-4858-b2d2-1b1e4327450c",
+					"id": "b97e7e09-9fe9-4f6b-8cdd-44496078a738",
 					"table": "block",
 					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
-				},
-				"page_cover_position": 0.5
+				}
 			},
-			"created_time": 1661149849285,
-			"last_edited_time": 1664352600000,
+			"created_time": 1661223900000,
+			"last_edited_time": 1664352780000,
 			"parent_id": "1e5ed671-c398-4141-b6f1-3a2591f0f028",
 			"parent_table": "collection",
 			"alive": true,
-			"copied_from": "9b7cc611-8f88-4858-b2d2-1b1e4327450c",
+			"copied_from": "b97e7e09-9fe9-4f6b-8cdd-44496078a738",
 			"file_ids": [
-				"b1ae7e63-9769-42d0-aa6d-4e5a0b442f4b",
-				"bf330b22-1c95-414f-9941-d7a89ea6f01d"
+				"a413f1e3-f9d3-4975-9cb0-13ad3b55aeb3"
 			],
 			"created_by_table": "notion_user",
 			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
@@ -786,154 +642,202 @@
 			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
 		}
 	},
-	"e51b94b5-25c0-4fda-90da-03c5468f9cae": {
+	"e87432d1-5ef8-4069-a5f2-27fc5424c202": {
 		"role": "reader",
 		"value": {
-			"id": "e51b94b5-25c0-4fda-90da-03c5468f9cae",
-			"version": 24,
+			"id": "e87432d1-5ef8-4069-a5f2-27fc5424c202",
+			"version": 7,
 			"type": "bulleted_list",
 			"properties": {
 				"title": [
 					[
-						"Contech 기업 (construction + Tech)"
-					]
-				]
-			},
-			"created_time": 1664299920000,
-			"last_edited_time": 1664352600000,
-			"parent_id": "a63ce67d-384a-41e8-8bba-9c3655606182",
-			"parent_table": "block",
-			"alive": true,
-			"created_by_table": "notion_user",
-			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
-			"last_edited_by_table": "notion_user",
-			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
-			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
-		}
-	},
-	"e841694f-e453-491a-8af1-89223b62277e": {
-		"role": "reader",
-		"value": {
-			"id": "e841694f-e453-491a-8af1-89223b62277e",
-			"version": 16,
-			"type": "bulleted_list",
-			"properties": {
-				"title": [
-					[
-						"DS건설그룹 협력사"
-					]
-				]
-			},
-			"created_time": 1664299920000,
-			"last_edited_time": 1664352600000,
-			"parent_id": "a63ce67d-384a-41e8-8bba-9c3655606182",
-			"parent_table": "block",
-			"alive": true,
-			"created_by_table": "notion_user",
-			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
-			"last_edited_by_table": "notion_user",
-			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
-			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
-		}
-	},
-	"cb57e687-9a5e-4941-9430-92b0cc2e9c11": {
-		"role": "reader",
-		"value": {
-			"id": "cb57e687-9a5e-4941-9430-92b0cc2e9c11",
-			"version": 16,
-			"type": "bulleted_list",
-			"properties": {
-				"title": [
-					[
-						"코맥스 벤처러스 1억원 시드 투자 유치"
-					]
-				]
-			},
-			"created_time": 1664299920000,
-			"last_edited_time": 1664352600000,
-			"parent_id": "a63ce67d-384a-41e8-8bba-9c3655606182",
-			"parent_table": "block",
-			"alive": true,
-			"created_by_table": "notion_user",
-			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
-			"last_edited_by_table": "notion_user",
-			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
-			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
-		}
-	},
-	"d01a3561-bd8a-4ea1-a621-8ffb828520aa": {
-		"role": "reader",
-		"value": {
-			"id": "d01a3561-bd8a-4ea1-a621-8ffb828520aa",
-			"version": 20,
-			"type": "bulleted_list",
-			"properties": {
-				"title": [
-					[
-						"TIPS (민간주도형 예비창업지원 프로그램) 선정 : 최대 7억 확보"
-					]
-				]
-			},
-			"created_time": 1664299920000,
-			"last_edited_time": 1664352600000,
-			"parent_id": "a63ce67d-384a-41e8-8bba-9c3655606182",
-			"parent_table": "block",
-			"alive": true,
-			"created_by_table": "notion_user",
-			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
-			"last_edited_by_table": "notion_user",
-			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
-			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
-		}
-	},
-	"1edf6c5d-53e0-4f63-9181-0bfb5c5b639b": {
-		"role": "reader",
-		"value": {
-			"id": "1edf6c5d-53e0-4f63-9181-0bfb5c5b639b",
-			"version": 8,
-			"type": "text",
-			"created_time": 1664352600000,
-			"last_edited_time": 1664352600000,
-			"parent_id": "a63ce67d-384a-41e8-8bba-9c3655606182",
-			"parent_table": "block",
-			"alive": true,
-			"created_by_table": "notion_user",
-			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
-			"last_edited_by_table": "notion_user",
-			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
-			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
-		}
-	},
-	"4908fa8f-d0be-4e93-8c2b-cb18dd641ca8": {
-		"role": "reader",
-		"value": {
-			"id": "4908fa8f-d0be-4e93-8c2b-cb18dd641ca8",
-			"version": 16,
-			"type": "bookmark",
-			"properties": {
-				"link": [
-					[
-						"https://platum.kr/archives/187801"
-					]
-				],
-				"title": [
-					[
-						"스마트 건설 현장 관리 기업 '빌드프롭', 1억원 투자 유치"
-					]
-				],
-				"description": [
-					[
-						"건설 장비 관리 및 공유 솔루션 '어디GO'를 서비스하는 콘테크 스타트업 빌드프롭이 코맥스벤처러스부터 1억원의 투자를 유치했다. 빌드프롭은 중소 건설사의 현장 장비를 관리하는 플랫폼을 '어디GO'를 운영 중으로, '어디GO'는 별도의 장비 없이 현장 근로자의 스마트폰으로 출역을 관리하고, 직원 파견을 통해 실사와 수기로 진행되던 자산과 건설 장비를 태..."
+						"콘텐츠 스타트업 :: 콘텐츠 유통 및 저작권 관리"
 					]
 				]
 			},
 			"format": {
-				"bookmark_icon": "https://platum.kr/wp-content/uploads/2020/11/platum_logo-removebg-preview-300x300.png",
-				"bookmark_cover": "https://platum.kr/wp-content/uploads/2022/06/aa-640x427.jpg"
+				"copied_from_pointer": {
+					"id": "e51b94b5-25c0-4fda-90da-03c5468f9cae",
+					"table": "block",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				}
 			},
-			"created_time": 1661226720000,
-			"last_edited_time": 1664352540000,
-			"parent_id": "a63ce67d-384a-41e8-8bba-9c3655606182",
+			"created_time": 1664352672752,
+			"last_edited_time": 1664352660000,
+			"parent_id": "74c75f40-ba18-4f54-a298-d2a7156290cd",
+			"parent_table": "block",
+			"alive": true,
+			"copied_from": "e51b94b5-25c0-4fda-90da-03c5468f9cae",
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"bdd9b084-3b9b-4091-8225-a58097a68db4": {
+		"role": "reader",
+		"value": {
+			"id": "bdd9b084-3b9b-4091-8225-a58097a68db4",
+			"version": 40,
+			"type": "bulleted_list",
+			"properties": {
+				"title": [
+					[
+						"임직원 : + 70명"
+					]
+				]
+			},
+			"format": {
+				"copied_from_pointer": {
+					"id": "e841694f-e453-491a-8af1-89223b62277e",
+					"table": "block",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				}
+			},
+			"created_time": 1664352672752,
+			"last_edited_time": 1664352780000,
+			"parent_id": "74c75f40-ba18-4f54-a298-d2a7156290cd",
+			"parent_table": "block",
+			"alive": true,
+			"copied_from": "e841694f-e453-491a-8af1-89223b62277e",
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"f555e4b1-35df-4db3-9d5c-49b8a5bd8de5": {
+		"role": "reader",
+		"value": {
+			"id": "f555e4b1-35df-4db3-9d5c-49b8a5bd8de5",
+			"version": 3,
+			"type": "bulleted_list",
+			"properties": {
+				"title": [
+					[
+						"총 누적 투자액 : "
+					],
+					[
+						"1170억",
+						[
+							[
+								"b"
+							]
+						]
+					]
+				]
+			},
+			"format": {
+				"copied_from_pointer": {
+					"id": "e841694f-e453-491a-8af1-89223b62277e",
+					"table": "block",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				}
+			},
+			"created_time": 1664352672752,
+			"last_edited_time": 1664352780000,
+			"parent_id": "74c75f40-ba18-4f54-a298-d2a7156290cd",
+			"parent_table": "block",
+			"alive": true,
+			"copied_from": "e841694f-e453-491a-8af1-89223b62277e",
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"833ad5db-d052-4ad4-81c6-db8d74c4c6e1": {
+		"role": "reader",
+		"value": {
+			"id": "833ad5db-d052-4ad4-81c6-db8d74c4c6e1",
+			"version": 8,
+			"type": "bulleted_list",
+			"properties": {
+				"title": [
+					[
+						"네이버 & 아프리카TV 협업 및 공동사업 운영"
+					]
+				]
+			},
+			"format": {
+				"copied_from_pointer": {
+					"id": "cb57e687-9a5e-4941-9430-92b0cc2e9c11",
+					"table": "block",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				}
+			},
+			"created_time": 1664352672753,
+			"last_edited_time": 1664352660000,
+			"parent_id": "74c75f40-ba18-4f54-a298-d2a7156290cd",
+			"parent_table": "block",
+			"alive": true,
+			"copied_from": "cb57e687-9a5e-4941-9430-92b0cc2e9c11",
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"7c71bca3-fa98-437a-bcc5-6c21ff32fd1a": {
+		"role": "reader",
+		"value": {
+			"id": "7c71bca3-fa98-437a-bcc5-6c21ff32fd1a",
+			"version": 7,
+			"type": "text",
+			"format": {
+				"copied_from_pointer": {
+					"id": "1edf6c5d-53e0-4f63-9181-0bfb5c5b639b",
+					"table": "block",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				}
+			},
+			"created_time": 1664352672754,
+			"last_edited_time": 1664352780000,
+			"parent_id": "74c75f40-ba18-4f54-a298-d2a7156290cd",
+			"parent_table": "block",
+			"alive": true,
+			"copied_from": "1edf6c5d-53e0-4f63-9181-0bfb5c5b639b",
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"cfc12e69-598a-4894-b7b2-944717e6a722": {
+		"role": "reader",
+		"value": {
+			"id": "cfc12e69-598a-4894-b7b2-944717e6a722",
+			"version": 13,
+			"type": "bookmark",
+			"properties": {
+				"link": [
+					[
+						"https://www.hankyung.com/finance/article/202202258844i"
+					]
+				],
+				"title": [
+					[
+						"티사이언티픽, OGQ에 350억 투자"
+					]
+				],
+				"description": [
+					[
+						"모바일 쿠폰 업체인 은 네이버와 아프리카TV가 주요주주로 참여한 글로벌 콘텐츠 플랫폼 '오지큐(OGQ)'에 전략적 투자를 결정했다고 24일 밝혔다. 투자금액은 약 350억원으로 OGQ 유상증자에 참여하여 3대주주 지위를 확보하는 구조이다. OGQ는 191여개국 1700만명의 소셜 크리에이터(창작자) 및 28억건의 콘텐츠 다운로드 실적을 보유하고 있다. 크리에이터가 만든 이미지, 동영상, 폰트, 스티커, 음원은 물론 메타버스 서비스에서 사용되는 3D콘텐츠를 사고 팔 수 있는 저작권 검증 프로세스를 갖췄다."
+					]
+				]
+			},
+			"format": {
+				"bookmark_icon": "https://static.hankyung.com/favicon.ico",
+				"bookmark_cover": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
+			},
+			"created_time": 1661226120000,
+			"last_edited_time": 1664352780000,
+			"parent_id": "74c75f40-ba18-4f54-a298-d2a7156290cd",
 			"parent_table": "block",
 			"alive": true,
 			"created_by_table": "notion_user",
@@ -943,36 +847,153 @@
 			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
 		}
 	},
-	"50df60c3-b4a3-4de0-bb7e-f0222e138d5c": {
+	"1e3f820f-23fe-42fd-89e9-1ebab99d92ce": {
 		"role": "reader",
 		"value": {
-			"id": "50df60c3-b4a3-4de0-bb7e-f0222e138d5c",
-			"version": 16,
+			"id": "1e3f820f-23fe-42fd-89e9-1ebab99d92ce",
+			"version": 13,
 			"type": "bookmark",
 			"properties": {
 				"link": [
 					[
-						"https://www.venturesquare.net/859018"
+						"https://www.etnews.com/20220225000059"
 					]
 				],
 				"title": [
 					[
-						"건설 장비 관리·공유 솔루션 운영 '빌드프롭', 중기부 팁스(TIPS) 선정"
+						"티사이언티픽, 콘텐츠 플랫폼 오지큐에 350억원 투자"
 					]
 				],
 				"description": [
 					[
-						"건설 장비 관리 및 공유 솔루션 '어디GO'를 운영하는 빌드프롭(대표 이큰별)이 중소벤처기업부에서 주관하는 기술창업 투자 프로그램 팁스(TIPS)에 선정됐다고 13일 밝혔다. 팁스(TIPS)는 정부와 민간투자사가 함께 뛰어난 비즈니스 모델과 우수한 기술력을 보유한 유망 스타트업을 선발해 집중적으로 지원하는 대표적인 민간투자주도형 기술창업지원 프로그램으로, 빌드프롭은 이번 팁스 선정을 통해 2년간 5억원의 연구개발(R&D) 자금을 지원받게 된다."
+						"티사이언티픽(대표 김상우)은 글로벌 콘텐츠플랫폼 '오지큐(OGQ)'에 전략적 투자를 결정했다고 25일 밝혔다. 이번 투자금액은 약 350억원으로, 티사이언티픽은 오지큐 유상증자에 참여해 3대주주 지위를 확보하게 된다. 오지큐는 네이버가 주요주주로 참여해 눈길을 모은 플랫폼이다. 지난해 하반기 진행된 650억원 규모 시리즈 B 투자 라운드에서 네이버, 아프리카TV, YG인베 등으로부터 투자금을 확보했으며, 2000억원 이상 기업가치를 인정받았다."
+					]
+				]
+			},
+			"format": {
+				"bookmark_icon": "https://img.etnews.com/2019/mobile_et/images/favicon.png",
+				"bookmark_cover": "https://img.etnews.com/photonews/2202/1506299_20220225104104_139_0001.jpg"
+			},
+			"created_time": 1661226060000,
+			"last_edited_time": 1664352780000,
+			"parent_id": "74c75f40-ba18-4f54-a298-d2a7156290cd",
+			"parent_table": "block",
+			"alive": true,
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"f4cd328f-c190-414c-bf45-12d591252713": {
+		"role": "reader",
+		"value": {
+			"id": "f4cd328f-c190-414c-bf45-12d591252713",
+			"version": 13,
+			"type": "bookmark",
+			"properties": {
+				"link": [
+					[
+						"https://www.hankyung.com/it/article/2021091296981"
+					]
+				],
+				"title": [
+					[
+						"오지큐, 게티이미지코리아 인수한다"
+					]
+				],
+				"description": [
+					[
+						"콘텐츠 플랫폼 스타트업인 오지큐(OGQ)가 국내 최대 이미지 플랫폼인 게티이미지코리아를 인수한다. 12일 투자은행(IB)업계에 따르면 오지큐는 게티이미지코리아의 지분 50% 이상을 주주인 게티이미지인터내셔널과 다움키움그룹 계열사인 이매진스로부터 인수한다. 거래 규모는 500억원 안팎이 될 것으로 알려졌다. 2011년 설립된 오지큐는 배경화면 다운로드 앱 'OGQ 백그라운드'로 인기를 끌었다. 200개국에서 누적 2억5000만 건 이상이 다운로드됐다."
+					]
+				]
+			},
+			"format": {
+				"bookmark_icon": "https://static.hankyung.com/favicon.ico",
+				"bookmark_cover": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
+			},
+			"created_time": 1661226120000,
+			"last_edited_time": 1664352780000,
+			"parent_id": "74c75f40-ba18-4f54-a298-d2a7156290cd",
+			"parent_table": "block",
+			"alive": true,
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"8a265e80-13f1-4346-a955-8a8592e4b753": {
+		"role": "reader",
+		"value": {
+			"id": "8a265e80-13f1-4346-a955-8a8592e4b753",
+			"version": 13,
+			"type": "bookmark",
+			"properties": {
+				"link": [
+					[
+						"https://www.edaily.co.kr/news/read?newsId=01607206629247360&mediaCodeNo=257"
+					]
+				],
+				"title": [
+					[
+						"OGQ, 670억 원 규모 시리즈B 투자 유치"
+					]
+				],
+				"description": [
+					[
+						"이데일리 이윤정 기자] 저작권콘텐츠마켓 OGQ는 670억 원 규모의 시리즈 B 투자를 유치했다고 19일 밝혔다. 이번 투자에는 기존 주주인 아프리카TV를 비롯하여 디에스자산운용, 대신증권, 파트너스인베스트먼트 등 국내 탑 티어 플랫폼과 기관투자자가 신규 참여했다. OGQ는 크리에이터가 창작한 이미지, 동영상, 폰트, 스티커, 음원은 물론 메타버스 서비스에서 사용되는 3D에셋 콘텐츠를 사고 팔 수 있는 저작권 콘텐츠 거래 플랫폼이다."
+					]
+				]
+			},
+			"format": {
+				"bookmark_icon": "https://www.edaily.co.kr/resources/images/icon/favicon.ico",
+				"bookmark_cover": "https://image.edaily.co.kr/images/Photo/files/NP/S/2021/11/PS21111900259.jpg"
+			},
+			"created_time": 1661226180000,
+			"last_edited_time": 1664352780000,
+			"parent_id": "74c75f40-ba18-4f54-a298-d2a7156290cd",
+			"parent_table": "block",
+			"alive": true,
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"8776ccbe-8730-4d45-b2f2-22c4d4d54701": {
+		"role": "reader",
+		"value": {
+			"id": "8776ccbe-8730-4d45-b2f2-22c4d4d54701",
+			"version": 13,
+			"type": "bookmark",
+			"properties": {
+				"link": [
+					[
+						"https://www.venturesquare.net/787101"
+					]
+				],
+				"title": [
+					[
+						"OGQ, 아프리카TV로부터 50억 투자 유치"
+					]
+				],
+				"description": [
+					[
+						"OGQ가 아프리카TV로부터 50억원 규모의 전략적 투자를 유치했다. 이번 투자는 저작권 에셋 콘텐츠 마켓 '아프리카TV OGQ마켓' 확장을 위해 진행됐다. OGQ는 아프리카TV의 유저들이 BJ에게 저작권이 해결된 에셋 콘텐츠를 후원할 수 있도록 할 예정이다. 또 BJ와 팬이 직접 에셋 콘텐츠를 제작해 글로벌 OGQ마켓의 크리에이터가 되어 판매금의 70%를 정산받을 수 있는 환경도 제공한다."
 					]
 				]
 			},
 			"format": {
 				"bookmark_icon": "https://www.venturesquare.net/wp-content/uploads/2016/05/cropped-VentureSquare_200x200-192x192.jpg",
-				"bookmark_cover": "https://www.venturesquare.net/wp-content/uploads/2022/07/%EB%B9%8C%EB%93%9C%ED%94%84%EB%A1%AD_%ED%8C%81%EC%8A%A4_%EB%B3%B4%EB%8F%84%EC%9E%90%EB%A3%8C_%EC%9D%B4%EB%AF%B8%EC%A7%80-789x421.png"
+				"bookmark_cover": "https://www.venturesquare.net/wp-content/uploads/2019/07/unnamed-file.png"
 			},
-			"created_time": 1661226900000,
-			"last_edited_time": 1664352540000,
-			"parent_id": "a63ce67d-384a-41e8-8bba-9c3655606182",
+			"created_time": 1661226420000,
+			"last_edited_time": 1664352780000,
+			"parent_id": "74c75f40-ba18-4f54-a298-d2a7156290cd",
 			"parent_table": "block",
 			"alive": true,
 			"created_by_table": "notion_user",
@@ -982,15 +1003,75 @@
 			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
 		}
 	},
-	"07a3f8d6-538d-48b8-9943-28405a1f0572": {
+	"d9155592-d224-47c9-a58b-99882383edf8": {
 		"role": "reader",
 		"value": {
-			"id": "07a3f8d6-538d-48b8-9943-28405a1f0572",
-			"version": 3,
-			"type": "text",
-			"created_time": 1664352600000,
-			"last_edited_time": 1664352600000,
-			"parent_id": "a63ce67d-384a-41e8-8bba-9c3655606182",
+			"id": "d9155592-d224-47c9-a58b-99882383edf8",
+			"version": 13,
+			"type": "bookmark",
+			"properties": {
+				"link": [
+					[
+						"http://www.it-b.co.kr/news/articleView.html?idxno=18450"
+					]
+				],
+				"title": [
+					[
+						"네이버, 소셜 크리에이터 플랫폼 기업 OGQ에 75억원 투자"
+					]
+				],
+				"description": [
+					[
+						"아이티비즈 김건우 기자] 네이버(대표 한성숙)는 소셜 크리에이터 플랫폼 기업 OGQ(대표 신철호)에 전략적 투자를 진행했다고 12일 밝혔다. OGQ는 글로벌 다운로드 1.2억 건 이상을 돌파한 OGQ 배경화면 앱을 서비스하며, 글 저작에 필요한 저작권 이미지, 동영상은 물론 음악, 스티커, 폰트 등의 크리에이터 마켓 플랫폼을 운영하고 있는 기업이다."
+					]
+				]
+			},
+			"format": {
+				"bookmark_icon": "http://www.it-b.co.kr/image/logo/favicon_20200513052007.png",
+				"bookmark_cover": "http://www.it-b.co.kr/news/thumbnail/201710/18450_17496_1814_v150.jpg"
+			},
+			"created_time": 1661226480000,
+			"last_edited_time": 1664352780000,
+			"parent_id": "74c75f40-ba18-4f54-a298-d2a7156290cd",
+			"parent_table": "block",
+			"alive": true,
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"81f87bfe-d9c8-40b7-a0a1-913c0d1f4715": {
+		"role": "reader",
+		"value": {
+			"id": "81f87bfe-d9c8-40b7-a0a1-913c0d1f4715",
+			"version": 13,
+			"type": "bookmark",
+			"properties": {
+				"link": [
+					[
+						"https://platum.kr/archives/90874"
+					]
+				],
+				"title": [
+					[
+						"소셜 크리에이터 플랫폼 'OGQ', 25억 원 투자 유치"
+					]
+				],
+				"description": [
+					[
+						"소셜 크리에이터 플랫폼 기업 OGQ 는 센트럴투자파트너스 등으로부터 25억원을 투자 받았다고 8일 밝혔다. OGQ는 센트럴투자파트너스 외에도 네이버로부터 75억원, 사전 참여한 판도라티비로부터 투자를 유치했다. 이들의 누적 투자금은 총 100억원이다. OGQ는 글로벌 다운로드 1억2천만 건을 돌파한 'OGQ Backgrounds(배경화면HD)' 앱을 ..."
+					]
+				]
+			},
+			"format": {
+				"bookmark_icon": "https://platum.kr/wp-content/uploads/2020/11/platum_logo-removebg-preview-300x300.png",
+				"bookmark_cover": "https://platum.kr/wp-content/uploads/2017/11/OGQ_CI-1.png"
+			},
+			"created_time": 1661226480000,
+			"last_edited_time": 1664352780000,
+			"parent_id": "74c75f40-ba18-4f54-a298-d2a7156290cd",
 			"parent_table": "block",
 			"alive": true,
 			"created_by_table": "notion_user",

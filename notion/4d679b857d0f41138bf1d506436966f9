@@ -1,0 +1,1411 @@
+{
+	"4d679b85-7d0f-4113-8bf1-d506436966f9": {
+		"role": "reader",
+		"value": {
+			"id": "4d679b85-7d0f-4113-8bf1-d506436966f9",
+			"version": 457,
+			"type": "page",
+			"properties": {
+				"I}h}": [
+					[
+						"‣",
+						[
+							[
+								"d",
+								{
+									"type": "date",
+									"start_date": "2019-10-01"
+								}
+							]
+						]
+					]
+				],
+				"L{@;": [
+					[
+						"Demo Service for technology of OGQ"
+					]
+				],
+				"\\n}a": [
+					[
+						"ML",
+						[
+							[
+								"c"
+							],
+							[
+								"h",
+								"orange"
+							]
+						]
+					],
+					[
+						" ",
+						[
+							[
+								"h",
+								"orange"
+							]
+						]
+					],
+					[
+						"AOS",
+						[
+							[
+								"c"
+							],
+							[
+								"h",
+								"orange"
+							]
+						]
+					],
+					[
+						" ",
+						[
+							[
+								"h",
+								"orange"
+							]
+						]
+					],
+					[
+						"iOS",
+						[
+							[
+								"c"
+							],
+							[
+								"h",
+								"orange"
+							]
+						]
+					]
+				],
+				"a;Vq": [
+					[
+						"AOS,iOS,ML"
+					]
+				],
+				"kMLU": [
+					[
+						"zcxzc"
+					]
+				],
+				"nNZ]": [
+					[
+						"‣",
+						[
+							[
+								"d",
+								{
+									"type": "date",
+									"start_date": "2020-10-01"
+								}
+							]
+						]
+					]
+				],
+				"rWC<": [
+					[
+						"12M"
+					]
+				],
+				"title": [
+					[
+						"A.I. 신사업 프로젝트"
+					]
+				]
+			},
+			"content": [
+				"903f6222-95fa-481b-b241-29abae0d9d14",
+				"23d61d3b-1190-45f3-bdce-f878d937ef2c",
+				"859ccb7d-5be6-4d69-8c80-8f312697095d",
+				"e92df789-a3a3-4b9e-a36a-e3e1dfd380a0",
+				"679b388c-8a3d-4e64-b611-9522c44db03c",
+				"f3f15ab4-e5cb-4a01-a87c-e09f4b465f80",
+				"bb50c1aa-8b35-414a-94c3-c46685a7b466",
+				"1ad72d49-4439-4277-a99e-9f2db7b4cf57",
+				"6d8d4dba-6ef9-4f3a-9f13-23a7f3165998",
+				"6cc58f83-4dc5-49ef-aa05-dbfd9bea2d9d",
+				"fe2f9ef7-bcd9-4c4f-95fe-eab1ec4e5a3a",
+				"b0ad60ee-c2ea-4f25-86a6-87f507036bc3",
+				"3bab79e2-a53a-4b87-a837-1addd5d99710",
+				"c071937f-3bfa-4f5e-88cf-450cbd21b10b",
+				"5762053d-a86a-4164-9558-07d968df0602",
+				"47cb3817-9523-4b1d-8253-f2cb4f694530",
+				"1c47d8c6-0267-4b9b-a429-9fb805334504",
+				"c7485c66-9f79-4451-a43c-13f5b71f250c",
+				"15dd3c96-a42f-4049-8641-971f80129de4",
+				"185adbd4-ce3c-41c0-b67c-22edebbc0aeb",
+				"c5a23737-34d6-44bc-868d-66a451622367"
+			],
+			"format": {
+				"page_icon": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7d088d98-b8a0-47a5-8bf1-0c389a2e1b33/Untitled.png",
+				"copied_from_pointer": {
+					"id": "09bb0815-2f04-489a-bd41-40c8924d3388",
+					"table": "block",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				}
+			},
+			"created_time": 1661148383927,
+			"last_edited_time": 1664370300000,
+			"parent_id": "d9152762-7dc3-4b60-b095-6888d17b5e34",
+			"parent_table": "collection",
+			"alive": true,
+			"copied_from": "09bb0815-2f04-489a-bd41-40c8924d3388",
+			"file_ids": [
+				"7d088d98-b8a0-47a5-8bf1-0c389a2e1b33"
+			],
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"c9f17a2a-5411-4fd6-a1aa-d46c9a16e847": {
+		"role": "reader",
+		"value": {
+			"id": "c9f17a2a-5411-4fd6-a1aa-d46c9a16e847",
+			"version": 103,
+			"type": "collection_view",
+			"view_ids": [
+				"9ac958bf-3bfa-4aad-bcbe-973ab5561397"
+			],
+			"collection_id": "d9152762-7dc3-4b60-b095-6888d17b5e34",
+			"format": {
+				"collection_pointer": {
+					"id": "d9152762-7dc3-4b60-b095-6888d17b5e34",
+					"table": "collection",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				},
+				"copied_from_pointer": {
+					"id": "bc90b5ec-4e33-43a8-be02-cf3c2237fed0",
+					"table": "block",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				}
+			},
+			"created_time": 1661148383940,
+			"last_edited_time": 1664183760000,
+			"parent_id": "f7e92f33-78ff-4152-883f-531dfbe8cf9b",
+			"parent_table": "block",
+			"alive": true,
+			"copied_from": "bc90b5ec-4e33-43a8-be02-cf3c2237fed0",
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		},
+		"collection": {
+			"title": [
+				[
+					"Project"
+				]
+			],
+			"schema": {
+				"Bfuy": {
+					"name": "기간",
+					"type": "formula",
+					"formula": {
+						"args": [
+							{
+								"args": [
+									{
+										"args": [
+											{
+												"id": "nNZ]",
+												"name": "to",
+												"type": "property",
+												"result_type": "date"
+											},
+											{
+												"id": "I}h}",
+												"name": "from",
+												"type": "property",
+												"result_type": "date"
+											},
+											{
+												"type": "constant",
+												"value": "months",
+												"value_type": "string",
+												"result_type": "text"
+											}
+										],
+										"name": "dateBetween",
+										"type": "function",
+										"result_type": "number"
+									}
+								],
+								"name": "format",
+								"type": "function",
+								"result_type": "text"
+							},
+							{
+								"type": "constant",
+								"value": "M",
+								"value_type": "string",
+								"result_type": "text"
+							}
+						],
+						"name": "concat",
+						"type": "function",
+						"result_type": "text"
+					}
+				},
+				"I}h}": {
+					"name": "from",
+					"type": "date",
+					"date_format": "YYYY/MM/DD"
+				},
+				"nNZ]": {
+					"name": "to",
+					"type": "date",
+					"date_format": "YYYY/MM/DD"
+				},
+				"rWC<": {
+					"name": "실투입",
+					"type": "text"
+				},
+				"title": {
+					"name": "플젝명",
+					"type": "title"
+				}
+			},
+			"types": [
+				{
+					"id": "9ac958bf-3bfa-4aad-bcbe-973ab5561397",
+					"version": 26,
+					"type": "table",
+					"name": "",
+					"format": {
+						"table_properties": [
+							{
+								"width": 236,
+								"visible": true,
+								"property": "title"
+							},
+							{
+								"width": 100,
+								"visible": true,
+								"property": "rWC<"
+							},
+							{
+								"width": 100,
+								"visible": true,
+								"property": "Bfuy"
+							},
+							{
+								"width": 100,
+								"visible": true,
+								"property": "I}h}"
+							},
+							{
+								"width": 100,
+								"visible": true,
+								"property": "nNZ]"
+							}
+						],
+						"hide_linked_collection_name": true
+					},
+					"parent_id": "c9f17a2a-5411-4fd6-a1aa-d46c9a16e847",
+					"parent_table": "block",
+					"alive": true,
+					"page_sort": [
+						"d24d16c8-b55e-4daf-82c7-0de59a58d57a",
+						"4d679b85-7d0f-4113-8bf1-d506436966f9",
+						"48465326-782c-4042-ba33-4ce817ef2f5f",
+						"4e6030cf-cc8c-4d83-9b14-8bebdd961ae5",
+						"1dabbf6f-265e-415a-9870-246e83cc4f9c",
+						"d8fb3879-550a-44a2-a341-6cb813b83024",
+						"34d94ff2-bbe0-4b41-87c2-68b8b6e7b973",
+						"b9d4d9da-6dc2-4815-8f1b-a433ea716e1a"
+					],
+					"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				}
+			],
+			"data": [
+				{
+					"id": "d24d16c8-b55e-4daf-82c7-0de59a58d57a",
+					"from": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2020-10-01"
+									}
+								]
+							]
+						]
+					],
+					"to": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2022-09-01"
+									}
+								]
+							]
+						]
+					],
+					"실투입": [
+						[
+							"23M"
+						]
+					],
+					"플젝명": [
+						[
+							"건설사 인력 · 자산 관리 솔루션"
+						]
+					]
+				},
+				{
+					"id": "4d679b85-7d0f-4113-8bf1-d506436966f9",
+					"from": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2019-10-01"
+									}
+								]
+							]
+						]
+					],
+					"to": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2020-10-01"
+									}
+								]
+							]
+						]
+					],
+					"실투입": [
+						[
+							"12M"
+						]
+					],
+					"플젝명": [
+						[
+							"A.I. 신사업 프로젝트"
+						]
+					]
+				},
+				{
+					"id": "48465326-782c-4042-ba33-4ce817ef2f5f",
+					"from": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2015-12-01"
+									}
+								]
+							]
+						]
+					],
+					"to": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2018-03-01"
+									}
+								]
+							]
+						]
+					],
+					"실투입": [
+						[
+							"18M"
+						]
+					],
+					"플젝명": [
+						[
+							"움직이는 이모티콘 제작 SNS"
+						]
+					]
+				},
+				{
+					"id": "4e6030cf-cc8c-4d83-9b14-8bebdd961ae5",
+					"from": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2018-02-01"
+									}
+								]
+							]
+						]
+					],
+					"to": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2019-02-01"
+									}
+								]
+							]
+						]
+					],
+					"실투입": [
+						[
+							"12M"
+						]
+					],
+					"플젝명": [
+						[
+							"지역기반 커뮤니티 서비스"
+						]
+					]
+				},
+				{
+					"id": "1dabbf6f-265e-415a-9870-246e83cc4f9c",
+					"from": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2018-02-01"
+									}
+								]
+							]
+						]
+					],
+					"to": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2018-08-01"
+									}
+								]
+							]
+						]
+					],
+					"실투입": [
+						[
+							"6M"
+						]
+					],
+					"플젝명": [
+						[
+							"상가  · 사무실 중개 서비스"
+						]
+					]
+				},
+				{
+					"id": "d8fb3879-550a-44a2-a341-6cb813b83024",
+					"from": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2011-01-01"
+									}
+								]
+							]
+						]
+					],
+					"to": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2014-09-01"
+									}
+								]
+							]
+						]
+					],
+					"실투입": [
+						[
+							"44M"
+						]
+					],
+					"플젝명": [
+						[
+							"Multimedia Mirroring"
+						]
+					]
+				},
+				{
+					"id": "34d94ff2-bbe0-4b41-87c2-68b8b6e7b973",
+					"from": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2018-06-01"
+									}
+								]
+							]
+						]
+					],
+					"to": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2019-12-01"
+									}
+								]
+							]
+						]
+					],
+					"실투입": [
+						[
+							"6M"
+						]
+					],
+					"플젝명": [
+						[
+							"R&D 국가 과제"
+						]
+					]
+				},
+				{
+					"id": "b9d4d9da-6dc2-4815-8f1b-a433ea716e1a",
+					"from": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2010-08-01"
+									}
+								]
+							]
+						]
+					],
+					"to": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2022-08-01"
+									}
+								]
+							]
+						]
+					],
+					"실투입": [
+						[
+							"156M"
+						]
+					],
+					"플젝명": [
+						[
+							"기타"
+						]
+					]
+				}
+			]
+		}
+	},
+	"f7e92f33-78ff-4152-883f-531dfbe8cf9b": {
+		"role": "reader",
+		"value": {
+			"id": "f7e92f33-78ff-4152-883f-531dfbe8cf9b",
+			"version": 291,
+			"type": "page",
+			"properties": {
+				"title": [
+					[
+						"요약"
+					]
+				]
+			},
+			"content": [
+				"52e10e2a-9265-4703-93eb-4f52b66cbf44",
+				"c5df71d7-1dc5-48ae-9aa3-b32e0fcf8054",
+				"c9f17a2a-5411-4fd6-a1aa-d46c9a16e847",
+				"b53ba0b1-8d95-4f03-b9d6-e10071bfd505",
+				"b53b7955-979f-44e4-86ff-a513ff65d3e9",
+				"ff1f05c1-c09a-46a1-8b8c-8dff77f9f406",
+				"4f940a65-0e4c-47c0-8d90-4a30b47f4462",
+				"f83c4393-e46a-4933-af26-b162ca182e72",
+				"7229517e-dfa8-48c9-91e6-2f667ddbdaea",
+				"bc33ae1c-44a4-445b-8c3d-9fad70b6ee72",
+				"9f93274a-b21e-4360-9a25-5a46702934c1",
+				"79937e01-61d3-46c6-8e6b-fac2bfb8cbb7",
+				"4b15a1a6-b2d0-4918-a040-3ce5603acb32",
+				"260f73f9-0388-4c3d-be94-4fb900382638"
+			],
+			"permissions": [
+				{
+					"role": "editor",
+					"type": "user_permission",
+					"user_id": "6362623b-74f5-4e6e-b364-235fb75e31ff"
+				},
+				{
+					"role": "reader",
+					"type": "public_permission",
+					"added_timestamp": 1661325636106
+				},
+				{
+					"role": {
+						"read_content": true
+					},
+					"type": "bot_permission",
+					"bot_id": "c532588c-39b6-4c20-8e41-3ff3766d5067",
+					"parent_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63",
+					"parent_table": "space"
+				},
+				{
+					"role": {
+						"read_content": true,
+						"insert_content": true,
+						"update_content": true
+					},
+					"type": "bot_permission",
+					"bot_id": "e3131756-41ce-46b5-a6fc-827400e1204b"
+				}
+			],
+			"created_time": 1661140560000,
+			"last_edited_time": 1664370540000,
+			"parent_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63",
+			"parent_table": "space",
+			"alive": true,
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"903f6222-95fa-481b-b241-29abae0d9d14": {
+		"role": "reader",
+		"value": {
+			"id": "903f6222-95fa-481b-b241-29abae0d9d14",
+			"version": 4,
+			"type": "text",
+			"properties": {
+				"title": [
+					[
+						"소개",
+						[
+							[
+								"b"
+							]
+						]
+					]
+				]
+			},
+			"created_time": 1664369939279,
+			"last_edited_time": 1664369940000,
+			"parent_id": "4d679b85-7d0f-4113-8bf1-d506436966f9",
+			"parent_table": "block",
+			"alive": true,
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"23d61d3b-1190-45f3-bdce-f878d937ef2c": {
+		"role": "reader",
+		"value": {
+			"id": "23d61d3b-1190-45f3-bdce-f878d937ef2c",
+			"version": 12,
+			"type": "bulleted_list",
+			"properties": {
+				"title": [
+					[
+						"회사 내에 신사업 리딩"
+					]
+				]
+			},
+			"content": [
+				"ae5c3353-39b7-41ad-94bd-eeb7858a6485",
+				"8dce43d0-87d1-451e-8687-aa5f11193ef7"
+			],
+			"created_time": 1664369944288,
+			"last_edited_time": 1664369940000,
+			"parent_id": "4d679b85-7d0f-4113-8bf1-d506436966f9",
+			"parent_table": "block",
+			"alive": true,
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"ae5c3353-39b7-41ad-94bd-eeb7858a6485": {
+		"role": "reader",
+		"value": {
+			"id": "ae5c3353-39b7-41ad-94bd-eeb7858a6485",
+			"version": 8,
+			"type": "bulleted_list",
+			"properties": {
+				"title": [
+					[
+						"회사 밸류에이션 대비 기술력 확보가 필요한 상황"
+					]
+				]
+			},
+			"created_time": 1664369940000,
+			"last_edited_time": 1664369940000,
+			"parent_id": "23d61d3b-1190-45f3-bdce-f878d937ef2c",
+			"parent_table": "block",
+			"alive": true,
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"8dce43d0-87d1-451e-8687-aa5f11193ef7": {
+		"role": "reader",
+		"value": {
+			"id": "8dce43d0-87d1-451e-8687-aa5f11193ef7",
+			"version": 6,
+			"type": "bulleted_list",
+			"properties": {
+				"title": [
+					[
+						"최소한의 비용으로 신사업 검증 진행"
+					]
+				]
+			},
+			"created_time": 1664369940000,
+			"last_edited_time": 1664369940000,
+			"parent_id": "23d61d3b-1190-45f3-bdce-f878d937ef2c",
+			"parent_table": "block",
+			"alive": true,
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"859ccb7d-5be6-4d69-8c80-8f312697095d": {
+		"role": "reader",
+		"value": {
+			"id": "859ccb7d-5be6-4d69-8c80-8f312697095d",
+			"version": 14,
+			"type": "bulleted_list",
+			"properties": {
+				"title": [
+					[
+						"3가지 방향성 검토"
+					]
+				]
+			},
+			"content": [
+				"aa678618-82eb-492d-b394-2e098572a783",
+				"63b39aa0-68ee-445b-b6b4-33e4fb4ae612",
+				"e4db3f49-7fed-4ce0-a933-59f78d0553e4"
+			],
+			"created_time": 1664369940000,
+			"last_edited_time": 1664370000000,
+			"parent_id": "4d679b85-7d0f-4113-8bf1-d506436966f9",
+			"parent_table": "block",
+			"alive": true,
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"aa678618-82eb-492d-b394-2e098572a783": {
+		"role": "reader",
+		"value": {
+			"id": "aa678618-82eb-492d-b394-2e098572a783",
+			"version": 9,
+			"type": "bulleted_list",
+			"properties": {
+				"title": [
+					[
+						"자체개발 - 스터디를 통한 진행 : 머신러닝 장비 등 비용 이슈 / 머신러닝 인력 확보 이슈 / 서비스 연동 시 안정성 이슈"
+					]
+				]
+			},
+			"created_time": 1664369940000,
+			"last_edited_time": 1664370000000,
+			"parent_id": "859ccb7d-5be6-4d69-8c80-8f312697095d",
+			"parent_table": "block",
+			"alive": true,
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"63b39aa0-68ee-445b-b6b4-33e4fb4ae612": {
+		"role": "reader",
+		"value": {
+			"id": "63b39aa0-68ee-445b-b6b4-33e4fb4ae612",
+			"version": 8,
+			"type": "bulleted_list",
+			"properties": {
+				"title": [
+					[
+						"협업 - Tech 스타트업  : 학습용 데이터를 이관하는 형태로 업무 조율 - 협업 비용에 대한 이슈"
+					]
+				]
+			},
+			"created_time": 1664370000000,
+			"last_edited_time": 1664370000000,
+			"parent_id": "859ccb7d-5be6-4d69-8c80-8f312697095d",
+			"parent_table": "block",
+			"alive": true,
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"e4db3f49-7fed-4ce0-a933-59f78d0553e4": {
+		"role": "reader",
+		"value": {
+			"id": "e4db3f49-7fed-4ce0-a933-59f78d0553e4",
+			"version": 6,
+			"type": "bulleted_list",
+			"properties": {
+				"title": [
+					[
+						"솔루션 도입 - 솔루션 과금 또는 구입  : 실 서비스 적용이 가능한 안정성 확보 (단, 기술적 내재화로 볼 수 있는지 의문)"
+					]
+				]
+			},
+			"created_time": 1664370000000,
+			"last_edited_time": 1664370000000,
+			"parent_id": "859ccb7d-5be6-4d69-8c80-8f312697095d",
+			"parent_table": "block",
+			"alive": true,
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"e92df789-a3a3-4b9e-a36a-e3e1dfd380a0": {
+		"role": "reader",
+		"value": {
+			"id": "e92df789-a3a3-4b9e-a36a-e3e1dfd380a0",
+			"version": 7,
+			"type": "text",
+			"created_time": 1664370000000,
+			"last_edited_time": 1664370000000,
+			"parent_id": "4d679b85-7d0f-4113-8bf1-d506436966f9",
+			"parent_table": "block",
+			"alive": true,
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"679b388c-8a3d-4e64-b611-9522c44db03c": {
+		"role": "reader",
+		"value": {
+			"id": "679b388c-8a3d-4e64-b611-9522c44db03c",
+			"version": 4,
+			"type": "text",
+			"properties": {
+				"title": [
+					[
+						"기술 스택",
+						[
+							[
+								"b"
+							]
+						]
+					]
+				]
+			},
+			"created_time": 1664369939281,
+			"last_edited_time": 1664370000000,
+			"parent_id": "4d679b85-7d0f-4113-8bf1-d506436966f9",
+			"parent_table": "block",
+			"alive": true,
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"f3f15ab4-e5cb-4a01-a87c-e09f4b465f80": {
+		"role": "reader",
+		"value": {
+			"id": "f3f15ab4-e5cb-4a01-a87c-e09f4b465f80",
+			"version": 8,
+			"type": "bulleted_list",
+			"properties": {
+				"title": [
+					[
+						"Machine Learning : Python-Flask-Tensorflow"
+					]
+				]
+			},
+			"created_time": 1664370036764,
+			"last_edited_time": 1664370000000,
+			"parent_id": "4d679b85-7d0f-4113-8bf1-d506436966f9",
+			"parent_table": "block",
+			"alive": true,
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"bb50c1aa-8b35-414a-94c3-c46685a7b466": {
+		"role": "reader",
+		"value": {
+			"id": "bb50c1aa-8b35-414a-94c3-c46685a7b466",
+			"version": 6,
+			"type": "bulleted_list",
+			"properties": {
+				"title": [
+					[
+						"Android Dev : Kotlin :: camera-core, canvas"
+					]
+				]
+			},
+			"created_time": 1664370000000,
+			"last_edited_time": 1664370000000,
+			"parent_id": "4d679b85-7d0f-4113-8bf1-d506436966f9",
+			"parent_table": "block",
+			"alive": true,
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"1ad72d49-4439-4277-a99e-9f2db7b4cf57": {
+		"role": "reader",
+		"value": {
+			"id": "1ad72d49-4439-4277-a99e-9f2db7b4cf57",
+			"version": 4,
+			"type": "bulleted_list",
+			"properties": {
+				"title": [
+					[
+						"iOS :  swift :: core-media I/O"
+					]
+				]
+			},
+			"created_time": 1664370000000,
+			"last_edited_time": 1664370000000,
+			"parent_id": "4d679b85-7d0f-4113-8bf1-d506436966f9",
+			"parent_table": "block",
+			"alive": true,
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"6d8d4dba-6ef9-4f3a-9f13-23a7f3165998": {
+		"role": "reader",
+		"value": {
+			"id": "6d8d4dba-6ef9-4f3a-9f13-23a7f3165998",
+			"version": 5,
+			"type": "text",
+			"created_time": 1664370000000,
+			"last_edited_time": 1664370000000,
+			"parent_id": "4d679b85-7d0f-4113-8bf1-d506436966f9",
+			"parent_table": "block",
+			"alive": true,
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"6cc58f83-4dc5-49ef-aa05-dbfd9bea2d9d": {
+		"role": "reader",
+		"value": {
+			"id": "6cc58f83-4dc5-49ef-aa05-dbfd9bea2d9d",
+			"version": 4,
+			"type": "text",
+			"properties": {
+				"title": [
+					[
+						"상세 기술",
+						[
+							[
+								"b"
+							]
+						]
+					]
+				]
+			},
+			"created_time": 1664369939281,
+			"last_edited_time": 1664370060000,
+			"parent_id": "4d679b85-7d0f-4113-8bf1-d506436966f9",
+			"parent_table": "block",
+			"alive": true,
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"fe2f9ef7-bcd9-4c4f-95fe-eab1ec4e5a3a": {
+		"role": "reader",
+		"value": {
+			"id": "fe2f9ef7-bcd9-4c4f-95fe-eab1ec4e5a3a",
+			"version": 6,
+			"type": "bulleted_list",
+			"properties": {
+				"title": [
+					[
+						"K-means Clustering 컬러 검색 (자체 구현) : K-means Clustering, Centroid, Expectation-Maximization algorithm"
+					]
+				]
+			},
+			"created_time": 1664370060876,
+			"last_edited_time": 1664370060000,
+			"parent_id": "4d679b85-7d0f-4113-8bf1-d506436966f9",
+			"parent_table": "block",
+			"alive": true,
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"b0ad60ee-c2ea-4f25-86a6-87f507036bc3": {
+		"role": "reader",
+		"value": {
+			"id": "b0ad60ee-c2ea-4f25-86a6-87f507036bc3",
+			"version": 6,
+			"type": "bulleted_list",
+			"properties": {
+				"title": [
+					[
+						"Contour 유사 이미지 검색 (자체 구현) : Contour, Adaptive Thresholding"
+					]
+				]
+			},
+			"created_time": 1664370060000,
+			"last_edited_time": 1664370060000,
+			"parent_id": "4d679b85-7d0f-4113-8bf1-d506436966f9",
+			"parent_table": "block",
+			"alive": true,
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"3bab79e2-a53a-4b87-a837-1addd5d99710": {
+		"role": "reader",
+		"value": {
+			"id": "3bab79e2-a53a-4b87-a837-1addd5d99710",
+			"version": 6,
+			"type": "bulleted_list",
+			"properties": {
+				"title": [
+					[
+						"허밍을 이용한 음원 창작  (JUICE 협업) : pitch_detection restful api 연동 / mobile voice recorder"
+					]
+				]
+			},
+			"created_time": 1664370060000,
+			"last_edited_time": 1664370060000,
+			"parent_id": "4d679b85-7d0f-4113-8bf1-d506436966f9",
+			"parent_table": "block",
+			"alive": true,
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"c071937f-3bfa-4f5e-88cf-450cbd21b10b": {
+		"role": "reader",
+		"value": {
+			"id": "c071937f-3bfa-4f5e-88cf-450cbd21b10b",
+			"version": 6,
+			"type": "bulleted_list",
+			"properties": {
+				"title": [
+					[
+						"캐릭터 AR 마스크 (HYPRSENSE 협업) : hyprface sdk 연동 / iOS - native camera 연동"
+					]
+				]
+			},
+			"created_time": 1664370060000,
+			"last_edited_time": 1664370060000,
+			"parent_id": "4d679b85-7d0f-4113-8bf1-d506436966f9",
+			"parent_table": "block",
+			"alive": true,
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"5762053d-a86a-4164-9558-07d968df0602": {
+		"role": "reader",
+		"value": {
+			"id": "5762053d-a86a-4164-9558-07d968df0602",
+			"version": 6,
+			"type": "bulleted_list",
+			"properties": {
+				"title": [
+					[
+						"감성 태그 추출 (GYNetworks 협업) : object detection / multi label classification"
+					]
+				]
+			},
+			"created_time": 1664370060000,
+			"last_edited_time": 1664370060000,
+			"parent_id": "4d679b85-7d0f-4113-8bf1-d506436966f9",
+			"parent_table": "block",
+			"alive": true,
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"47cb3817-9523-4b1d-8253-f2cb4f694530": {
+		"role": "reader",
+		"value": {
+			"id": "47cb3817-9523-4b1d-8253-f2cb4f694530",
+			"version": 4,
+			"type": "bulleted_list",
+			"properties": {
+				"title": [
+					[
+						"음성 · 영상 합성 (LionRocket 협업) : 딥러닝 기반의 영상 · 음성 합성을 위한 editor 연동"
+					]
+				]
+			},
+			"created_time": 1664370060000,
+			"last_edited_time": 1664370060000,
+			"parent_id": "4d679b85-7d0f-4113-8bf1-d506436966f9",
+			"parent_table": "block",
+			"alive": true,
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"1c47d8c6-0267-4b9b-a429-9fb805334504": {
+		"role": "reader",
+		"value": {
+			"id": "1c47d8c6-0267-4b9b-a429-9fb805334504",
+			"version": 3,
+			"type": "text",
+			"created_time": 1664370240000,
+			"last_edited_time": 1664370240000,
+			"parent_id": "4d679b85-7d0f-4113-8bf1-d506436966f9",
+			"parent_table": "block",
+			"alive": true,
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"c7485c66-9f79-4451-a43c-13f5b71f250c": {
+		"role": "reader",
+		"value": {
+			"id": "c7485c66-9f79-4451-a43c-13f5b71f250c",
+			"version": 5,
+			"type": "divider",
+			"created_time": 1664370277609,
+			"last_edited_time": 1664370240000,
+			"parent_id": "4d679b85-7d0f-4113-8bf1-d506436966f9",
+			"parent_table": "block",
+			"alive": true,
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"15dd3c96-a42f-4049-8641-971f80129de4": {
+		"role": "reader",
+		"value": {
+			"id": "15dd3c96-a42f-4049-8641-971f80129de4",
+			"version": 8,
+			"type": "image",
+			"properties": {
+				"size": [
+					[
+						"425.4KB"
+					]
+				],
+				"title": [
+					[
+						"스크린샷 2022-09-28 오후 10.04.24.png"
+					]
+				],
+				"source": [
+					[
+						"https://s3-us-west-2.amazonaws.com/secure.notion-static.com/19f534b1-51bd-4b73-9f3c-c3500d32900e/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2022-09-28_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_10.04.24.png"
+					]
+				]
+			},
+			"format": {
+				"block_width": 1309,
+				"display_source": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/19f534b1-51bd-4b73-9f3c-c3500d32900e/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2022-09-28_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_10.04.24.png",
+				"block_full_width": false,
+				"block_page_width": true,
+				"block_aspect_ratio": 0.4744079449961803,
+				"block_preserve_scale": true
+			},
+			"created_time": 1664370240000,
+			"last_edited_time": 1664370240000,
+			"parent_id": "4d679b85-7d0f-4113-8bf1-d506436966f9",
+			"parent_table": "block",
+			"alive": true,
+			"file_ids": [
+				"19f534b1-51bd-4b73-9f3c-c3500d32900e"
+			],
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"185adbd4-ce3c-41c0-b67c-22edebbc0aeb": {
+		"role": "reader",
+		"value": {
+			"id": "185adbd4-ce3c-41c0-b67c-22edebbc0aeb",
+			"version": 9,
+			"type": "image",
+			"properties": {
+				"size": [
+					[
+						"540.3KB"
+					]
+				],
+				"title": [
+					[
+						"스크린샷 2022-09-28 오후 10.05.41.png"
+					]
+				],
+				"source": [
+					[
+						"https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0f81ac75-f994-4677-98a8-5a3a4bcafede/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2022-09-28_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_10.05.41.png"
+					]
+				]
+			},
+			"format": {
+				"block_width": 1306,
+				"display_source": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0f81ac75-f994-4677-98a8-5a3a4bcafede/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2022-09-28_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_10.05.41.png",
+				"block_full_width": false,
+				"block_page_width": true,
+				"block_aspect_ratio": 0.27947932618683,
+				"block_preserve_scale": true
+			},
+			"created_time": 1664370300000,
+			"last_edited_time": 1664370300000,
+			"parent_id": "4d679b85-7d0f-4113-8bf1-d506436966f9",
+			"parent_table": "block",
+			"alive": true,
+			"file_ids": [
+				"0f81ac75-f994-4677-98a8-5a3a4bcafede"
+			],
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"c5a23737-34d6-44bc-868d-66a451622367": {
+		"role": "reader",
+		"value": {
+			"id": "c5a23737-34d6-44bc-868d-66a451622367",
+			"version": 3,
+			"type": "text",
+			"created_time": 1664370300000,
+			"last_edited_time": 1664370300000,
+			"parent_id": "4d679b85-7d0f-4113-8bf1-d506436966f9",
+			"parent_table": "block",
+			"alive": true,
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	}
+}

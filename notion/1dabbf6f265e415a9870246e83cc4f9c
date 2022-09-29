@@ -1,0 +1,1054 @@
+{
+	"1dabbf6f-265e-415a-9870-246e83cc4f9c": {
+		"role": "reader",
+		"value": {
+			"id": "1dabbf6f-265e-415a-9870-246e83cc4f9c",
+			"version": 126,
+			"type": "page",
+			"properties": {
+				"I}h}": [
+					[
+						"‣",
+						[
+							[
+								"d",
+								{
+									"type": "date",
+									"start_date": "2018-02-01"
+								}
+							]
+						]
+					]
+				],
+				"L{@;": [
+					[
+						"store · office agency platform  of based on map (Zigbang M&A)"
+					]
+				],
+				"M1wI": [
+					[
+						"‣",
+						[
+							[
+								"p",
+								"5d3622ed-3736-4af0-a126-37c3503931a0",
+								"e31efbed-6b94-433c-b384-c6e0981d0789"
+							]
+						]
+					]
+				],
+				"\\n}a": [
+					[
+						"AOS",
+						[
+							[
+								"c"
+							],
+							[
+								"h",
+								"orange"
+							]
+						]
+					]
+				],
+				"mYuL": [
+					[
+						"‣",
+						[
+							[
+								"p",
+								"1371eb23-c4f2-48fe-8444-d7ead3caed99",
+								"c6c62feb-1540-4467-b79b-50a3d5a76a63"
+							]
+						]
+					]
+				],
+				"nNZ]": [
+					[
+						"‣",
+						[
+							[
+								"d",
+								{
+									"type": "date",
+									"start_date": "2018-08-01"
+								}
+							]
+						]
+					]
+				],
+				"rWC<": [
+					[
+						"6M"
+					]
+				],
+				"~_wy": [
+					[
+						"... 상세 업무 더보기",
+						[
+							[
+								"h",
+								"gray"
+							]
+						]
+					]
+				],
+				"title": [
+					[
+						"상가  · 사무실 중개 서비스"
+					]
+				],
+				"97a98a2a-1275-4ef3-b4f6-9e1302d9c2b7": [
+					[
+						"AOS"
+					]
+				],
+				"9d3b2561-c3f7-4cc4-b4d9-0b0af98eb146": [
+					[
+						"상세링크",
+						[
+							[
+								"h",
+								"blue"
+							],
+							[
+								"a",
+								"https://www.notion.so/Portfolio-999d59ef28274dc296f403cd606d8f8a?p=b74221088fc54db2beb040224cf7425b"
+							]
+						]
+					]
+				]
+			},
+			"content": [
+				"a255e55f-0a19-4437-873a-34fa4bcdbc02",
+				"4cdbe3f5-935a-41ba-85c0-0b14020a30ae",
+				"8cebfa85-ba2f-44de-bc76-132f1529b171",
+				"2b5ed1f8-c3d8-44e9-bc35-48c93dd49d43",
+				"932f36a0-74f5-4e95-92ad-4b8094fe8b31",
+				"22b6427a-b19e-497c-be5b-14534e3d0a8e",
+				"11b55bb6-285e-465d-9f14-7fbbae3b1dcc",
+				"7cad2a67-10dc-4476-b649-10efcc1c704a",
+				"e25eff0e-ead9-45f0-9005-f4e2c88bda7e"
+			],
+			"format": {
+				"page_icon": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/82d31640-c7dc-4cb3-961b-178b55a2136d/Untitled-7.png",
+				"copied_from_pointer": {
+					"id": "be7ce611-d536-44f4-a1dc-d897821b3201",
+					"table": "block",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				}
+			},
+			"created_time": 1661148383931,
+			"last_edited_time": 1664381580000,
+			"parent_id": "d9152762-7dc3-4b60-b095-6888d17b5e34",
+			"parent_table": "collection",
+			"alive": true,
+			"copied_from": "be7ce611-d536-44f4-a1dc-d897821b3201",
+			"file_ids": [
+				"82d31640-c7dc-4cb3-961b-178b55a2136d"
+			],
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"c9f17a2a-5411-4fd6-a1aa-d46c9a16e847": {
+		"role": "reader",
+		"value": {
+			"id": "c9f17a2a-5411-4fd6-a1aa-d46c9a16e847",
+			"version": 103,
+			"type": "collection_view",
+			"view_ids": [
+				"9ac958bf-3bfa-4aad-bcbe-973ab5561397"
+			],
+			"collection_id": "d9152762-7dc3-4b60-b095-6888d17b5e34",
+			"format": {
+				"collection_pointer": {
+					"id": "d9152762-7dc3-4b60-b095-6888d17b5e34",
+					"table": "collection",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				},
+				"copied_from_pointer": {
+					"id": "bc90b5ec-4e33-43a8-be02-cf3c2237fed0",
+					"table": "block",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				}
+			},
+			"created_time": 1661148383940,
+			"last_edited_time": 1664183760000,
+			"parent_id": "f7e92f33-78ff-4152-883f-531dfbe8cf9b",
+			"parent_table": "block",
+			"alive": true,
+			"copied_from": "bc90b5ec-4e33-43a8-be02-cf3c2237fed0",
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		},
+		"collection": {
+			"title": [
+				[
+					"Project"
+				]
+			],
+			"schema": {
+				"Bfuy": {
+					"name": "기간",
+					"type": "formula",
+					"formula": {
+						"args": [
+							{
+								"args": [
+									{
+										"args": [
+											{
+												"id": "nNZ]",
+												"name": "to",
+												"type": "property",
+												"result_type": "date"
+											},
+											{
+												"id": "I}h}",
+												"name": "from",
+												"type": "property",
+												"result_type": "date"
+											},
+											{
+												"type": "constant",
+												"value": "months",
+												"value_type": "string",
+												"result_type": "text"
+											}
+										],
+										"name": "dateBetween",
+										"type": "function",
+										"result_type": "number"
+									}
+								],
+								"name": "format",
+								"type": "function",
+								"result_type": "text"
+							},
+							{
+								"type": "constant",
+								"value": "M",
+								"value_type": "string",
+								"result_type": "text"
+							}
+						],
+						"name": "concat",
+						"type": "function",
+						"result_type": "text"
+					}
+				},
+				"I}h}": {
+					"name": "from",
+					"type": "date",
+					"date_format": "YYYY/MM/DD"
+				},
+				"nNZ]": {
+					"name": "to",
+					"type": "date",
+					"date_format": "YYYY/MM/DD"
+				},
+				"rWC<": {
+					"name": "실투입",
+					"type": "text"
+				},
+				"title": {
+					"name": "플젝명",
+					"type": "title"
+				}
+			},
+			"types": [
+				{
+					"id": "9ac958bf-3bfa-4aad-bcbe-973ab5561397",
+					"version": 26,
+					"type": "table",
+					"name": "",
+					"format": {
+						"table_properties": [
+							{
+								"width": 236,
+								"visible": true,
+								"property": "title"
+							},
+							{
+								"width": 100,
+								"visible": true,
+								"property": "rWC<"
+							},
+							{
+								"width": 100,
+								"visible": true,
+								"property": "Bfuy"
+							},
+							{
+								"width": 100,
+								"visible": true,
+								"property": "I}h}"
+							},
+							{
+								"width": 100,
+								"visible": true,
+								"property": "nNZ]"
+							}
+						],
+						"hide_linked_collection_name": true
+					},
+					"parent_id": "c9f17a2a-5411-4fd6-a1aa-d46c9a16e847",
+					"parent_table": "block",
+					"alive": true,
+					"page_sort": [
+						"d24d16c8-b55e-4daf-82c7-0de59a58d57a",
+						"4d679b85-7d0f-4113-8bf1-d506436966f9",
+						"48465326-782c-4042-ba33-4ce817ef2f5f",
+						"4e6030cf-cc8c-4d83-9b14-8bebdd961ae5",
+						"1dabbf6f-265e-415a-9870-246e83cc4f9c",
+						"d8fb3879-550a-44a2-a341-6cb813b83024",
+						"34d94ff2-bbe0-4b41-87c2-68b8b6e7b973",
+						"b9d4d9da-6dc2-4815-8f1b-a433ea716e1a"
+					],
+					"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				}
+			],
+			"data": [
+				{
+					"id": "d24d16c8-b55e-4daf-82c7-0de59a58d57a",
+					"from": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2020-10-01"
+									}
+								]
+							]
+						]
+					],
+					"to": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2022-09-01"
+									}
+								]
+							]
+						]
+					],
+					"실투입": [
+						[
+							"23M"
+						]
+					],
+					"플젝명": [
+						[
+							"건설사 인력 · 자산 관리 솔루션"
+						]
+					]
+				},
+				{
+					"id": "4d679b85-7d0f-4113-8bf1-d506436966f9",
+					"from": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2019-10-01"
+									}
+								]
+							]
+						]
+					],
+					"to": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2020-10-01"
+									}
+								]
+							]
+						]
+					],
+					"실투입": [
+						[
+							"12M"
+						]
+					],
+					"플젝명": [
+						[
+							"A.I. 신사업 프로젝트"
+						]
+					]
+				},
+				{
+					"id": "48465326-782c-4042-ba33-4ce817ef2f5f",
+					"from": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2015-12-01"
+									}
+								]
+							]
+						]
+					],
+					"to": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2018-03-01"
+									}
+								]
+							]
+						]
+					],
+					"실투입": [
+						[
+							"18M"
+						]
+					],
+					"플젝명": [
+						[
+							"움직이는 이모티콘 제작 SNS"
+						]
+					]
+				},
+				{
+					"id": "4e6030cf-cc8c-4d83-9b14-8bebdd961ae5",
+					"from": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2018-02-01"
+									}
+								]
+							]
+						]
+					],
+					"to": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2019-02-01"
+									}
+								]
+							]
+						]
+					],
+					"실투입": [
+						[
+							"12M"
+						]
+					],
+					"플젝명": [
+						[
+							"지역기반 커뮤니티 서비스"
+						]
+					]
+				},
+				{
+					"id": "1dabbf6f-265e-415a-9870-246e83cc4f9c",
+					"from": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2018-02-01"
+									}
+								]
+							]
+						]
+					],
+					"to": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2018-08-01"
+									}
+								]
+							]
+						]
+					],
+					"실투입": [
+						[
+							"6M"
+						]
+					],
+					"플젝명": [
+						[
+							"상가  · 사무실 중개 서비스"
+						]
+					]
+				},
+				{
+					"id": "d8fb3879-550a-44a2-a341-6cb813b83024",
+					"from": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2011-01-01"
+									}
+								]
+							]
+						]
+					],
+					"to": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2014-09-01"
+									}
+								]
+							]
+						]
+					],
+					"실투입": [
+						[
+							"44M"
+						]
+					],
+					"플젝명": [
+						[
+							"Multimedia Mirroring"
+						]
+					]
+				},
+				{
+					"id": "34d94ff2-bbe0-4b41-87c2-68b8b6e7b973",
+					"from": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2018-06-01"
+									}
+								]
+							]
+						]
+					],
+					"to": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2019-12-01"
+									}
+								]
+							]
+						]
+					],
+					"실투입": [
+						[
+							"6M"
+						]
+					],
+					"플젝명": [
+						[
+							"R&D 국가 과제"
+						]
+					]
+				},
+				{
+					"id": "b9d4d9da-6dc2-4815-8f1b-a433ea716e1a",
+					"from": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2010-08-01"
+									}
+								]
+							]
+						]
+					],
+					"to": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2022-08-01"
+									}
+								]
+							]
+						]
+					],
+					"실투입": [
+						[
+							"156M"
+						]
+					],
+					"플젝명": [
+						[
+							"기타"
+						]
+					]
+				}
+			]
+		}
+	},
+	"f7e92f33-78ff-4152-883f-531dfbe8cf9b": {
+		"role": "reader",
+		"value": {
+			"id": "f7e92f33-78ff-4152-883f-531dfbe8cf9b",
+			"version": 291,
+			"type": "page",
+			"properties": {
+				"title": [
+					[
+						"요약"
+					]
+				]
+			},
+			"content": [
+				"52e10e2a-9265-4703-93eb-4f52b66cbf44",
+				"c5df71d7-1dc5-48ae-9aa3-b32e0fcf8054",
+				"c9f17a2a-5411-4fd6-a1aa-d46c9a16e847",
+				"b53ba0b1-8d95-4f03-b9d6-e10071bfd505",
+				"b53b7955-979f-44e4-86ff-a513ff65d3e9",
+				"ff1f05c1-c09a-46a1-8b8c-8dff77f9f406",
+				"4f940a65-0e4c-47c0-8d90-4a30b47f4462",
+				"f83c4393-e46a-4933-af26-b162ca182e72",
+				"7229517e-dfa8-48c9-91e6-2f667ddbdaea",
+				"bc33ae1c-44a4-445b-8c3d-9fad70b6ee72",
+				"9f93274a-b21e-4360-9a25-5a46702934c1",
+				"79937e01-61d3-46c6-8e6b-fac2bfb8cbb7",
+				"4b15a1a6-b2d0-4918-a040-3ce5603acb32",
+				"260f73f9-0388-4c3d-be94-4fb900382638"
+			],
+			"permissions": [
+				{
+					"role": "editor",
+					"type": "user_permission",
+					"user_id": "6362623b-74f5-4e6e-b364-235fb75e31ff"
+				},
+				{
+					"role": "reader",
+					"type": "public_permission",
+					"added_timestamp": 1661325636106
+				},
+				{
+					"role": {
+						"read_content": true
+					},
+					"type": "bot_permission",
+					"bot_id": "c532588c-39b6-4c20-8e41-3ff3766d5067",
+					"parent_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63",
+					"parent_table": "space"
+				},
+				{
+					"role": {
+						"read_content": true,
+						"insert_content": true,
+						"update_content": true
+					},
+					"type": "bot_permission",
+					"bot_id": "e3131756-41ce-46b5-a6fc-827400e1204b"
+				}
+			],
+			"created_time": 1661140560000,
+			"last_edited_time": 1664370540000,
+			"parent_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63",
+			"parent_table": "space",
+			"alive": true,
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"a255e55f-0a19-4437-873a-34fa4bcdbc02": {
+		"role": "reader",
+		"value": {
+			"id": "a255e55f-0a19-4437-873a-34fa4bcdbc02",
+			"version": 16,
+			"type": "text",
+			"properties": {
+				"title": [
+					[
+						"상업용"
+					],
+					[
+						" ",
+						[
+							[
+								"b"
+							]
+						]
+					],
+					[
+						"부동산"
+					],
+					[
+						" ",
+						[
+							[
+								"b"
+							]
+						]
+					],
+					[
+						"플랫폼"
+					],
+					[
+						" – NEMO ",
+						[
+							[
+								"b"
+							]
+						]
+					],
+					[
+						"개발"
+					],
+					[
+						" ",
+						[
+							[
+								"b"
+							]
+						]
+					]
+				]
+			},
+			"format": {
+				"copied_from_pointer": {
+					"id": "87b08ec6-567f-4d82-9bcb-acd34e66cc64",
+					"table": "block",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				}
+			},
+			"created_time": 1661148383937,
+			"last_edited_time": 1664381580000,
+			"parent_id": "1dabbf6f-265e-415a-9870-246e83cc4f9c",
+			"parent_table": "block",
+			"alive": true,
+			"copied_from": "87b08ec6-567f-4d82-9bcb-acd34e66cc64",
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"4cdbe3f5-935a-41ba-85c0-0b14020a30ae": {
+		"role": "reader",
+		"value": {
+			"id": "4cdbe3f5-935a-41ba-85c0-0b14020a30ae",
+			"version": 3,
+			"type": "text",
+			"properties": {
+				"title": [
+					[
+						"",
+						[
+							[
+								"b"
+							]
+						]
+					]
+				]
+			},
+			"format": {
+				"copied_from_pointer": {
+					"id": "20b6b3ae-e291-45eb-a98e-b4dd4380f80a",
+					"table": "block",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				}
+			},
+			"created_time": 1661148383937,
+			"last_edited_time": 1662088440000,
+			"parent_id": "1dabbf6f-265e-415a-9870-246e83cc4f9c",
+			"parent_table": "block",
+			"alive": true,
+			"copied_from": "20b6b3ae-e291-45eb-a98e-b4dd4380f80a",
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"8cebfa85-ba2f-44de-bc76-132f1529b171": {
+		"role": "reader",
+		"value": {
+			"id": "8cebfa85-ba2f-44de-bc76-132f1529b171",
+			"version": 5,
+			"type": "bulleted_list",
+			"properties": {
+				"title": [
+					[
+						"개발환경"
+					],
+					[
+						": ",
+						[
+							[
+								"b"
+							]
+						]
+					],
+					[
+						"Android(Java) / Java Spring Framework"
+					]
+				]
+			},
+			"created_time": 1662088495942,
+			"last_edited_time": 1662088500000,
+			"parent_id": "1dabbf6f-265e-415a-9870-246e83cc4f9c",
+			"parent_table": "block",
+			"alive": true,
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"2b5ed1f8-c3d8-44e9-bc35-48c93dd49d43": {
+		"role": "reader",
+		"value": {
+			"id": "2b5ed1f8-c3d8-44e9-bc35-48c93dd49d43",
+			"version": 1,
+			"type": "bulleted_list",
+			"properties": {
+				"title": [
+					[
+						"Naver Map 기반의 Clustering LBS 개발 (200억규모의 직방에 M&A)"
+					]
+				]
+			},
+			"format": {
+				"copied_from_pointer": {
+					"id": "a5d8b5b1-5b9c-4f1e-bf97-28117d35a76a",
+					"table": "block",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				}
+			},
+			"created_time": 1661148383937,
+			"last_edited_time": 1661148383937,
+			"parent_id": "1dabbf6f-265e-415a-9870-246e83cc4f9c",
+			"parent_table": "block",
+			"alive": true,
+			"copied_from": "a5d8b5b1-5b9c-4f1e-bf97-28117d35a76a",
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"932f36a0-74f5-4e95-92ad-4b8094fe8b31": {
+		"role": "reader",
+		"value": {
+			"id": "932f36a0-74f5-4e95-92ad-4b8094fe8b31",
+			"version": 1,
+			"type": "bulleted_list",
+			"properties": {
+				"title": [
+					[
+						"상가/사무실 등 다양한 오피스 매물정보 제공"
+					]
+				]
+			},
+			"format": {
+				"copied_from_pointer": {
+					"id": "e6a8ade5-8f1e-47e0-82a0-8f7b5d0548bb",
+					"table": "block",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				}
+			},
+			"created_time": 1661148383937,
+			"last_edited_time": 1661148383937,
+			"parent_id": "1dabbf6f-265e-415a-9870-246e83cc4f9c",
+			"parent_table": "block",
+			"alive": true,
+			"copied_from": "e6a8ade5-8f1e-47e0-82a0-8f7b5d0548bb",
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"22b6427a-b19e-497c-be5b-14534e3d0a8e": {
+		"role": "reader",
+		"value": {
+			"id": "22b6427a-b19e-497c-be5b-14534e3d0a8e",
+			"version": 30,
+			"type": "bulleted_list",
+			"properties": {
+				"title": [
+					[
+						"다방 창업자 협업"
+					]
+				]
+			},
+			"created_time": 1662088500000,
+			"last_edited_time": 1662088500000,
+			"parent_id": "1dabbf6f-265e-415a-9870-246e83cc4f9c",
+			"parent_table": "block",
+			"alive": true,
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"11b55bb6-285e-465d-9f14-7fbbae3b1dcc": {
+		"role": "reader",
+		"value": {
+			"id": "11b55bb6-285e-465d-9f14-7fbbae3b1dcc",
+			"version": 6,
+			"type": "text",
+			"format": {
+				"copied_from_pointer": {
+					"id": "ce96781c-95c4-461a-b447-65f6a2a5a493",
+					"table": "block",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				}
+			},
+			"created_time": 1661148383937,
+			"last_edited_time": 1662088500000,
+			"parent_id": "1dabbf6f-265e-415a-9870-246e83cc4f9c",
+			"parent_table": "block",
+			"alive": true,
+			"copied_from": "ce96781c-95c4-461a-b447-65f6a2a5a493",
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"7cad2a67-10dc-4476-b649-10efcc1c704a": {
+		"role": "reader",
+		"value": {
+			"id": "7cad2a67-10dc-4476-b649-10efcc1c704a",
+			"version": 1,
+			"type": "image",
+			"properties": {
+				"source": [
+					[
+						"https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5703a0c4-eef7-46fb-bba6-39741111e916/Untitled.png"
+					]
+				]
+			},
+			"format": {
+				"block_width": 711,
+				"display_source": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5703a0c4-eef7-46fb-bba6-39741111e916/Untitled.png",
+				"block_full_width": false,
+				"block_page_width": true,
+				"block_aspect_ratio": 0.6047819971870605,
+				"copied_from_pointer": {
+					"id": "f5c25063-0ea3-47c8-b221-42588664b359",
+					"table": "block",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				},
+				"block_preserve_scale": true
+			},
+			"created_time": 1661148383938,
+			"last_edited_time": 1661148383938,
+			"parent_id": "1dabbf6f-265e-415a-9870-246e83cc4f9c",
+			"parent_table": "block",
+			"alive": true,
+			"copied_from": "f5c25063-0ea3-47c8-b221-42588664b359",
+			"file_ids": [
+				"5703a0c4-eef7-46fb-bba6-39741111e916"
+			],
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"e25eff0e-ead9-45f0-9005-f4e2c88bda7e": {
+		"role": "reader",
+		"value": {
+			"id": "e25eff0e-ead9-45f0-9005-f4e2c88bda7e",
+			"version": 1,
+			"type": "text",
+			"format": {
+				"copied_from_pointer": {
+					"id": "b848c63b-f7a6-44e8-a009-b061c6d17483",
+					"table": "block",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				}
+			},
+			"created_time": 1661148383937,
+			"last_edited_time": 1661148383937,
+			"parent_id": "1dabbf6f-265e-415a-9870-246e83cc4f9c",
+			"parent_table": "block",
+			"alive": true,
+			"copied_from": "b848c63b-f7a6-44e8-a009-b061c6d17483",
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	}
+}

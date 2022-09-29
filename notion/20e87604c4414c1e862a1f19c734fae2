@@ -1,9 +1,9 @@
 {
-	"a63ce67d-384a-41e8-8bba-9c3655606182": {
+	"20e87604-c441-4c1e-862a-1f19c734fae2": {
 		"role": "reader",
 		"value": {
-			"id": "a63ce67d-384a-41e8-8bba-9c3655606182",
-			"version": 163,
+			"id": "20e87604-c441-4c1e-862a-1f19c734fae2",
+			"version": 244,
 			"type": "page",
 			"properties": {
 				"%bzi": [
@@ -14,8 +14,46 @@
 								"d",
 								{
 									"type": "date",
-									"start_date": "2020-11-01"
+									"start_date": "2014-09-01"
 								}
+							]
+						]
+					]
+				],
+				"-Kva": [
+					[
+						"‣",
+						[
+							[
+								"p",
+								"c32d000e-a609-46de-ad58-a8357b8b1a2e",
+								"c6c62feb-1540-4467-b79b-50a3d5a76a63"
+							]
+						]
+					],
+					[
+						","
+					],
+					[
+						"‣",
+						[
+							[
+								"p",
+								"6abdcb37-d12a-498a-8b08-294a34b0e2c9",
+								"c6c62feb-1540-4467-b79b-50a3d5a76a63"
+							]
+						]
+					],
+					[
+						","
+					],
+					[
+						"‣",
+						[
+							[
+								"p",
+								"0c7f7283-4599-4fe2-841b-5b228f36325e",
+								"c6c62feb-1540-4467-b79b-50a3d5a76a63"
 							]
 						]
 					]
@@ -26,7 +64,7 @@
 						[
 							[
 								"p",
-								"d5cd199f-e739-447b-991a-de06f40ff078",
+								"1606bb14-6f13-4ce1-af46-406945ab2163",
 								"e31efbed-6b94-433c-b384-c6e0981d0789"
 							]
 						]
@@ -39,7 +77,7 @@
 						[
 							[
 								"p",
-								"8c7845b3-cf45-4e8d-b518-a6b7be560993",
+								"d056b874-60b7-4df8-b27a-a09b3f9bac59",
 								"e31efbed-6b94-433c-b384-c6e0981d0789"
 							]
 						]
@@ -52,7 +90,33 @@
 						[
 							[
 								"p",
-								"9c205d84-e95f-4011-9c92-47319b75c246",
+								"4ed1964c-0f39-4bf2-804e-cb9890530dc5",
+								"e31efbed-6b94-433c-b384-c6e0981d0789"
+							]
+						]
+					],
+					[
+						","
+					],
+					[
+						"‣",
+						[
+							[
+								"p",
+								"93c138c3-8361-42c0-8311-cc7da707e3a5",
+								"e31efbed-6b94-433c-b384-c6e0981d0789"
+							]
+						]
+					],
+					[
+						","
+					],
+					[
+						"‣",
+						[
+							[
+								"p",
+								"519cf2ea-d220-494c-a02e-14da9a7497ac",
 								"e31efbed-6b94-433c-b384-c6e0981d0789"
 							]
 						]
@@ -68,7 +132,7 @@
 							],
 							[
 								"a",
-								"https://www.notion.so/Portfolio-999d59ef28274dc296f403cd606d8f8a?p=9958fca70d7b4da4babe6f49eed528d9"
+								"https://www.notion.so/Portfolio-999d59ef28274dc296f403cd606d8f8a?p=138348fd71de4c1c9d6a23d46a72dcc8"
 							]
 						]
 					]
@@ -81,7 +145,7 @@
 								"d",
 								{
 									"type": "date",
-									"start_date": "2022-09-01"
+									"start_date": "2019-08-31"
 								}
 							]
 						]
@@ -93,7 +157,7 @@
 						[
 							[
 								"p",
-								"141e177f-212a-4927-834e-b9acff853ab1",
+								"055ad60f-2b4c-4397-a151-80294a399c24",
 								"5e1b3ceb-735a-46d1-9323-4d3f552017e4"
 							]
 						]
@@ -106,7 +170,7 @@
 						[
 							[
 								"p",
-								"1f0de4dc-afc1-4f99-a8f7-e3823a9bfa1c",
+								"1880c088-bb15-4265-bc1e-dd7e4c668c90",
 								"5e1b3ceb-735a-46d1-9323-4d3f552017e4"
 							]
 						]
@@ -119,7 +183,33 @@
 						[
 							[
 								"p",
-								"3b92882f-aae4-46c1-9c72-eab9a051e0ce",
+								"1a8e27ec-49f6-4fe5-802c-c8b9af0b8fff",
+								"5e1b3ceb-735a-46d1-9323-4d3f552017e4"
+							]
+						]
+					],
+					[
+						","
+					],
+					[
+						"‣",
+						[
+							[
+								"p",
+								"a346d600-d3fb-4041-afc3-b08a7de5fc07",
+								"5e1b3ceb-735a-46d1-9323-4d3f552017e4"
+							]
+						]
+					],
+					[
+						","
+					],
+					[
+						"‣",
+						[
+							[
+								"p",
+								"ed297573-d0fa-497a-8606-0ca8acdd412d",
 								"5e1b3ceb-735a-46d1-9323-4d3f552017e4"
 							]
 						]
@@ -127,17 +217,17 @@
 				],
 				"WE_D": [
 					[
-						"now"
+						"2019-08"
 					]
 				],
 				"Zecu": [
 					[
-						"총괄"
+						"총괄 (M&A Exit)"
 					]
 				],
 				"nJq$": [
 					[
-						"CTO"
+						"대표"
 					]
 				],
 				"nmT~": [
@@ -148,7 +238,7 @@
 								"d",
 								{
 									"type": "date",
-									"start_date": "2019-11-01"
+									"start_date": "2020-03-01"
 								}
 							]
 						]
@@ -160,20 +250,7 @@
 						[
 							[
 								"p",
-								"b88a2f7e-82e2-4b1a-887c-d7ddd20ff544",
-								"5e1b3ceb-735a-46d1-9323-4d3f552017e4"
-							]
-						]
-					],
-					[
-						","
-					],
-					[
-						"‣",
-						[
-							[
-								"p",
-								"d13c24fb-75ac-4ecb-b04a-124ca48df905",
+								"d3b8359d-4a7d-4076-8100-9d818b8c36a6",
 								"c6c62feb-1540-4467-b79b-50a3d5a76a63"
 							]
 						]
@@ -186,7 +263,46 @@
 						[
 							[
 								"p",
-								"4890f81d-8726-45c2-b47a-42fcec04257c",
+								"5a81820a-713e-4e38-a0ff-855921786d27",
+								"c6c62feb-1540-4467-b79b-50a3d5a76a63"
+							]
+						]
+					],
+					[
+						","
+					],
+					[
+						"‣",
+						[
+							[
+								"p",
+								"334fcdf4-521f-434f-9bfa-7e49930381b3",
+								"c6c62feb-1540-4467-b79b-50a3d5a76a63"
+							]
+						]
+					],
+					[
+						","
+					],
+					[
+						"‣",
+						[
+							[
+								"p",
+								"8d65e4da-339b-4a3e-9e62-51c9f62858f0",
+								"c6c62feb-1540-4467-b79b-50a3d5a76a63"
+							]
+						]
+					],
+					[
+						","
+					],
+					[
+						"‣",
+						[
+							[
+								"p",
+								"9a7aef50-5ebb-4ba7-9d62-a085b8b0e200",
 								"c6c62feb-1540-4467-b79b-50a3d5a76a63"
 							]
 						]
@@ -194,48 +310,52 @@
 				],
 				"sXGR": [
 					[
-						"2020-11"
+						"2014-09"
 					]
 				],
 				"~`zq": [
 					[
-						"140648"
+						"142213"
 					]
 				],
 				"title": [
 					[
-						"Buildprop"
+						"ListenSoft"
 					]
 				]
 			},
 			"content": [
-				"e51b94b5-25c0-4fda-90da-03c5468f9cae",
-				"e841694f-e453-491a-8af1-89223b62277e",
-				"cb57e687-9a5e-4941-9430-92b0cc2e9c11",
-				"d01a3561-bd8a-4ea1-a621-8ffb828520aa",
-				"1edf6c5d-53e0-4f63-9181-0bfb5c5b639b",
-				"4908fa8f-d0be-4e93-8c2b-cb18dd641ca8",
-				"50df60c3-b4a3-4de0-bb7e-f0222e138d5c",
-				"07a3f8d6-538d-48b8-9943-28405a1f0572"
+				"7e089305-e47f-4d0a-859f-f23f839b0d66",
+				"0783d287-ec00-4625-8f55-ef104dc9d475",
+				"1272579a-5d66-4fec-aed2-1e24c4fae0b4",
+				"bb24e8e1-a83a-4ef7-a7e9-39664d52252c",
+				"3c3478f3-dfc8-4023-a052-7104ccfc7236",
+				"5f36fd06-a16a-493b-a3c9-ea6f2e8a11c2",
+				"334797ad-4b60-4ca8-89c5-03abbc2ef21f",
+				"fdb9216f-f3fe-4a4e-881b-6e2532b58ebf",
+				"f6cc818a-de35-4ca0-836c-f571698bd977",
+				"2340a56b-af1b-489c-abe6-3cbf874e9445",
+				"7e357d83-839c-400d-a01d-e7814ce86173",
+				"ac2f8da6-fe36-4c10-86d7-2658f1002cc0"
 			],
 			"format": {
-				"page_icon": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bf330b22-1c95-414f-9941-d7a89ea6f01d/Untitled-3.png",
+				"page_icon": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/40acb008-95a3-4156-a383-52ffce0d66f0/_-3.png",
 				"copied_from_pointer": {
-					"id": "9b7cc611-8f88-4858-b2d2-1b1e4327450c",
+					"id": "ef1eefc2-eda0-4105-a040-2ae8824d8160",
 					"table": "block",
 					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
 				},
 				"page_cover_position": 0.5
 			},
-			"created_time": 1661149849285,
-			"last_edited_time": 1664352600000,
+			"created_time": 1661149849287,
+			"last_edited_time": 1664353680000,
 			"parent_id": "1e5ed671-c398-4141-b6f1-3a2591f0f028",
 			"parent_table": "collection",
 			"alive": true,
-			"copied_from": "9b7cc611-8f88-4858-b2d2-1b1e4327450c",
+			"copied_from": "ef1eefc2-eda0-4105-a040-2ae8824d8160",
 			"file_ids": [
-				"b1ae7e63-9769-42d0-aa6d-4e5a0b442f4b",
-				"bf330b22-1c95-414f-9941-d7a89ea6f01d"
+				"40acb008-95a3-4156-a383-52ffce0d66f0",
+				"abb4e7c9-592d-4e3a-86d6-d7c688e5706a"
 			],
 			"created_by_table": "notion_user",
 			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
@@ -786,24 +906,32 @@
 			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
 		}
 	},
-	"e51b94b5-25c0-4fda-90da-03c5468f9cae": {
+	"7e089305-e47f-4d0a-859f-f23f839b0d66": {
 		"role": "reader",
 		"value": {
-			"id": "e51b94b5-25c0-4fda-90da-03c5468f9cae",
-			"version": 24,
+			"id": "7e089305-e47f-4d0a-859f-f23f839b0d66",
+			"version": 7,
 			"type": "bulleted_list",
 			"properties": {
 				"title": [
 					[
-						"Contech 기업 (construction + Tech)"
+						"콘텐츠 스타트업 :: 움직이는 이모티콘 제작 SNS "
 					]
 				]
 			},
-			"created_time": 1664299920000,
-			"last_edited_time": 1664352600000,
-			"parent_id": "a63ce67d-384a-41e8-8bba-9c3655606182",
+			"format": {
+				"copied_from_pointer": {
+					"id": "e51b94b5-25c0-4fda-90da-03c5468f9cae",
+					"table": "block",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				}
+			},
+			"created_time": 1664352937325,
+			"last_edited_time": 1664352900000,
+			"parent_id": "20e87604-c441-4c1e-862a-1f19c734fae2",
 			"parent_table": "block",
 			"alive": true,
+			"copied_from": "e51b94b5-25c0-4fda-90da-03c5468f9cae",
 			"created_by_table": "notion_user",
 			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
 			"last_edited_by_table": "notion_user",
@@ -811,24 +939,32 @@
 			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
 		}
 	},
-	"e841694f-e453-491a-8af1-89223b62277e": {
+	"0783d287-ec00-4625-8f55-ef104dc9d475": {
 		"role": "reader",
 		"value": {
-			"id": "e841694f-e453-491a-8af1-89223b62277e",
-			"version": 16,
+			"id": "0783d287-ec00-4625-8f55-ef104dc9d475",
+			"version": 7,
 			"type": "bulleted_list",
 			"properties": {
 				"title": [
 					[
-						"DS건설그룹 협력사"
+						"OGQ M&A, Exit"
 					]
 				]
 			},
-			"created_time": 1664299920000,
-			"last_edited_time": 1664352600000,
-			"parent_id": "a63ce67d-384a-41e8-8bba-9c3655606182",
+			"format": {
+				"copied_from_pointer": {
+					"id": "e841694f-e453-491a-8af1-89223b62277e",
+					"table": "block",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				}
+			},
+			"created_time": 1664352937326,
+			"last_edited_time": 1664352900000,
+			"parent_id": "20e87604-c441-4c1e-862a-1f19c734fae2",
 			"parent_table": "block",
 			"alive": true,
+			"copied_from": "e841694f-e453-491a-8af1-89223b62277e",
 			"created_by_table": "notion_user",
 			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
 			"last_edited_by_table": "notion_user",
@@ -836,106 +972,32 @@
 			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
 		}
 	},
-	"cb57e687-9a5e-4941-9430-92b0cc2e9c11": {
+	"1272579a-5d66-4fec-aed2-1e24c4fae0b4": {
 		"role": "reader",
 		"value": {
-			"id": "cb57e687-9a5e-4941-9430-92b0cc2e9c11",
-			"version": 16,
-			"type": "bulleted_list",
-			"properties": {
-				"title": [
-					[
-						"코맥스 벤처러스 1억원 시드 투자 유치"
-					]
-				]
-			},
-			"created_time": 1664299920000,
-			"last_edited_time": 1664352600000,
-			"parent_id": "a63ce67d-384a-41e8-8bba-9c3655606182",
-			"parent_table": "block",
-			"alive": true,
-			"created_by_table": "notion_user",
-			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
-			"last_edited_by_table": "notion_user",
-			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
-			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
-		}
-	},
-	"d01a3561-bd8a-4ea1-a621-8ffb828520aa": {
-		"role": "reader",
-		"value": {
-			"id": "d01a3561-bd8a-4ea1-a621-8ffb828520aa",
+			"id": "1272579a-5d66-4fec-aed2-1e24c4fae0b4",
 			"version": 20,
 			"type": "bulleted_list",
 			"properties": {
 				"title": [
 					[
-						"TIPS (민간주도형 예비창업지원 프로그램) 선정 : 최대 7억 확보"
-					]
-				]
-			},
-			"created_time": 1664299920000,
-			"last_edited_time": 1664352600000,
-			"parent_id": "a63ce67d-384a-41e8-8bba-9c3655606182",
-			"parent_table": "block",
-			"alive": true,
-			"created_by_table": "notion_user",
-			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
-			"last_edited_by_table": "notion_user",
-			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
-			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
-		}
-	},
-	"1edf6c5d-53e0-4f63-9181-0bfb5c5b639b": {
-		"role": "reader",
-		"value": {
-			"id": "1edf6c5d-53e0-4f63-9181-0bfb5c5b639b",
-			"version": 8,
-			"type": "text",
-			"created_time": 1664352600000,
-			"last_edited_time": 1664352600000,
-			"parent_id": "a63ce67d-384a-41e8-8bba-9c3655606182",
-			"parent_table": "block",
-			"alive": true,
-			"created_by_table": "notion_user",
-			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
-			"last_edited_by_table": "notion_user",
-			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
-			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
-		}
-	},
-	"4908fa8f-d0be-4e93-8c2b-cb18dd641ca8": {
-		"role": "reader",
-		"value": {
-			"id": "4908fa8f-d0be-4e93-8c2b-cb18dd641ca8",
-			"version": 16,
-			"type": "bookmark",
-			"properties": {
-				"link": [
-					[
-						"https://platum.kr/archives/187801"
-					]
-				],
-				"title": [
-					[
-						"스마트 건설 현장 관리 기업 '빌드프롭', 1억원 투자 유치"
-					]
-				],
-				"description": [
-					[
-						"건설 장비 관리 및 공유 솔루션 '어디GO'를 서비스하는 콘테크 스타트업 빌드프롭이 코맥스벤처러스부터 1억원의 투자를 유치했다. 빌드프롭은 중소 건설사의 현장 장비를 관리하는 플랫폼을 '어디GO'를 운영 중으로, '어디GO'는 별도의 장비 없이 현장 근로자의 스마트폰으로 출역을 관리하고, 직원 파견을 통해 실사와 수기로 진행되던 자산과 건설 장비를 태..."
+						"벤처기업 인증 (20180101564호) 기업"
 					]
 				]
 			},
 			"format": {
-				"bookmark_icon": "https://platum.kr/wp-content/uploads/2020/11/platum_logo-removebg-preview-300x300.png",
-				"bookmark_cover": "https://platum.kr/wp-content/uploads/2022/06/aa-640x427.jpg"
+				"copied_from_pointer": {
+					"id": "cb57e687-9a5e-4941-9430-92b0cc2e9c11",
+					"table": "block",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				}
 			},
-			"created_time": 1661226720000,
-			"last_edited_time": 1664352540000,
-			"parent_id": "a63ce67d-384a-41e8-8bba-9c3655606182",
+			"created_time": 1664352937327,
+			"last_edited_time": 1664352900000,
+			"parent_id": "20e87604-c441-4c1e-862a-1f19c734fae2",
 			"parent_table": "block",
 			"alive": true,
+			"copied_from": "cb57e687-9a5e-4941-9430-92b0cc2e9c11",
 			"created_by_table": "notion_user",
 			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
 			"last_edited_by_table": "notion_user",
@@ -943,36 +1005,55 @@
 			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
 		}
 	},
-	"50df60c3-b4a3-4de0-bb7e-f0222e138d5c": {
+	"bb24e8e1-a83a-4ef7-a7e9-39664d52252c": {
 		"role": "reader",
 		"value": {
-			"id": "50df60c3-b4a3-4de0-bb7e-f0222e138d5c",
-			"version": 16,
-			"type": "bookmark",
+			"id": "bb24e8e1-a83a-4ef7-a7e9-39664d52252c",
+			"version": 7,
+			"type": "bulleted_list",
 			"properties": {
-				"link": [
-					[
-						"https://www.venturesquare.net/859018"
-					]
-				],
 				"title": [
 					[
-						"건설 장비 관리·공유 솔루션 운영 '빌드프롭', 중기부 팁스(TIPS) 선정"
-					]
-				],
-				"description": [
-					[
-						"건설 장비 관리 및 공유 솔루션 '어디GO'를 운영하는 빌드프롭(대표 이큰별)이 중소벤처기업부에서 주관하는 기술창업 투자 프로그램 팁스(TIPS)에 선정됐다고 13일 밝혔다. 팁스(TIPS)는 정부와 민간투자사가 함께 뛰어난 비즈니스 모델과 우수한 기술력을 보유한 유망 스타트업을 선발해 집중적으로 지원하는 대표적인 민간투자주도형 기술창업지원 프로그램으로, 빌드프롭은 이번 팁스 선정을 통해 2년간 5억원의 연구개발(R&D) 자금을 지원받게 된다."
+						"스마트벤처캠퍼스 프로젝트 우수 졸업 기업"
 					]
 				]
 			},
 			"format": {
-				"bookmark_icon": "https://www.venturesquare.net/wp-content/uploads/2016/05/cropped-VentureSquare_200x200-192x192.jpg",
-				"bookmark_cover": "https://www.venturesquare.net/wp-content/uploads/2022/07/%EB%B9%8C%EB%93%9C%ED%94%84%EB%A1%AD_%ED%8C%81%EC%8A%A4_%EB%B3%B4%EB%8F%84%EC%9E%90%EB%A3%8C_%EC%9D%B4%EB%AF%B8%EC%A7%80-789x421.png"
+				"copied_from_pointer": {
+					"id": "d01a3561-bd8a-4ea1-a621-8ffb828520aa",
+					"table": "block",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				}
 			},
-			"created_time": 1661226900000,
-			"last_edited_time": 1664352540000,
-			"parent_id": "a63ce67d-384a-41e8-8bba-9c3655606182",
+			"created_time": 1664352937328,
+			"last_edited_time": 1664352900000,
+			"parent_id": "20e87604-c441-4c1e-862a-1f19c734fae2",
+			"parent_table": "block",
+			"alive": true,
+			"copied_from": "d01a3561-bd8a-4ea1-a621-8ffb828520aa",
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"3c3478f3-dfc8-4023-a052-7104ccfc7236": {
+		"role": "reader",
+		"value": {
+			"id": "3c3478f3-dfc8-4023-a052-7104ccfc7236",
+			"version": 5,
+			"type": "bulleted_list",
+			"properties": {
+				"title": [
+					[
+						"서울시 협력 청년창업 1000 프로젝트 수혜 기업"
+					]
+				]
+			},
+			"created_time": 1664352960000,
+			"last_edited_time": 1664352960000,
+			"parent_id": "20e87604-c441-4c1e-862a-1f19c734fae2",
 			"parent_table": "block",
 			"alive": true,
 			"created_by_table": "notion_user",
@@ -982,17 +1063,276 @@
 			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
 		}
 	},
-	"07a3f8d6-538d-48b8-9943-28405a1f0572": {
+	"5f36fd06-a16a-493b-a3c9-ea6f2e8a11c2": {
 		"role": "reader",
 		"value": {
-			"id": "07a3f8d6-538d-48b8-9943-28405a1f0572",
-			"version": 3,
+			"id": "5f36fd06-a16a-493b-a3c9-ea6f2e8a11c2",
+			"version": 5,
 			"type": "text",
-			"created_time": 1664352600000,
-			"last_edited_time": 1664352600000,
-			"parent_id": "a63ce67d-384a-41e8-8bba-9c3655606182",
+			"format": {
+				"copied_from_pointer": {
+					"id": "1edf6c5d-53e0-4f63-9181-0bfb5c5b639b",
+					"table": "block",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				}
+			},
+			"created_time": 1664352937328,
+			"last_edited_time": 1664352900000,
+			"parent_id": "20e87604-c441-4c1e-862a-1f19c734fae2",
 			"parent_table": "block",
 			"alive": true,
+			"copied_from": "1edf6c5d-53e0-4f63-9181-0bfb5c5b639b",
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"334797ad-4b60-4ca8-89c5-03abbc2ef21f": {
+		"role": "reader",
+		"value": {
+			"id": "334797ad-4b60-4ca8-89c5-03abbc2ef21f",
+			"version": 7,
+			"type": "bookmark",
+			"properties": {
+				"link": [
+					[
+						"https://platum.kr/archives/130300"
+					]
+				],
+				"title": [
+					[
+						"OGQ, 디지털 에셋 컨텐츠 제작 기술 기업 '리슨소프트' 인수"
+					]
+				],
+				"description": [
+					[
+						"소셜크리에이터 플랫폼 OGQ(대표이사 신철호)가 리슨소프트(공동대표 이장연, 이수환)를 인수했다. 리슨소프트는 이모티콘, 스티커 등 디지털 에셋을 창작하고 공유할 수 있는 빌더 서비스 '그린티콘'을 운영해왔으며, 16만여명의 사용자가 14만장의 스티커 등 에셋 콘텐츠를 창작하여 다양한 플랫폼 및 메신저, 소셜미디어 등에 공유해왔다. OGQ는 리슨소프트의 기술을 ..."
+					]
+				]
+			},
+			"format": {
+				"bookmark_icon": "https://platum.kr/wp-content/uploads/2016/11/favicon.ico",
+				"bookmark_cover": "https://platum.kr/wp-content/uploads/2019/10/unnamed-1.png",
+				"copied_from_pointer": {
+					"id": "62ba7693-98a2-483d-9aa8-024c56ac9bd3",
+					"table": "block",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				}
+			},
+			"created_time": 1661149849288,
+			"last_edited_time": 1664352960000,
+			"parent_id": "20e87604-c441-4c1e-862a-1f19c734fae2",
+			"parent_table": "block",
+			"alive": true,
+			"copied_from": "62ba7693-98a2-483d-9aa8-024c56ac9bd3",
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"fdb9216f-f3fe-4a4e-881b-6e2532b58ebf": {
+		"role": "reader",
+		"value": {
+			"id": "fdb9216f-f3fe-4a4e-881b-6e2532b58ebf",
+			"version": 7,
+			"type": "bookmark",
+			"properties": {
+				"link": [
+					[
+						"https://news.mt.co.kr/mtview.php?no=2018080313302196143"
+					]
+				],
+				"title": [
+					[
+						"리슨소프트, 日캐릭터 '적극적인곰 베타쿠마' 사용권 계약 - 머니투데이 뉴스"
+					]
+				],
+				"description": [
+					[
+						"스타트업(초기 벤처기업) 리슨소프트는 캐릭터 라이선싱업체 케이비전과 '적극적인곰 베타쿠마'(betakkuma) 캐릭터 사용권 계약을 체결했다고 3일 밝혔다. 적극적인곰 베타쿠마는 일본에서 자양강장제 TV CF 모델로 쓰이고 국내에서는 카카오톡 이모티콘 판매량에서 1위를 차지한 유명캐릭터다. 리슨소프트는 이번 계약으로 베타쿠마 캐릭터를 '그린날씨 서비스'의 메인 이미지와 날씨 이모티콘으로 활용할 예정이다. 그린날씨는 사용자가 직접 그리고 찍은 이미지를 공유해 날씨 정보를 받을 수 있는 캐릭터 날씨 플랫폼이다."
+					]
+				]
+			},
+			"format": {
+				"bookmark_cover": "https://thumb.mt.co.kr/21/2018/08/2018080313302196143_1.jpg",
+				"copied_from_pointer": {
+					"id": "96f6e18e-61e0-4f48-89af-b441d8ee1b73",
+					"table": "block",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				}
+			},
+			"created_time": 1661149849288,
+			"last_edited_time": 1664352960000,
+			"parent_id": "20e87604-c441-4c1e-862a-1f19c734fae2",
+			"parent_table": "block",
+			"alive": true,
+			"copied_from": "96f6e18e-61e0-4f48-89af-b441d8ee1b73",
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"f6cc818a-de35-4ca0-836c-f571698bd977": {
+		"role": "reader",
+		"value": {
+			"id": "f6cc818a-de35-4ca0-836c-f571698bd977",
+			"version": 7,
+			"type": "bookmark",
+			"properties": {
+				"link": [
+					[
+						"https://m.etnews.com/20181123000040?obj=Tzo4OiJzdGRDbGFzcyI6Mjp7czo3OiJyZWZlcmVyIjtOO3M6NzoiZm9yd2FyZCI7czoxMzoid2ViIHRvIG1vYmlsZSI7fQ%3D%3D"
+					]
+				],
+				"title": [
+					[
+						"옴니텔, 스타트업 데모데이 개최"
+					]
+				],
+				"description": [
+					[
+						"옴니텔 창업사업팀이 23일 보육 스타트업 대상 강남구 잼투고에서 데모데이를 개최한다. 올 한해 옴니텔이 배출한 스타트업 8곳이 발표자로 나선다. 더식스데이, 주스, 우노솔루션, 큐엠아이티, 리슨소프트, 디미콜론, 짐싸, 오픈업이 참가한다. 투자자 현장평가와 스타트업 청중평가를 통해 톱3를 선정한다. 데모데이 이후 기관 투자 관계자와 스타트업 50여곳 간 네트워킹 행사가 열린다. 스마트벤처캠퍼스를 졸업한 선배 스타트업의 투자유치 성공사례도 공유한다."
+					]
+				]
+			},
+			"format": {
+				"bookmark_icon": "https://img.etnews.com/2019/mobile_et/images/favicon.png",
+				"bookmark_cover": "https://img.etnews.com/photonews/1811/1131717_20181123100416_953_0001.jpg",
+				"copied_from_pointer": {
+					"id": "ee4e6fff-a604-4a96-8bc3-1b5c173dd1a9",
+					"table": "block",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				}
+			},
+			"created_time": 1661149849288,
+			"last_edited_time": 1664352960000,
+			"parent_id": "20e87604-c441-4c1e-862a-1f19c734fae2",
+			"parent_table": "block",
+			"alive": true,
+			"copied_from": "ee4e6fff-a604-4a96-8bc3-1b5c173dd1a9",
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"2340a56b-af1b-489c-abe6-3cbf874e9445": {
+		"role": "reader",
+		"value": {
+			"id": "2340a56b-af1b-489c-abe6-3cbf874e9445",
+			"version": 7,
+			"type": "bookmark",
+			"properties": {
+				"link": [
+					[
+						"https://limwonki.com/702"
+					]
+				],
+				"title": [
+					[
+						"한국의 스타트업-(203)리슨투코퍼레이션 이장연 이수환 대표"
+					]
+				],
+				"description": [
+					[
+						"재능있는 작가들의 작품들(소설만화캐릭터애니메이션, 그림 등등)이 이것을 필요로 하는, 또는 즐기는 소비자층을 만날 수 있을까전자책이나 카툰 분야에서는 이미 상당부분 현실화되고 있다그러면 다른 분야에서도 가능하지 않을까. 한국의 스타트업 203번째 주인공은 캐릭터팜을 만든 리슨투의 이장연 이수환 대표다. 처음부터 끝까지 내가 만들어보고 싶다 리슨투의 창업자 이장연 대표는 개발자다. 경력이 그렇고, 관심사도 그러하다."
+					]
+				]
+			},
+			"format": {
+				"bookmark_icon": "https://limwonki.com/favicon.ico",
+				"bookmark_cover": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F222492445604F3A829",
+				"copied_from_pointer": {
+					"id": "d09448b9-f239-44b0-a6f2-d47b70054276",
+					"table": "block",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				}
+			},
+			"created_time": 1661149849288,
+			"last_edited_time": 1664352960000,
+			"parent_id": "20e87604-c441-4c1e-862a-1f19c734fae2",
+			"parent_table": "block",
+			"alive": true,
+			"copied_from": "d09448b9-f239-44b0-a6f2-d47b70054276",
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"7e357d83-839c-400d-a01d-e7814ce86173": {
+		"role": "reader",
+		"value": {
+			"id": "7e357d83-839c-400d-a01d-e7814ce86173",
+			"version": 9,
+			"type": "text",
+			"format": {
+				"copied_from_pointer": {
+					"id": "07a3f8d6-538d-48b8-9943-28405a1f0572",
+					"table": "block",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				}
+			},
+			"created_time": 1664352937329,
+			"last_edited_time": 1664353680000,
+			"parent_id": "20e87604-c441-4c1e-862a-1f19c734fae2",
+			"parent_table": "block",
+			"alive": true,
+			"copied_from": "07a3f8d6-538d-48b8-9943-28405a1f0572",
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"ac2f8da6-fe36-4c10-86d7-2658f1002cc0": {
+		"role": "reader",
+		"value": {
+			"id": "ac2f8da6-fe36-4c10-86d7-2658f1002cc0",
+			"version": 10,
+			"type": "image",
+			"properties": {
+				"size": [
+					[
+						"749.0KB"
+					]
+				],
+				"title": [
+					[
+						"스크린샷 2022-09-28 오후 5.27.48.png"
+					]
+				],
+				"source": [
+					[
+						"https://s3-us-west-2.amazonaws.com/secure.notion-static.com/346bba6d-95fc-465d-8567-325ccabee94b/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2022-09-28_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_5.27.48.png"
+					]
+				]
+			},
+			"format": {
+				"block_width": 1303,
+				"display_source": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/346bba6d-95fc-465d-8567-325ccabee94b/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2022-09-28_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_5.27.48.png",
+				"block_full_width": false,
+				"block_page_width": true,
+				"block_aspect_ratio": 0.4620107444359171,
+				"block_preserve_scale": true
+			},
+			"created_time": 1664353620000,
+			"last_edited_time": 1664353680000,
+			"parent_id": "20e87604-c441-4c1e-862a-1f19c734fae2",
+			"parent_table": "block",
+			"alive": true,
+			"file_ids": [
+				"346bba6d-95fc-465d-8567-325ccabee94b"
+			],
 			"created_by_table": "notion_user",
 			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
 			"last_edited_by_table": "notion_user",

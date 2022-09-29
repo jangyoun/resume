@@ -1,0 +1,1618 @@
+{
+	"d8fb3879-550a-44a2-a341-6cb813b83024": {
+		"role": "reader",
+		"value": {
+			"id": "d8fb3879-550a-44a2-a341-6cb813b83024",
+			"version": 204,
+			"type": "page",
+			"properties": {
+				"I}h}": [
+					[
+						"‣",
+						[
+							[
+								"d",
+								{
+									"type": "date",
+									"start_date": "2011-01-01"
+								}
+							]
+						]
+					]
+				],
+				"L{@;": [
+					[
+						"screen mirroring for TV or  devices"
+					]
+				],
+				"M1wI": [
+					[
+						"‣",
+						[
+							[
+								"p",
+								"885d96c3-9e4b-41df-8476-1d97636faad9",
+								"e31efbed-6b94-433c-b384-c6e0981d0789"
+							]
+						]
+					]
+				],
+				"\\n}a": [
+					[
+						"AOS",
+						[
+							[
+								"c"
+							],
+							[
+								"h",
+								"orange"
+							]
+						]
+					],
+					[
+						" ",
+						[
+							[
+								"h",
+								"orange"
+							]
+						]
+					],
+					[
+						"JNI",
+						[
+							[
+								"c"
+							],
+							[
+								"h",
+								"orange"
+							]
+						]
+					]
+				],
+				"mYuL": [
+					[
+						"‣",
+						[
+							[
+								"p",
+								"86a2ba6d-9fb7-4172-8598-21620a0584b3",
+								"c6c62feb-1540-4467-b79b-50a3d5a76a63"
+							]
+						]
+					]
+				],
+				"nNZ]": [
+					[
+						"‣",
+						[
+							[
+								"d",
+								{
+									"type": "date",
+									"start_date": "2014-09-01"
+								}
+							]
+						]
+					]
+				],
+				"rWC<": [
+					[
+						"44M"
+					]
+				],
+				"~_wy": [
+					[
+						"... 상세 업무 더보기",
+						[
+							[
+								"h",
+								"gray"
+							]
+						]
+					]
+				],
+				"title": [
+					[
+						"Multimedia Mirroring"
+					]
+				],
+				"97a98a2a-1275-4ef3-b4f6-9e1302d9c2b7": [
+					[
+						"AOS,Middleware"
+					]
+				],
+				"9d3b2561-c3f7-4cc4-b4d9-0b0af98eb146": [
+					[
+						"상세링크",
+						[
+							[
+								"h",
+								"blue"
+							],
+							[
+								"a",
+								"https://www.notion.so/Portfolio-999d59ef28274dc296f403cd606d8f8a?p=b1da5f14761544538dab33a3490fcf02"
+							]
+						]
+					]
+				]
+			},
+			"content": [
+				"fcbd16f0-540e-43f7-b42f-86d2a96a9e8c",
+				"565d1ea7-225c-45c7-a408-fabe4d37cea8",
+				"5821faee-dfc1-47c5-beaa-aa2ab63a05fa",
+				"aa01a101-72f9-480f-ba4b-174e5f026d48",
+				"8307c67d-cbd2-4943-8d4e-406a46747306",
+				"ee8aeef4-c2c4-45a7-9c9a-2a9893ba7ea9",
+				"151cefe9-fc73-4a47-a6f8-008e7807e9c9",
+				"c785ac46-20ac-465b-87b9-00aa08b5b6a1",
+				"e57d828f-8c58-4656-9c8e-8db5c15b42f6",
+				"b7e7f25e-8aae-4950-93cd-125a75c88d69"
+			],
+			"format": {
+				"page_icon": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d379e8e4-2a7a-4a6f-b23c-6b949c5c7cd2/Untitled-11.png",
+				"copied_from_pointer": {
+					"id": "57987ab6-9603-4438-ba3e-22fc8d8916f9",
+					"table": "block",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				}
+			},
+			"created_time": 1661148383930,
+			"last_edited_time": 1664381820000,
+			"parent_id": "d9152762-7dc3-4b60-b095-6888d17b5e34",
+			"parent_table": "collection",
+			"alive": true,
+			"copied_from": "57987ab6-9603-4438-ba3e-22fc8d8916f9",
+			"file_ids": [
+				"d379e8e4-2a7a-4a6f-b23c-6b949c5c7cd2"
+			],
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"c9f17a2a-5411-4fd6-a1aa-d46c9a16e847": {
+		"role": "reader",
+		"value": {
+			"id": "c9f17a2a-5411-4fd6-a1aa-d46c9a16e847",
+			"version": 103,
+			"type": "collection_view",
+			"view_ids": [
+				"9ac958bf-3bfa-4aad-bcbe-973ab5561397"
+			],
+			"collection_id": "d9152762-7dc3-4b60-b095-6888d17b5e34",
+			"format": {
+				"collection_pointer": {
+					"id": "d9152762-7dc3-4b60-b095-6888d17b5e34",
+					"table": "collection",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				},
+				"copied_from_pointer": {
+					"id": "bc90b5ec-4e33-43a8-be02-cf3c2237fed0",
+					"table": "block",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				}
+			},
+			"created_time": 1661148383940,
+			"last_edited_time": 1664183760000,
+			"parent_id": "f7e92f33-78ff-4152-883f-531dfbe8cf9b",
+			"parent_table": "block",
+			"alive": true,
+			"copied_from": "bc90b5ec-4e33-43a8-be02-cf3c2237fed0",
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		},
+		"collection": {
+			"title": [
+				[
+					"Project"
+				]
+			],
+			"schema": {
+				"Bfuy": {
+					"name": "기간",
+					"type": "formula",
+					"formula": {
+						"args": [
+							{
+								"args": [
+									{
+										"args": [
+											{
+												"id": "nNZ]",
+												"name": "to",
+												"type": "property",
+												"result_type": "date"
+											},
+											{
+												"id": "I}h}",
+												"name": "from",
+												"type": "property",
+												"result_type": "date"
+											},
+											{
+												"type": "constant",
+												"value": "months",
+												"value_type": "string",
+												"result_type": "text"
+											}
+										],
+										"name": "dateBetween",
+										"type": "function",
+										"result_type": "number"
+									}
+								],
+								"name": "format",
+								"type": "function",
+								"result_type": "text"
+							},
+							{
+								"type": "constant",
+								"value": "M",
+								"value_type": "string",
+								"result_type": "text"
+							}
+						],
+						"name": "concat",
+						"type": "function",
+						"result_type": "text"
+					}
+				},
+				"I}h}": {
+					"name": "from",
+					"type": "date",
+					"date_format": "YYYY/MM/DD"
+				},
+				"nNZ]": {
+					"name": "to",
+					"type": "date",
+					"date_format": "YYYY/MM/DD"
+				},
+				"rWC<": {
+					"name": "실투입",
+					"type": "text"
+				},
+				"title": {
+					"name": "플젝명",
+					"type": "title"
+				}
+			},
+			"types": [
+				{
+					"id": "9ac958bf-3bfa-4aad-bcbe-973ab5561397",
+					"version": 26,
+					"type": "table",
+					"name": "",
+					"format": {
+						"table_properties": [
+							{
+								"width": 236,
+								"visible": true,
+								"property": "title"
+							},
+							{
+								"width": 100,
+								"visible": true,
+								"property": "rWC<"
+							},
+							{
+								"width": 100,
+								"visible": true,
+								"property": "Bfuy"
+							},
+							{
+								"width": 100,
+								"visible": true,
+								"property": "I}h}"
+							},
+							{
+								"width": 100,
+								"visible": true,
+								"property": "nNZ]"
+							}
+						],
+						"hide_linked_collection_name": true
+					},
+					"parent_id": "c9f17a2a-5411-4fd6-a1aa-d46c9a16e847",
+					"parent_table": "block",
+					"alive": true,
+					"page_sort": [
+						"d24d16c8-b55e-4daf-82c7-0de59a58d57a",
+						"4d679b85-7d0f-4113-8bf1-d506436966f9",
+						"48465326-782c-4042-ba33-4ce817ef2f5f",
+						"4e6030cf-cc8c-4d83-9b14-8bebdd961ae5",
+						"1dabbf6f-265e-415a-9870-246e83cc4f9c",
+						"d8fb3879-550a-44a2-a341-6cb813b83024",
+						"34d94ff2-bbe0-4b41-87c2-68b8b6e7b973",
+						"b9d4d9da-6dc2-4815-8f1b-a433ea716e1a"
+					],
+					"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				}
+			],
+			"data": [
+				{
+					"id": "d24d16c8-b55e-4daf-82c7-0de59a58d57a",
+					"from": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2020-10-01"
+									}
+								]
+							]
+						]
+					],
+					"to": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2022-09-01"
+									}
+								]
+							]
+						]
+					],
+					"실투입": [
+						[
+							"23M"
+						]
+					],
+					"플젝명": [
+						[
+							"건설사 인력 · 자산 관리 솔루션"
+						]
+					]
+				},
+				{
+					"id": "4d679b85-7d0f-4113-8bf1-d506436966f9",
+					"from": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2019-10-01"
+									}
+								]
+							]
+						]
+					],
+					"to": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2020-10-01"
+									}
+								]
+							]
+						]
+					],
+					"실투입": [
+						[
+							"12M"
+						]
+					],
+					"플젝명": [
+						[
+							"A.I. 신사업 프로젝트"
+						]
+					]
+				},
+				{
+					"id": "48465326-782c-4042-ba33-4ce817ef2f5f",
+					"from": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2015-12-01"
+									}
+								]
+							]
+						]
+					],
+					"to": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2018-03-01"
+									}
+								]
+							]
+						]
+					],
+					"실투입": [
+						[
+							"18M"
+						]
+					],
+					"플젝명": [
+						[
+							"움직이는 이모티콘 제작 SNS"
+						]
+					]
+				},
+				{
+					"id": "4e6030cf-cc8c-4d83-9b14-8bebdd961ae5",
+					"from": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2018-02-01"
+									}
+								]
+							]
+						]
+					],
+					"to": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2019-02-01"
+									}
+								]
+							]
+						]
+					],
+					"실투입": [
+						[
+							"12M"
+						]
+					],
+					"플젝명": [
+						[
+							"지역기반 커뮤니티 서비스"
+						]
+					]
+				},
+				{
+					"id": "1dabbf6f-265e-415a-9870-246e83cc4f9c",
+					"from": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2018-02-01"
+									}
+								]
+							]
+						]
+					],
+					"to": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2018-08-01"
+									}
+								]
+							]
+						]
+					],
+					"실투입": [
+						[
+							"6M"
+						]
+					],
+					"플젝명": [
+						[
+							"상가  · 사무실 중개 서비스"
+						]
+					]
+				},
+				{
+					"id": "d8fb3879-550a-44a2-a341-6cb813b83024",
+					"from": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2011-01-01"
+									}
+								]
+							]
+						]
+					],
+					"to": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2014-09-01"
+									}
+								]
+							]
+						]
+					],
+					"실투입": [
+						[
+							"44M"
+						]
+					],
+					"플젝명": [
+						[
+							"Multimedia Mirroring"
+						]
+					]
+				},
+				{
+					"id": "34d94ff2-bbe0-4b41-87c2-68b8b6e7b973",
+					"from": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2018-06-01"
+									}
+								]
+							]
+						]
+					],
+					"to": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2019-12-01"
+									}
+								]
+							]
+						]
+					],
+					"실투입": [
+						[
+							"6M"
+						]
+					],
+					"플젝명": [
+						[
+							"R&D 국가 과제"
+						]
+					]
+				},
+				{
+					"id": "b9d4d9da-6dc2-4815-8f1b-a433ea716e1a",
+					"from": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2010-08-01"
+									}
+								]
+							]
+						]
+					],
+					"to": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2022-08-01"
+									}
+								]
+							]
+						]
+					],
+					"실투입": [
+						[
+							"156M"
+						]
+					],
+					"플젝명": [
+						[
+							"기타"
+						]
+					]
+				}
+			]
+		}
+	},
+	"f7e92f33-78ff-4152-883f-531dfbe8cf9b": {
+		"role": "reader",
+		"value": {
+			"id": "f7e92f33-78ff-4152-883f-531dfbe8cf9b",
+			"version": 291,
+			"type": "page",
+			"properties": {
+				"title": [
+					[
+						"요약"
+					]
+				]
+			},
+			"content": [
+				"52e10e2a-9265-4703-93eb-4f52b66cbf44",
+				"c5df71d7-1dc5-48ae-9aa3-b32e0fcf8054",
+				"c9f17a2a-5411-4fd6-a1aa-d46c9a16e847",
+				"b53ba0b1-8d95-4f03-b9d6-e10071bfd505",
+				"b53b7955-979f-44e4-86ff-a513ff65d3e9",
+				"ff1f05c1-c09a-46a1-8b8c-8dff77f9f406",
+				"4f940a65-0e4c-47c0-8d90-4a30b47f4462",
+				"f83c4393-e46a-4933-af26-b162ca182e72",
+				"7229517e-dfa8-48c9-91e6-2f667ddbdaea",
+				"bc33ae1c-44a4-445b-8c3d-9fad70b6ee72",
+				"9f93274a-b21e-4360-9a25-5a46702934c1",
+				"79937e01-61d3-46c6-8e6b-fac2bfb8cbb7",
+				"4b15a1a6-b2d0-4918-a040-3ce5603acb32",
+				"260f73f9-0388-4c3d-be94-4fb900382638"
+			],
+			"permissions": [
+				{
+					"role": "editor",
+					"type": "user_permission",
+					"user_id": "6362623b-74f5-4e6e-b364-235fb75e31ff"
+				},
+				{
+					"role": "reader",
+					"type": "public_permission",
+					"added_timestamp": 1661325636106
+				},
+				{
+					"role": {
+						"read_content": true
+					},
+					"type": "bot_permission",
+					"bot_id": "c532588c-39b6-4c20-8e41-3ff3766d5067",
+					"parent_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63",
+					"parent_table": "space"
+				},
+				{
+					"role": {
+						"read_content": true,
+						"insert_content": true,
+						"update_content": true
+					},
+					"type": "bot_permission",
+					"bot_id": "e3131756-41ce-46b5-a6fc-827400e1204b"
+				}
+			],
+			"created_time": 1661140560000,
+			"last_edited_time": 1664370540000,
+			"parent_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63",
+			"parent_table": "space",
+			"alive": true,
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"fcbd16f0-540e-43f7-b42f-86d2a96a9e8c": {
+		"role": "reader",
+		"value": {
+			"id": "fcbd16f0-540e-43f7-b42f-86d2a96a9e8c",
+			"version": 19,
+			"type": "text",
+			"properties": {
+				"title": [
+					[
+						"Media Link"
+					]
+				]
+			},
+			"format": {
+				"copied_from_pointer": {
+					"id": "7835be70-a72f-422f-8b60-34465e044fb3",
+					"table": "block",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				}
+			},
+			"created_time": 1662036563452,
+			"last_edited_time": 1664381760000,
+			"parent_id": "d8fb3879-550a-44a2-a341-6cb813b83024",
+			"parent_table": "block",
+			"alive": true,
+			"copied_from": "7835be70-a72f-422f-8b60-34465e044fb3",
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"565d1ea7-225c-45c7-a408-fabe4d37cea8": {
+		"role": "reader",
+		"value": {
+			"id": "565d1ea7-225c-45c7-a408-fabe4d37cea8",
+			"version": 17,
+			"type": "bulleted_list",
+			"properties": {
+				"title": [
+					[
+						"DLNA DMC"
+					]
+				]
+			},
+			"content": [
+				"a5f36512-4648-4003-b5cc-484eaaf8c97d",
+				"1cbf898a-7f11-479e-865b-7c9b1035dfe8",
+				"be1d2c52-b6a5-4485-9769-bf5720f95dbd",
+				"98f63fca-0e47-4c1b-835b-a9caf74b7863",
+				"65c1e5f9-0206-4856-837f-73d1ef4185b3",
+				"296390e0-36e6-4b05-ae47-03c9e5a78ea4"
+			],
+			"created_time": 1664381700000,
+			"last_edited_time": 1664381700000,
+			"parent_id": "d8fb3879-550a-44a2-a341-6cb813b83024",
+			"parent_table": "block",
+			"alive": true,
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"a5f36512-4648-4003-b5cc-484eaaf8c97d": {
+		"role": "reader",
+		"value": {
+			"id": "a5f36512-4648-4003-b5cc-484eaaf8c97d",
+			"version": 4,
+			"type": "bulleted_list",
+			"properties": {
+				"title": [
+					[
+						"Android 기반 DLNA Controller 개발 및 유지 보수"
+					]
+				]
+			},
+			"format": {
+				"copied_from_pointer": {
+					"id": "63ff191d-efdc-4137-9828-5af1ca3240ef",
+					"table": "block",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				}
+			},
+			"created_time": 1664381728573,
+			"last_edited_time": 1664381700000,
+			"parent_id": "565d1ea7-225c-45c7-a408-fabe4d37cea8",
+			"parent_table": "block",
+			"alive": true,
+			"copied_from": "63ff191d-efdc-4137-9828-5af1ca3240ef",
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"1cbf898a-7f11-479e-865b-7c9b1035dfe8": {
+		"role": "reader",
+		"value": {
+			"id": "1cbf898a-7f11-479e-865b-7c9b1035dfe8",
+			"version": 4,
+			"type": "bulleted_list",
+			"properties": {
+				"title": [
+					[
+						"스파이카 DLNA 솔루션 업체 대응 및 관리"
+					]
+				]
+			},
+			"format": {
+				"copied_from_pointer": {
+					"id": "92dbb56a-25b9-4396-8ae4-f45919d7b62e",
+					"table": "block",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				}
+			},
+			"created_time": 1664381728573,
+			"last_edited_time": 1664381700000,
+			"parent_id": "565d1ea7-225c-45c7-a408-fabe4d37cea8",
+			"parent_table": "block",
+			"alive": true,
+			"copied_from": "92dbb56a-25b9-4396-8ae4-f45919d7b62e",
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"be1d2c52-b6a5-4485-9769-bf5720f95dbd": {
+		"role": "reader",
+		"value": {
+			"id": "be1d2c52-b6a5-4485-9769-bf5720f95dbd",
+			"version": 4,
+			"type": "bulleted_list",
+			"properties": {
+				"title": [
+					[
+						"Gingerbread ~ Jellybean 기반의 네트워크 개발 및 유지 보수"
+					]
+				]
+			},
+			"format": {
+				"copied_from_pointer": {
+					"id": "487ce17a-c4ae-4b2f-8c8c-28c752f5c976",
+					"table": "block",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				}
+			},
+			"created_time": 1664381728573,
+			"last_edited_time": 1664381700000,
+			"parent_id": "565d1ea7-225c-45c7-a408-fabe4d37cea8",
+			"parent_table": "block",
+			"alive": true,
+			"copied_from": "487ce17a-c4ae-4b2f-8c8c-28c752f5c976",
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"98f63fca-0e47-4c1b-835b-a9caf74b7863": {
+		"role": "reader",
+		"value": {
+			"id": "98f63fca-0e47-4c1b-835b-a9caf74b7863",
+			"version": 4,
+			"type": "bulleted_list",
+			"properties": {
+				"title": [
+					[
+						"UPnP 및 DLNA 인증 진행"
+					]
+				]
+			},
+			"format": {
+				"copied_from_pointer": {
+					"id": "ec1d6263-c611-40c0-a160-ca300068b984",
+					"table": "block",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				}
+			},
+			"created_time": 1664381728573,
+			"last_edited_time": 1664381700000,
+			"parent_id": "565d1ea7-225c-45c7-a408-fabe4d37cea8",
+			"parent_table": "block",
+			"alive": true,
+			"copied_from": "ec1d6263-c611-40c0-a160-ca300068b984",
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"65c1e5f9-0206-4856-837f-73d1ef4185b3": {
+		"role": "reader",
+		"value": {
+			"id": "65c1e5f9-0206-4856-837f-73d1ef4185b3",
+			"version": 4,
+			"type": "bulleted_list",
+			"properties": {
+				"title": [
+					[
+						"DLNA 지원되는 Smart TV (Samsung, LG 등) 대응"
+					]
+				]
+			},
+			"format": {
+				"copied_from_pointer": {
+					"id": "7dea9c10-c3de-4fe5-b0ef-4b4a4d07ea38",
+					"table": "block",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				}
+			},
+			"created_time": 1664381728573,
+			"last_edited_time": 1664381700000,
+			"parent_id": "565d1ea7-225c-45c7-a408-fabe4d37cea8",
+			"parent_table": "block",
+			"alive": true,
+			"copied_from": "7dea9c10-c3de-4fe5-b0ef-4b4a4d07ea38",
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"296390e0-36e6-4b05-ae47-03c9e5a78ea4": {
+		"role": "reader",
+		"value": {
+			"id": "296390e0-36e6-4b05-ae47-03c9e5a78ea4",
+			"version": 4,
+			"type": "bulleted_list",
+			"properties": {
+				"title": [
+					[
+						"국내(VEGA LTE ~ VEGA IRON) / 해외(Flex, Discover 등) 모델 적용"
+					]
+				]
+			},
+			"format": {
+				"copied_from_pointer": {
+					"id": "89af22ba-67d6-4eff-a131-7049e6390dd4",
+					"table": "block",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				}
+			},
+			"created_time": 1664381728573,
+			"last_edited_time": 1664381700000,
+			"parent_id": "565d1ea7-225c-45c7-a408-fabe4d37cea8",
+			"parent_table": "block",
+			"alive": true,
+			"copied_from": "89af22ba-67d6-4eff-a131-7049e6390dd4",
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"5821faee-dfc1-47c5-beaa-aa2ab63a05fa": {
+		"role": "reader",
+		"value": {
+			"id": "5821faee-dfc1-47c5-beaa-aa2ab63a05fa",
+			"version": 3,
+			"type": "bulleted_list",
+			"properties": {
+				"title": [
+					[
+						"DLNA Printer-CP"
+					]
+				]
+			},
+			"content": [
+				"d6cad869-1d81-4b50-b97c-9b8cc2fd2325",
+				"f951b5ee-4937-4152-8d78-7c6c35c1311d",
+				"f0d64a47-2513-484f-9d94-cb6d666c875a"
+			],
+			"format": {
+				"copied_from_pointer": {
+					"id": "64010437-fd6d-421e-b4a2-f384cdb00070",
+					"table": "block",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				}
+			},
+			"created_time": 1664381728574,
+			"last_edited_time": 1664381700000,
+			"parent_id": "d8fb3879-550a-44a2-a341-6cb813b83024",
+			"parent_table": "block",
+			"alive": true,
+			"copied_from": "64010437-fd6d-421e-b4a2-f384cdb00070",
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"d6cad869-1d81-4b50-b97c-9b8cc2fd2325": {
+		"role": "reader",
+		"value": {
+			"id": "d6cad869-1d81-4b50-b97c-9b8cc2fd2325",
+			"version": 2,
+			"type": "bulleted_list",
+			"properties": {
+				"title": [
+					[
+						"DLNA Printer Controller 개발 및 유지 보수"
+					]
+				]
+			},
+			"format": {
+				"copied_from_pointer": {
+					"id": "1fc85124-4374-468c-8b1e-75f06671ea16",
+					"table": "block",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				}
+			},
+			"created_time": 1664381728574,
+			"last_edited_time": 1664381700000,
+			"parent_id": "5821faee-dfc1-47c5-beaa-aa2ab63a05fa",
+			"parent_table": "block",
+			"alive": true,
+			"copied_from": "1fc85124-4374-468c-8b1e-75f06671ea16",
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"f951b5ee-4937-4152-8d78-7c6c35c1311d": {
+		"role": "reader",
+		"value": {
+			"id": "f951b5ee-4937-4152-8d78-7c6c35c1311d",
+			"version": 2,
+			"type": "bulleted_list",
+			"properties": {
+				"title": [
+					[
+						"DLNA Printer CP 인증 진행"
+					]
+				]
+			},
+			"format": {
+				"copied_from_pointer": {
+					"id": "d88e99fc-08fe-4710-9751-dc7b4279a766",
+					"table": "block",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				}
+			},
+			"created_time": 1664381728574,
+			"last_edited_time": 1664381700000,
+			"parent_id": "5821faee-dfc1-47c5-beaa-aa2ab63a05fa",
+			"parent_table": "block",
+			"alive": true,
+			"copied_from": "d88e99fc-08fe-4710-9751-dc7b4279a766",
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"f0d64a47-2513-484f-9d94-cb6d666c875a": {
+		"role": "reader",
+		"value": {
+			"id": "f0d64a47-2513-484f-9d94-cb6d666c875a",
+			"version": 3,
+			"type": "bulleted_list",
+			"properties": {
+				"title": [
+					[
+						"DLNA 지원되는 Smart Printer (HP, Samsung 등) 대응"
+					]
+				]
+			},
+			"format": {
+				"copied_from_pointer": {
+					"id": "de71211e-2ef1-43c2-bec8-d7003ac1e193",
+					"table": "block",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				}
+			},
+			"created_time": 1664381728575,
+			"last_edited_time": 1664381700000,
+			"parent_id": "5821faee-dfc1-47c5-beaa-aa2ab63a05fa",
+			"parent_table": "block",
+			"alive": true,
+			"copied_from": "de71211e-2ef1-43c2-bec8-d7003ac1e193",
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"aa01a101-72f9-480f-ba4b-174e5f026d48": {
+		"role": "reader",
+		"value": {
+			"id": "aa01a101-72f9-480f-ba4b-174e5f026d48",
+			"version": 21,
+			"type": "image",
+			"properties": {
+				"size": [
+					[
+						"281.0KB"
+					]
+				],
+				"title": [
+					[
+						"스크린샷 2022-09-01 오후 9.32.17.png"
+					]
+				],
+				"source": [
+					[
+						"https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7bf06b41-1cf6-453f-9384-e96168594004/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2022-09-01_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_9.32.17.png"
+					]
+				]
+			},
+			"format": {
+				"block_width": 672,
+				"block_height": 543,
+				"display_source": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7bf06b41-1cf6-453f-9384-e96168594004/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2022-09-01_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_9.32.17.png",
+				"block_full_width": false,
+				"block_page_width": true,
+				"block_aspect_ratio": 0.8444790046656299,
+				"copied_from_pointer": {
+					"id": "d17ec4f5-87a6-4be3-bb94-c82badaa74e3",
+					"table": "block",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				},
+				"block_preserve_scale": true
+			},
+			"created_time": 1662036563453,
+			"last_edited_time": 1664381760000,
+			"parent_id": "d8fb3879-550a-44a2-a341-6cb813b83024",
+			"parent_table": "block",
+			"alive": true,
+			"copied_from": "d17ec4f5-87a6-4be3-bb94-c82badaa74e3",
+			"file_ids": [
+				"7bf06b41-1cf6-453f-9384-e96168594004"
+			],
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"8307c67d-cbd2-4943-8d4e-406a46747306": {
+		"role": "reader",
+		"value": {
+			"id": "8307c67d-cbd2-4943-8d4e-406a46747306",
+			"version": 12,
+			"type": "text",
+			"created_time": 1664381700000,
+			"last_edited_time": 1664381820000,
+			"parent_id": "d8fb3879-550a-44a2-a341-6cb813b83024",
+			"parent_table": "block",
+			"alive": true,
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"ee8aeef4-c2c4-45a7-9c9a-2a9893ba7ea9": {
+		"role": "reader",
+		"value": {
+			"id": "ee8aeef4-c2c4-45a7-9c9a-2a9893ba7ea9",
+			"version": 10,
+			"type": "divider",
+			"created_time": 1664381752069,
+			"last_edited_time": 1664381760000,
+			"parent_id": "d8fb3879-550a-44a2-a341-6cb813b83024",
+			"parent_table": "block",
+			"alive": true,
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"151cefe9-fc73-4a47-a6f8-008e7807e9c9": {
+		"role": "reader",
+		"value": {
+			"id": "151cefe9-fc73-4a47-a6f8-008e7807e9c9",
+			"version": 45,
+			"type": "text",
+			"properties": {
+				"title": [
+					[
+						"Miracast"
+					]
+				]
+			},
+			"format": {
+				"copied_from_pointer": {
+					"id": "f1de1284-f5f6-41e7-9c13-3072bdd1e420",
+					"table": "block",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				}
+			},
+			"created_time": 1662036563455,
+			"last_edited_time": 1664381820000,
+			"parent_id": "d8fb3879-550a-44a2-a341-6cb813b83024",
+			"parent_table": "block",
+			"alive": true,
+			"copied_from": "f1de1284-f5f6-41e7-9c13-3072bdd1e420",
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"c785ac46-20ac-465b-87b9-00aa08b5b6a1": {
+		"role": "reader",
+		"value": {
+			"id": "c785ac46-20ac-465b-87b9-00aa08b5b6a1",
+			"version": 12,
+			"type": "bulleted_list",
+			"properties": {
+				"title": [
+					[
+						"Miracast Multimedia"
+					]
+				]
+			},
+			"content": [
+				"fbbb0418-4330-4269-b1af-2521cd5ac33b",
+				"9b615389-4823-4448-b191-e4aab046b8a2",
+				"c8479803-2d3f-40ff-81bf-03402e3cc9fb",
+				"9f98d10d-b732-4b21-956d-b496b5d7446a",
+				"815a4f73-b61f-4a99-862d-4771a7c2dcbd"
+			],
+			"created_time": 1664381700000,
+			"last_edited_time": 1664381760000,
+			"parent_id": "d8fb3879-550a-44a2-a341-6cb813b83024",
+			"parent_table": "block",
+			"alive": true,
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"fbbb0418-4330-4269-b1af-2521cd5ac33b": {
+		"role": "reader",
+		"value": {
+			"id": "fbbb0418-4330-4269-b1af-2521cd5ac33b",
+			"version": 4,
+			"type": "bulleted_list",
+			"properties": {
+				"title": [
+					[
+						"Android 기반의 Miracast Multimedia Framework 개발 및 유지 보수"
+					]
+				]
+			},
+			"format": {
+				"copied_from_pointer": {
+					"id": "8c1c5c93-3da6-4181-b837-e091d6402ef5",
+					"table": "block",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				}
+			},
+			"created_time": 1664381819033,
+			"last_edited_time": 1664381760000,
+			"parent_id": "c785ac46-20ac-465b-87b9-00aa08b5b6a1",
+			"parent_table": "block",
+			"alive": true,
+			"copied_from": "8c1c5c93-3da6-4181-b837-e091d6402ef5",
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"9b615389-4823-4448-b191-e4aab046b8a2": {
+		"role": "reader",
+		"value": {
+			"id": "9b615389-4823-4448-b191-e4aab046b8a2",
+			"version": 4,
+			"type": "bulleted_list",
+			"properties": {
+				"title": [
+					[
+						"Qualcomm 기반의 Miracast Multimedia Framework 개발 및 유지 보수"
+					]
+				]
+			},
+			"format": {
+				"copied_from_pointer": {
+					"id": "bc984255-7494-4629-8a65-62425888cd42",
+					"table": "block",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				}
+			},
+			"created_time": 1664381819033,
+			"last_edited_time": 1664381760000,
+			"parent_id": "c785ac46-20ac-465b-87b9-00aa08b5b6a1",
+			"parent_table": "block",
+			"alive": true,
+			"copied_from": "bc984255-7494-4629-8a65-62425888cd42",
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"c8479803-2d3f-40ff-81bf-03402e3cc9fb": {
+		"role": "reader",
+		"value": {
+			"id": "c8479803-2d3f-40ff-81bf-03402e3cc9fb",
+			"version": 4,
+			"type": "bulleted_list",
+			"properties": {
+				"title": [
+					[
+						"Source 및 Sink 기능에 대한 기술 검토 (상용화는 Source 기기로만 진행)"
+					]
+				]
+			},
+			"format": {
+				"copied_from_pointer": {
+					"id": "2c2196d2-fd07-4467-874d-3b974210ac86",
+					"table": "block",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				}
+			},
+			"created_time": 1664381819033,
+			"last_edited_time": 1664381760000,
+			"parent_id": "c785ac46-20ac-465b-87b9-00aa08b5b6a1",
+			"parent_table": "block",
+			"alive": true,
+			"copied_from": "2c2196d2-fd07-4467-874d-3b974210ac86",
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"9f98d10d-b732-4b21-956d-b496b5d7446a": {
+		"role": "reader",
+		"value": {
+			"id": "9f98d10d-b732-4b21-956d-b496b5d7446a",
+			"version": 4,
+			"type": "bulleted_list",
+			"properties": {
+				"title": [
+					[
+						"Kitkat 기반의 java, c++ 언어를 이용한 네트워크, 멀티미디어 개발 (Android JNI Framework)"
+					]
+				]
+			},
+			"format": {
+				"copied_from_pointer": {
+					"id": "15f5266e-6911-46b8-bad0-8326e08035da",
+					"table": "block",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				}
+			},
+			"created_time": 1664381819033,
+			"last_edited_time": 1664381760000,
+			"parent_id": "c785ac46-20ac-465b-87b9-00aa08b5b6a1",
+			"parent_table": "block",
+			"alive": true,
+			"copied_from": "15f5266e-6911-46b8-bad0-8326e08035da",
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"815a4f73-b61f-4a99-862d-4771a7c2dcbd": {
+		"role": "reader",
+		"value": {
+			"id": "815a4f73-b61f-4a99-862d-4771a7c2dcbd",
+			"version": 4,
+			"type": "bulleted_list",
+			"properties": {
+				"title": [
+					[
+						"Miracast 인증 진행- 국내(VEGA SECRET UP / VEGA IRON2) 모델 적용"
+					]
+				]
+			},
+			"format": {
+				"copied_from_pointer": {
+					"id": "8df6d7ad-334a-43c6-9f91-6bd78797b769",
+					"table": "block",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				}
+			},
+			"created_time": 1664381819033,
+			"last_edited_time": 1664381760000,
+			"parent_id": "c785ac46-20ac-465b-87b9-00aa08b5b6a1",
+			"parent_table": "block",
+			"alive": true,
+			"copied_from": "8df6d7ad-334a-43c6-9f91-6bd78797b769",
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"e57d828f-8c58-4656-9c8e-8db5c15b42f6": {
+		"role": "reader",
+		"value": {
+			"id": "e57d828f-8c58-4656-9c8e-8db5c15b42f6",
+			"version": 3,
+			"type": "bulleted_list",
+			"properties": {
+				"title": [
+					[
+						"Miracast HDCP"
+					]
+				]
+			},
+			"content": [
+				"1d02a43b-8727-451b-b733-5f1c916d77ad",
+				"d464a8f6-12ed-4a1c-ac68-5855c2765598"
+			],
+			"format": {
+				"copied_from_pointer": {
+					"id": "303d8df0-98f3-446b-80ea-c478cc45facb",
+					"table": "block",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				}
+			},
+			"created_time": 1664381819034,
+			"last_edited_time": 1664381760000,
+			"parent_id": "d8fb3879-550a-44a2-a341-6cb813b83024",
+			"parent_table": "block",
+			"alive": true,
+			"copied_from": "303d8df0-98f3-446b-80ea-c478cc45facb",
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"1d02a43b-8727-451b-b733-5f1c916d77ad": {
+		"role": "reader",
+		"value": {
+			"id": "1d02a43b-8727-451b-b733-5f1c916d77ad",
+			"version": 2,
+			"type": "bulleted_list",
+			"properties": {
+				"title": [
+					[
+						"Discretix 솔루션 기반의 HDCP DRM 개발 및 유지 보수 및 업체 관리"
+					]
+				]
+			},
+			"format": {
+				"copied_from_pointer": {
+					"id": "153068d3-955e-4592-8c7c-120b92e98a2c",
+					"table": "block",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				}
+			},
+			"created_time": 1664381819034,
+			"last_edited_time": 1664381760000,
+			"parent_id": "e57d828f-8c58-4656-9c8e-8db5c15b42f6",
+			"parent_table": "block",
+			"alive": true,
+			"copied_from": "153068d3-955e-4592-8c7c-120b92e98a2c",
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"d464a8f6-12ed-4a1c-ac68-5855c2765598": {
+		"role": "reader",
+		"value": {
+			"id": "d464a8f6-12ed-4a1c-ac68-5855c2765598",
+			"version": 3,
+			"type": "bulleted_list",
+			"properties": {
+				"title": [
+					[
+						"Miracast HDCP 인증 진행 - 국내(VEGA IRON2) 모델 적용"
+					]
+				]
+			},
+			"format": {
+				"copied_from_pointer": {
+					"id": "8b605930-4fcb-4d36-91f9-bd9cc079484d",
+					"table": "block",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				}
+			},
+			"created_time": 1664381819034,
+			"last_edited_time": 1664381760000,
+			"parent_id": "e57d828f-8c58-4656-9c8e-8db5c15b42f6",
+			"parent_table": "block",
+			"alive": true,
+			"copied_from": "8b605930-4fcb-4d36-91f9-bd9cc079484d",
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"b7e7f25e-8aae-4950-93cd-125a75c88d69": {
+		"role": "reader",
+		"value": {
+			"id": "b7e7f25e-8aae-4950-93cd-125a75c88d69",
+			"version": 13,
+			"type": "image",
+			"properties": {
+				"size": [
+					[
+						"221.5KB"
+					]
+				],
+				"title": [
+					[
+						"스크린샷 2022-09-01 오후 9.39.18.png"
+					]
+				],
+				"source": [
+					[
+						"https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f578cb3b-0324-4f2d-8069-344d6bce55c2/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2022-09-01_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_9.39.18.png"
+					]
+				]
+			},
+			"format": {
+				"block_width": 624,
+				"display_source": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f578cb3b-0324-4f2d-8069-344d6bce55c2/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2022-09-01_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_9.39.18.png",
+				"block_full_width": false,
+				"block_page_width": true,
+				"block_aspect_ratio": 0.7148876404494382,
+				"copied_from_pointer": {
+					"id": "e9116522-4294-4831-a93f-d3fccc29884d",
+					"table": "block",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				},
+				"block_preserve_scale": true
+			},
+			"created_time": 1662036563456,
+			"last_edited_time": 1664381820000,
+			"parent_id": "d8fb3879-550a-44a2-a341-6cb813b83024",
+			"parent_table": "block",
+			"alive": true,
+			"copied_from": "e9116522-4294-4831-a93f-d3fccc29884d",
+			"file_ids": [
+				"f578cb3b-0324-4f2d-8069-344d6bce55c2"
+			],
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	}
+}

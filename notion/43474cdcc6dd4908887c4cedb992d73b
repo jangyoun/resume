@@ -1,9 +1,9 @@
 {
-	"a63ce67d-384a-41e8-8bba-9c3655606182": {
+	"43474cdc-c6dd-4908-887c-4cedb992d73b": {
 		"role": "reader",
 		"value": {
-			"id": "a63ce67d-384a-41e8-8bba-9c3655606182",
-			"version": 163,
+			"id": "43474cdc-c6dd-4908-887c-4cedb992d73b",
+			"version": 157,
 			"type": "page",
 			"properties": {
 				"%bzi": [
@@ -14,7 +14,7 @@
 								"d",
 								{
 									"type": "date",
-									"start_date": "2020-11-01"
+									"start_date": "2011-01-01"
 								}
 							]
 						]
@@ -26,7 +26,7 @@
 						[
 							[
 								"p",
-								"d5cd199f-e739-447b-991a-de06f40ff078",
+								"63333f6e-0949-4ce7-b0ef-02b77ec3af07",
 								"e31efbed-6b94-433c-b384-c6e0981d0789"
 							]
 						]
@@ -39,7 +39,7 @@
 						[
 							[
 								"p",
-								"8c7845b3-cf45-4e8d-b518-a6b7be560993",
+								"f1c9418a-9db0-4d27-a561-fc5658c1c934",
 								"e31efbed-6b94-433c-b384-c6e0981d0789"
 							]
 						]
@@ -52,7 +52,7 @@
 						[
 							[
 								"p",
-								"9c205d84-e95f-4011-9c92-47319b75c246",
+								"d6efe01b-f1ab-4951-9636-0c1509df4c6a",
 								"e31efbed-6b94-433c-b384-c6e0981d0789"
 							]
 						]
@@ -68,7 +68,7 @@
 							],
 							[
 								"a",
-								"https://www.notion.so/Portfolio-999d59ef28274dc296f403cd606d8f8a?p=9958fca70d7b4da4babe6f49eed528d9"
+								"https://www.notion.so/Portfolio-999d59ef28274dc296f403cd606d8f8a?p=d79cb74d054c4e0a816462bfc176fd46"
 							]
 						]
 					]
@@ -81,7 +81,7 @@
 								"d",
 								{
 									"type": "date",
-									"start_date": "2022-09-01"
+									"start_date": "2014-08-31"
 								}
 							]
 						]
@@ -93,7 +93,7 @@
 						[
 							[
 								"p",
-								"141e177f-212a-4927-834e-b9acff853ab1",
+								"3e7a5171-01f2-4142-a6cd-25ab13214666",
 								"5e1b3ceb-735a-46d1-9323-4d3f552017e4"
 							]
 						]
@@ -106,7 +106,7 @@
 						[
 							[
 								"p",
-								"1f0de4dc-afc1-4f99-a8f7-e3823a9bfa1c",
+								"6bb88f4a-4222-44ec-95b0-46a1823bfef3",
 								"5e1b3ceb-735a-46d1-9323-4d3f552017e4"
 							]
 						]
@@ -119,7 +119,7 @@
 						[
 							[
 								"p",
-								"3b92882f-aae4-46c1-9c72-eab9a051e0ce",
+								"eb886c90-9b19-4d3a-84b0-0241bdd2b63e",
 								"5e1b3ceb-735a-46d1-9323-4d3f552017e4"
 							]
 						]
@@ -127,17 +127,17 @@
 				],
 				"WE_D": [
 					[
-						"now"
+						"2014-08"
 					]
 				],
 				"Zecu": [
 					[
-						"총괄"
+						"미디어팀"
 					]
 				],
 				"nJq$": [
 					[
-						"CTO"
+						"연구원"
 					]
 				],
 				"nmT~": [
@@ -148,7 +148,7 @@
 								"d",
 								{
 									"type": "date",
-									"start_date": "2019-11-01"
+									"start_date": "2020-05-11"
 								}
 							]
 						]
@@ -160,20 +160,7 @@
 						[
 							[
 								"p",
-								"b88a2f7e-82e2-4b1a-887c-d7ddd20ff544",
-								"5e1b3ceb-735a-46d1-9323-4d3f552017e4"
-							]
-						]
-					],
-					[
-						","
-					],
-					[
-						"‣",
-						[
-							[
-								"p",
-								"d13c24fb-75ac-4ecb-b04a-124ca48df905",
+								"a05bdb2a-86e6-4b3c-8805-c9c7e8cf68cc",
 								"c6c62feb-1540-4467-b79b-50a3d5a76a63"
 							]
 						]
@@ -186,7 +173,20 @@
 						[
 							[
 								"p",
-								"4890f81d-8726-45c2-b47a-42fcec04257c",
+								"e68c7ba9-5645-460d-b544-586e660db52b",
+								"c6c62feb-1540-4467-b79b-50a3d5a76a63"
+							]
+						]
+					],
+					[
+						","
+					],
+					[
+						"‣",
+						[
+							[
+								"p",
+								"414601da-c625-4df1-bab0-77e8c68010e8",
 								"c6c62feb-1540-4467-b79b-50a3d5a76a63"
 							]
 						]
@@ -194,48 +194,42 @@
 				],
 				"sXGR": [
 					[
-						"2020-11"
+						"2011-01"
 					]
 				],
 				"~`zq": [
 					[
-						"140648"
+						"143487"
 					]
 				],
 				"title": [
 					[
-						"Buildprop"
+						"Pantech"
 					]
 				]
 			},
 			"content": [
-				"e51b94b5-25c0-4fda-90da-03c5468f9cae",
-				"e841694f-e453-491a-8af1-89223b62277e",
-				"cb57e687-9a5e-4941-9430-92b0cc2e9c11",
-				"d01a3561-bd8a-4ea1-a621-8ffb828520aa",
-				"1edf6c5d-53e0-4f63-9181-0bfb5c5b639b",
-				"4908fa8f-d0be-4e93-8c2b-cb18dd641ca8",
-				"50df60c3-b4a3-4de0-bb7e-f0222e138d5c",
-				"07a3f8d6-538d-48b8-9943-28405a1f0572"
+				"91ead90e-d7af-40b0-bcc3-113679ae697f",
+				"0b2ccf6e-b105-4307-903c-b4dfdf2f8800"
 			],
 			"format": {
-				"page_icon": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bf330b22-1c95-414f-9941-d7a89ea6f01d/Untitled-3.png",
+				"page_icon": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/16b8938d-8fbd-4994-873d-cfc93ecbefd2/_-3_(1).png",
 				"copied_from_pointer": {
-					"id": "9b7cc611-8f88-4858-b2d2-1b1e4327450c",
+					"id": "58b08631-4f0f-4113-a369-05e32d84eeed",
 					"table": "block",
 					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
 				},
 				"page_cover_position": 0.5
 			},
 			"created_time": 1661149849285,
-			"last_edited_time": 1664352600000,
+			"last_edited_time": 1664353860000,
 			"parent_id": "1e5ed671-c398-4141-b6f1-3a2591f0f028",
 			"parent_table": "collection",
 			"alive": true,
-			"copied_from": "9b7cc611-8f88-4858-b2d2-1b1e4327450c",
+			"copied_from": "58b08631-4f0f-4113-a369-05e32d84eeed",
 			"file_ids": [
-				"b1ae7e63-9769-42d0-aa6d-4e5a0b442f4b",
-				"bf330b22-1c95-414f-9941-d7a89ea6f01d"
+				"16b8938d-8fbd-4994-873d-cfc93ecbefd2",
+				"c72b2fd5-3f83-4c43-af4d-a198faffad54"
 			],
 			"created_by_table": "notion_user",
 			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
@@ -786,156 +780,32 @@
 			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
 		}
 	},
-	"e51b94b5-25c0-4fda-90da-03c5468f9cae": {
+	"91ead90e-d7af-40b0-bcc3-113679ae697f": {
 		"role": "reader",
 		"value": {
-			"id": "e51b94b5-25c0-4fda-90da-03c5468f9cae",
-			"version": 24,
+			"id": "91ead90e-d7af-40b0-bcc3-113679ae697f",
+			"version": 70,
 			"type": "bulleted_list",
 			"properties": {
 				"title": [
 					[
-						"Contech 기업 (construction + Tech)"
-					]
-				]
-			},
-			"created_time": 1664299920000,
-			"last_edited_time": 1664352600000,
-			"parent_id": "a63ce67d-384a-41e8-8bba-9c3655606182",
-			"parent_table": "block",
-			"alive": true,
-			"created_by_table": "notion_user",
-			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
-			"last_edited_by_table": "notion_user",
-			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
-			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
-		}
-	},
-	"e841694f-e453-491a-8af1-89223b62277e": {
-		"role": "reader",
-		"value": {
-			"id": "e841694f-e453-491a-8af1-89223b62277e",
-			"version": 16,
-			"type": "bulleted_list",
-			"properties": {
-				"title": [
-					[
-						"DS건설그룹 협력사"
-					]
-				]
-			},
-			"created_time": 1664299920000,
-			"last_edited_time": 1664352600000,
-			"parent_id": "a63ce67d-384a-41e8-8bba-9c3655606182",
-			"parent_table": "block",
-			"alive": true,
-			"created_by_table": "notion_user",
-			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
-			"last_edited_by_table": "notion_user",
-			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
-			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
-		}
-	},
-	"cb57e687-9a5e-4941-9430-92b0cc2e9c11": {
-		"role": "reader",
-		"value": {
-			"id": "cb57e687-9a5e-4941-9430-92b0cc2e9c11",
-			"version": 16,
-			"type": "bulleted_list",
-			"properties": {
-				"title": [
-					[
-						"코맥스 벤처러스 1억원 시드 투자 유치"
-					]
-				]
-			},
-			"created_time": 1664299920000,
-			"last_edited_time": 1664352600000,
-			"parent_id": "a63ce67d-384a-41e8-8bba-9c3655606182",
-			"parent_table": "block",
-			"alive": true,
-			"created_by_table": "notion_user",
-			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
-			"last_edited_by_table": "notion_user",
-			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
-			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
-		}
-	},
-	"d01a3561-bd8a-4ea1-a621-8ffb828520aa": {
-		"role": "reader",
-		"value": {
-			"id": "d01a3561-bd8a-4ea1-a621-8ffb828520aa",
-			"version": 20,
-			"type": "bulleted_list",
-			"properties": {
-				"title": [
-					[
-						"TIPS (민간주도형 예비창업지원 프로그램) 선정 : 최대 7억 확보"
-					]
-				]
-			},
-			"created_time": 1664299920000,
-			"last_edited_time": 1664352600000,
-			"parent_id": "a63ce67d-384a-41e8-8bba-9c3655606182",
-			"parent_table": "block",
-			"alive": true,
-			"created_by_table": "notion_user",
-			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
-			"last_edited_by_table": "notion_user",
-			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
-			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
-		}
-	},
-	"1edf6c5d-53e0-4f63-9181-0bfb5c5b639b": {
-		"role": "reader",
-		"value": {
-			"id": "1edf6c5d-53e0-4f63-9181-0bfb5c5b639b",
-			"version": 8,
-			"type": "text",
-			"created_time": 1664352600000,
-			"last_edited_time": 1664352600000,
-			"parent_id": "a63ce67d-384a-41e8-8bba-9c3655606182",
-			"parent_table": "block",
-			"alive": true,
-			"created_by_table": "notion_user",
-			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
-			"last_edited_by_table": "notion_user",
-			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
-			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
-		}
-	},
-	"4908fa8f-d0be-4e93-8c2b-cb18dd641ca8": {
-		"role": "reader",
-		"value": {
-			"id": "4908fa8f-d0be-4e93-8c2b-cb18dd641ca8",
-			"version": 16,
-			"type": "bookmark",
-			"properties": {
-				"link": [
-					[
-						"https://platum.kr/archives/187801"
-					]
-				],
-				"title": [
-					[
-						"스마트 건설 현장 관리 기업 '빌드프롭', 1억원 투자 유치"
-					]
-				],
-				"description": [
-					[
-						"건설 장비 관리 및 공유 솔루션 '어디GO'를 서비스하는 콘테크 스타트업 빌드프롭이 코맥스벤처러스부터 1억원의 투자를 유치했다. 빌드프롭은 중소 건설사의 현장 장비를 관리하는 플랫폼을 '어디GO'를 운영 중으로, '어디GO'는 별도의 장비 없이 현장 근로자의 스마트폰으로 출역을 관리하고, 직원 파견을 통해 실사와 수기로 진행되던 자산과 건설 장비를 태..."
+						"국내 3대 휴대폰 제조사"
 					]
 				]
 			},
 			"format": {
-				"bookmark_icon": "https://platum.kr/wp-content/uploads/2020/11/platum_logo-removebg-preview-300x300.png",
-				"bookmark_cover": "https://platum.kr/wp-content/uploads/2022/06/aa-640x427.jpg"
+				"copied_from_pointer": {
+					"id": "7e089305-e47f-4d0a-859f-f23f839b0d66",
+					"table": "block",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				}
 			},
-			"created_time": 1661226720000,
-			"last_edited_time": 1664352540000,
-			"parent_id": "a63ce67d-384a-41e8-8bba-9c3655606182",
+			"created_time": 1664353750084,
+			"last_edited_time": 1664353860000,
+			"parent_id": "43474cdc-c6dd-4908-887c-4cedb992d73b",
 			"parent_table": "block",
 			"alive": true,
+			"copied_from": "7e089305-e47f-4d0a-859f-f23f839b0d66",
 			"created_by_table": "notion_user",
 			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
 			"last_edited_by_table": "notion_user",
@@ -943,54 +813,15 @@
 			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
 		}
 	},
-	"50df60c3-b4a3-4de0-bb7e-f0222e138d5c": {
+	"0b2ccf6e-b105-4307-903c-b4dfdf2f8800": {
 		"role": "reader",
 		"value": {
-			"id": "50df60c3-b4a3-4de0-bb7e-f0222e138d5c",
-			"version": 16,
-			"type": "bookmark",
-			"properties": {
-				"link": [
-					[
-						"https://www.venturesquare.net/859018"
-					]
-				],
-				"title": [
-					[
-						"건설 장비 관리·공유 솔루션 운영 '빌드프롭', 중기부 팁스(TIPS) 선정"
-					]
-				],
-				"description": [
-					[
-						"건설 장비 관리 및 공유 솔루션 '어디GO'를 운영하는 빌드프롭(대표 이큰별)이 중소벤처기업부에서 주관하는 기술창업 투자 프로그램 팁스(TIPS)에 선정됐다고 13일 밝혔다. 팁스(TIPS)는 정부와 민간투자사가 함께 뛰어난 비즈니스 모델과 우수한 기술력을 보유한 유망 스타트업을 선발해 집중적으로 지원하는 대표적인 민간투자주도형 기술창업지원 프로그램으로, 빌드프롭은 이번 팁스 선정을 통해 2년간 5억원의 연구개발(R&D) 자금을 지원받게 된다."
-					]
-				]
-			},
-			"format": {
-				"bookmark_icon": "https://www.venturesquare.net/wp-content/uploads/2016/05/cropped-VentureSquare_200x200-192x192.jpg",
-				"bookmark_cover": "https://www.venturesquare.net/wp-content/uploads/2022/07/%EB%B9%8C%EB%93%9C%ED%94%84%EB%A1%AD_%ED%8C%81%EC%8A%A4_%EB%B3%B4%EB%8F%84%EC%9E%90%EB%A3%8C_%EC%9D%B4%EB%AF%B8%EC%A7%80-789x421.png"
-			},
-			"created_time": 1661226900000,
-			"last_edited_time": 1664352540000,
-			"parent_id": "a63ce67d-384a-41e8-8bba-9c3655606182",
-			"parent_table": "block",
-			"alive": true,
-			"created_by_table": "notion_user",
-			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
-			"last_edited_by_table": "notion_user",
-			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
-			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
-		}
-	},
-	"07a3f8d6-538d-48b8-9943-28405a1f0572": {
-		"role": "reader",
-		"value": {
-			"id": "07a3f8d6-538d-48b8-9943-28405a1f0572",
+			"id": "0b2ccf6e-b105-4307-903c-b4dfdf2f8800",
 			"version": 3,
 			"type": "text",
-			"created_time": 1664352600000,
-			"last_edited_time": 1664352600000,
-			"parent_id": "a63ce67d-384a-41e8-8bba-9c3655606182",
+			"created_time": 1664353860000,
+			"last_edited_time": 1664353860000,
+			"parent_id": "43474cdc-c6dd-4908-887c-4cedb992d73b",
 			"parent_table": "block",
 			"alive": true,
 			"created_by_table": "notion_user",

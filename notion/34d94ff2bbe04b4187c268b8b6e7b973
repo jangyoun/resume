@@ -1,0 +1,1130 @@
+{
+	"34d94ff2-bbe0-4b41-87c2-68b8b6e7b973": {
+		"role": "reader",
+		"value": {
+			"id": "34d94ff2-bbe0-4b41-87c2-68b8b6e7b973",
+			"version": 148,
+			"type": "page",
+			"properties": {
+				"I}h}": [
+					[
+						"‣",
+						[
+							[
+								"d",
+								{
+									"type": "date",
+									"start_date": "2018-06-01"
+								}
+							]
+						]
+					]
+				],
+				"L{@;": [
+					[
+						"AR · MR R&D project for government"
+					]
+				],
+				"M1wI": [
+					[
+						"‣",
+						[
+							[
+								"p",
+								"6c82c5b6-bb9c-4619-86a3-02d10ce6e8a0",
+								"e31efbed-6b94-433c-b384-c6e0981d0789"
+							]
+						]
+					]
+				],
+				"\\n}a": [
+					[
+						"iOS",
+						[
+							[
+								"c"
+							],
+							[
+								"h",
+								"orange"
+							]
+						]
+					],
+					[
+						" ",
+						[
+							[
+								"h",
+								"orange"
+							]
+						]
+					],
+					[
+						"Backend",
+						[
+							[
+								"c"
+							],
+							[
+								"h",
+								"orange"
+							]
+						]
+					]
+				],
+				"a;Vq": [
+					[
+						"AOS,iOS"
+					]
+				],
+				"mYuL": [
+					[
+						"‣",
+						[
+							[
+								"p",
+								"160044f7-08ed-409f-af1f-96ecc63177e2",
+								"c6c62feb-1540-4467-b79b-50a3d5a76a63"
+							]
+						]
+					]
+				],
+				"nNZ]": [
+					[
+						"‣",
+						[
+							[
+								"d",
+								{
+									"type": "date",
+									"start_date": "2019-12-01"
+								}
+							]
+						]
+					]
+				],
+				"rWC<": [
+					[
+						"6M"
+					]
+				],
+				"~_wy": [
+					[
+						"... 상세 업무 더보기",
+						[
+							[
+								"h",
+								"gray"
+							]
+						]
+					]
+				],
+				"title": [
+					[
+						"R&D 국가 과제"
+					]
+				],
+				"97a98a2a-1275-4ef3-b4f6-9e1302d9c2b7": [
+					[
+						"AOS,iOS"
+					]
+				],
+				"9d3b2561-c3f7-4cc4-b4d9-0b0af98eb146": [
+					[
+						"상세링크",
+						[
+							[
+								"h",
+								"blue"
+							],
+							[
+								"a",
+								"https://www.notion.so/Portfolio-999d59ef28274dc296f403cd606d8f8a?p=d824c7567d00453daa7c4bf282b25fbf"
+							]
+						]
+					]
+				]
+			},
+			"content": [
+				"2556a925-4359-480c-962b-d8eed66923e8",
+				"9aa311bb-d1a7-4fba-8e3e-fbfe21061d6e",
+				"d1597387-1e23-4469-a657-f51bff544e53",
+				"8ea1ef55-e82d-4f4f-bf91-5313dc6b43d4",
+				"dfe8fe9b-c3f4-4fa9-a423-54d871a02557",
+				"2d6a08db-6c31-454e-a082-22ba571c901b",
+				"2424bac3-de10-4c07-8f55-0db38da6a83c",
+				"b4e55b70-02ad-4882-a570-f2dcabf07583",
+				"cb6bead4-8220-405b-b181-85ee111a1d44",
+				"964be3e2-9d4d-4405-b915-9cc3405a1b33"
+			],
+			"format": {
+				"page_icon": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4d5f5a4f-3bb4-4d23-8ced-6fb26d543dba/Untitled-4.png",
+				"copied_from_pointer": {
+					"id": "0e9a7e0c-2b59-4df9-a4b9-702934632e4d",
+					"table": "block",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				}
+			},
+			"created_time": 1661148383928,
+			"last_edited_time": 1664382180000,
+			"parent_id": "d9152762-7dc3-4b60-b095-6888d17b5e34",
+			"parent_table": "collection",
+			"alive": true,
+			"copied_from": "0e9a7e0c-2b59-4df9-a4b9-702934632e4d",
+			"file_ids": [
+				"4d5f5a4f-3bb4-4d23-8ced-6fb26d543dba"
+			],
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"c9f17a2a-5411-4fd6-a1aa-d46c9a16e847": {
+		"role": "reader",
+		"value": {
+			"id": "c9f17a2a-5411-4fd6-a1aa-d46c9a16e847",
+			"version": 103,
+			"type": "collection_view",
+			"view_ids": [
+				"9ac958bf-3bfa-4aad-bcbe-973ab5561397"
+			],
+			"collection_id": "d9152762-7dc3-4b60-b095-6888d17b5e34",
+			"format": {
+				"collection_pointer": {
+					"id": "d9152762-7dc3-4b60-b095-6888d17b5e34",
+					"table": "collection",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				},
+				"copied_from_pointer": {
+					"id": "bc90b5ec-4e33-43a8-be02-cf3c2237fed0",
+					"table": "block",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				}
+			},
+			"created_time": 1661148383940,
+			"last_edited_time": 1664183760000,
+			"parent_id": "f7e92f33-78ff-4152-883f-531dfbe8cf9b",
+			"parent_table": "block",
+			"alive": true,
+			"copied_from": "bc90b5ec-4e33-43a8-be02-cf3c2237fed0",
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		},
+		"collection": {
+			"title": [
+				[
+					"Project"
+				]
+			],
+			"schema": {
+				"Bfuy": {
+					"name": "기간",
+					"type": "formula",
+					"formula": {
+						"args": [
+							{
+								"args": [
+									{
+										"args": [
+											{
+												"id": "nNZ]",
+												"name": "to",
+												"type": "property",
+												"result_type": "date"
+											},
+											{
+												"id": "I}h}",
+												"name": "from",
+												"type": "property",
+												"result_type": "date"
+											},
+											{
+												"type": "constant",
+												"value": "months",
+												"value_type": "string",
+												"result_type": "text"
+											}
+										],
+										"name": "dateBetween",
+										"type": "function",
+										"result_type": "number"
+									}
+								],
+								"name": "format",
+								"type": "function",
+								"result_type": "text"
+							},
+							{
+								"type": "constant",
+								"value": "M",
+								"value_type": "string",
+								"result_type": "text"
+							}
+						],
+						"name": "concat",
+						"type": "function",
+						"result_type": "text"
+					}
+				},
+				"I}h}": {
+					"name": "from",
+					"type": "date",
+					"date_format": "YYYY/MM/DD"
+				},
+				"nNZ]": {
+					"name": "to",
+					"type": "date",
+					"date_format": "YYYY/MM/DD"
+				},
+				"rWC<": {
+					"name": "실투입",
+					"type": "text"
+				},
+				"title": {
+					"name": "플젝명",
+					"type": "title"
+				}
+			},
+			"types": [
+				{
+					"id": "9ac958bf-3bfa-4aad-bcbe-973ab5561397",
+					"version": 26,
+					"type": "table",
+					"name": "",
+					"format": {
+						"table_properties": [
+							{
+								"width": 236,
+								"visible": true,
+								"property": "title"
+							},
+							{
+								"width": 100,
+								"visible": true,
+								"property": "rWC<"
+							},
+							{
+								"width": 100,
+								"visible": true,
+								"property": "Bfuy"
+							},
+							{
+								"width": 100,
+								"visible": true,
+								"property": "I}h}"
+							},
+							{
+								"width": 100,
+								"visible": true,
+								"property": "nNZ]"
+							}
+						],
+						"hide_linked_collection_name": true
+					},
+					"parent_id": "c9f17a2a-5411-4fd6-a1aa-d46c9a16e847",
+					"parent_table": "block",
+					"alive": true,
+					"page_sort": [
+						"d24d16c8-b55e-4daf-82c7-0de59a58d57a",
+						"4d679b85-7d0f-4113-8bf1-d506436966f9",
+						"48465326-782c-4042-ba33-4ce817ef2f5f",
+						"4e6030cf-cc8c-4d83-9b14-8bebdd961ae5",
+						"1dabbf6f-265e-415a-9870-246e83cc4f9c",
+						"d8fb3879-550a-44a2-a341-6cb813b83024",
+						"34d94ff2-bbe0-4b41-87c2-68b8b6e7b973",
+						"b9d4d9da-6dc2-4815-8f1b-a433ea716e1a"
+					],
+					"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				}
+			],
+			"data": [
+				{
+					"id": "d24d16c8-b55e-4daf-82c7-0de59a58d57a",
+					"from": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2020-10-01"
+									}
+								]
+							]
+						]
+					],
+					"to": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2022-09-01"
+									}
+								]
+							]
+						]
+					],
+					"실투입": [
+						[
+							"23M"
+						]
+					],
+					"플젝명": [
+						[
+							"건설사 인력 · 자산 관리 솔루션"
+						]
+					]
+				},
+				{
+					"id": "4d679b85-7d0f-4113-8bf1-d506436966f9",
+					"from": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2019-10-01"
+									}
+								]
+							]
+						]
+					],
+					"to": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2020-10-01"
+									}
+								]
+							]
+						]
+					],
+					"실투입": [
+						[
+							"12M"
+						]
+					],
+					"플젝명": [
+						[
+							"A.I. 신사업 프로젝트"
+						]
+					]
+				},
+				{
+					"id": "48465326-782c-4042-ba33-4ce817ef2f5f",
+					"from": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2015-12-01"
+									}
+								]
+							]
+						]
+					],
+					"to": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2018-03-01"
+									}
+								]
+							]
+						]
+					],
+					"실투입": [
+						[
+							"18M"
+						]
+					],
+					"플젝명": [
+						[
+							"움직이는 이모티콘 제작 SNS"
+						]
+					]
+				},
+				{
+					"id": "4e6030cf-cc8c-4d83-9b14-8bebdd961ae5",
+					"from": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2018-02-01"
+									}
+								]
+							]
+						]
+					],
+					"to": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2019-02-01"
+									}
+								]
+							]
+						]
+					],
+					"실투입": [
+						[
+							"12M"
+						]
+					],
+					"플젝명": [
+						[
+							"지역기반 커뮤니티 서비스"
+						]
+					]
+				},
+				{
+					"id": "1dabbf6f-265e-415a-9870-246e83cc4f9c",
+					"from": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2018-02-01"
+									}
+								]
+							]
+						]
+					],
+					"to": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2018-08-01"
+									}
+								]
+							]
+						]
+					],
+					"실투입": [
+						[
+							"6M"
+						]
+					],
+					"플젝명": [
+						[
+							"상가  · 사무실 중개 서비스"
+						]
+					]
+				},
+				{
+					"id": "d8fb3879-550a-44a2-a341-6cb813b83024",
+					"from": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2011-01-01"
+									}
+								]
+							]
+						]
+					],
+					"to": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2014-09-01"
+									}
+								]
+							]
+						]
+					],
+					"실투입": [
+						[
+							"44M"
+						]
+					],
+					"플젝명": [
+						[
+							"Multimedia Mirroring"
+						]
+					]
+				},
+				{
+					"id": "34d94ff2-bbe0-4b41-87c2-68b8b6e7b973",
+					"from": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2018-06-01"
+									}
+								]
+							]
+						]
+					],
+					"to": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2019-12-01"
+									}
+								]
+							]
+						]
+					],
+					"실투입": [
+						[
+							"6M"
+						]
+					],
+					"플젝명": [
+						[
+							"R&D 국가 과제"
+						]
+					]
+				},
+				{
+					"id": "b9d4d9da-6dc2-4815-8f1b-a433ea716e1a",
+					"from": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2010-08-01"
+									}
+								]
+							]
+						]
+					],
+					"to": [
+						[
+							"‣",
+							[
+								[
+									"d",
+									{
+										"type": "date",
+										"start_date": "2022-08-01"
+									}
+								]
+							]
+						]
+					],
+					"실투입": [
+						[
+							"156M"
+						]
+					],
+					"플젝명": [
+						[
+							"기타"
+						]
+					]
+				}
+			]
+		}
+	},
+	"f7e92f33-78ff-4152-883f-531dfbe8cf9b": {
+		"role": "reader",
+		"value": {
+			"id": "f7e92f33-78ff-4152-883f-531dfbe8cf9b",
+			"version": 291,
+			"type": "page",
+			"properties": {
+				"title": [
+					[
+						"요약"
+					]
+				]
+			},
+			"content": [
+				"52e10e2a-9265-4703-93eb-4f52b66cbf44",
+				"c5df71d7-1dc5-48ae-9aa3-b32e0fcf8054",
+				"c9f17a2a-5411-4fd6-a1aa-d46c9a16e847",
+				"b53ba0b1-8d95-4f03-b9d6-e10071bfd505",
+				"b53b7955-979f-44e4-86ff-a513ff65d3e9",
+				"ff1f05c1-c09a-46a1-8b8c-8dff77f9f406",
+				"4f940a65-0e4c-47c0-8d90-4a30b47f4462",
+				"f83c4393-e46a-4933-af26-b162ca182e72",
+				"7229517e-dfa8-48c9-91e6-2f667ddbdaea",
+				"bc33ae1c-44a4-445b-8c3d-9fad70b6ee72",
+				"9f93274a-b21e-4360-9a25-5a46702934c1",
+				"79937e01-61d3-46c6-8e6b-fac2bfb8cbb7",
+				"4b15a1a6-b2d0-4918-a040-3ce5603acb32",
+				"260f73f9-0388-4c3d-be94-4fb900382638"
+			],
+			"permissions": [
+				{
+					"role": "editor",
+					"type": "user_permission",
+					"user_id": "6362623b-74f5-4e6e-b364-235fb75e31ff"
+				},
+				{
+					"role": "reader",
+					"type": "public_permission",
+					"added_timestamp": 1661325636106
+				},
+				{
+					"role": {
+						"read_content": true
+					},
+					"type": "bot_permission",
+					"bot_id": "c532588c-39b6-4c20-8e41-3ff3766d5067",
+					"parent_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63",
+					"parent_table": "space"
+				},
+				{
+					"role": {
+						"read_content": true,
+						"insert_content": true,
+						"update_content": true
+					},
+					"type": "bot_permission",
+					"bot_id": "e3131756-41ce-46b5-a6fc-827400e1204b"
+				}
+			],
+			"created_time": 1661140560000,
+			"last_edited_time": 1664370540000,
+			"parent_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63",
+			"parent_table": "space",
+			"alive": true,
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"2556a925-4359-480c-962b-d8eed66923e8": {
+		"role": "reader",
+		"value": {
+			"id": "2556a925-4359-480c-962b-d8eed66923e8",
+			"version": 58,
+			"type": "text",
+			"properties": {
+				"title": [
+					[
+						"AR․MR 콘텐츠 제작 지원 국가 과제 ",
+						[
+							[
+								"b"
+							]
+						]
+					]
+				]
+			},
+			"created_time": 1661162476726,
+			"last_edited_time": 1664382120000,
+			"parent_id": "34d94ff2-bbe0-4b41-87c2-68b8b6e7b973",
+			"parent_table": "block",
+			"alive": true,
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"9aa311bb-d1a7-4fba-8e3e-fbfe21061d6e": {
+		"role": "reader",
+		"value": {
+			"id": "9aa311bb-d1a7-4fba-8e3e-fbfe21061d6e",
+			"version": 27,
+			"type": "bulleted_list",
+			"properties": {
+				"title": [
+					[
+						"과학기술정보통신부 >  AR/MR 콘텐츠 제작사업화 지원 R&D 과제 수행"
+					]
+				]
+			},
+			"created_time": 1662088621134,
+			"last_edited_time": 1664382120000,
+			"parent_id": "34d94ff2-bbe0-4b41-87c2-68b8b6e7b973",
+			"parent_table": "block",
+			"alive": true,
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"d1597387-1e23-4469-a657-f51bff544e53": {
+		"role": "reader",
+		"value": {
+			"id": "d1597387-1e23-4469-a657-f51bff544e53",
+			"version": 107,
+			"type": "bulleted_list",
+			"properties": {
+				"title": [
+					[
+						"캐릭터 기반의 AR SDK 적용"
+					]
+				]
+			},
+			"content": [
+				"df31ff3c-231d-47c9-b20c-5e264da84b9e",
+				"88466079-f8d6-443b-8000-3709dc4097d1",
+				"bc7ad178-c454-492b-99b5-199dbee1776d"
+			],
+			"created_time": 1662088620000,
+			"last_edited_time": 1664382120000,
+			"parent_id": "34d94ff2-bbe0-4b41-87c2-68b8b6e7b973",
+			"parent_table": "block",
+			"alive": true,
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"df31ff3c-231d-47c9-b20c-5e264da84b9e": {
+		"role": "reader",
+		"value": {
+			"id": "df31ff3c-231d-47c9-b20c-5e264da84b9e",
+			"version": 11,
+			"type": "image",
+			"properties": {
+				"source": [
+					[
+						"https://s3-us-west-2.amazonaws.com/secure.notion-static.com/509a379f-46ce-4356-8790-e7a43b54cf47/_2020-05-12__1.32.15.png"
+					]
+				]
+			},
+			"format": {
+				"block_width": 480,
+				"display_source": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/509a379f-46ce-4356-8790-e7a43b54cf47/_2020-05-12__1.32.15.png",
+				"block_full_width": false,
+				"block_page_width": false,
+				"block_aspect_ratio": 0.41707080504364696,
+				"copied_from_pointer": {
+					"id": "35ba4b9e-8033-4d35-b9a7-8be9ad362ced",
+					"table": "block",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				},
+				"block_preserve_scale": true
+			},
+			"created_time": 1661148383934,
+			"last_edited_time": 1664382180000,
+			"parent_id": "d1597387-1e23-4469-a657-f51bff544e53",
+			"parent_table": "block",
+			"alive": true,
+			"copied_from": "35ba4b9e-8033-4d35-b9a7-8be9ad362ced",
+			"file_ids": [
+				"509a379f-46ce-4356-8790-e7a43b54cf47"
+			],
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"88466079-f8d6-443b-8000-3709dc4097d1": {
+		"role": "reader",
+		"value": {
+			"id": "88466079-f8d6-443b-8000-3709dc4097d1",
+			"version": 11,
+			"type": "image",
+			"properties": {
+				"source": [
+					[
+						"https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a39cf18a-aaf1-446b-96c0-90ab296061bb/_2020-05-12__1.33.43.png"
+					]
+				]
+			},
+			"format": {
+				"block_width": 480,
+				"display_source": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a39cf18a-aaf1-446b-96c0-90ab296061bb/_2020-05-12__1.33.43.png",
+				"block_full_width": false,
+				"block_page_width": false,
+				"block_aspect_ratio": 0.4095238095238095,
+				"copied_from_pointer": {
+					"id": "9ea42aee-95eb-4649-b75c-7b1da76e015a",
+					"table": "block",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				},
+				"block_preserve_scale": true
+			},
+			"created_time": 1661148383935,
+			"last_edited_time": 1664382180000,
+			"parent_id": "d1597387-1e23-4469-a657-f51bff544e53",
+			"parent_table": "block",
+			"alive": true,
+			"copied_from": "9ea42aee-95eb-4649-b75c-7b1da76e015a",
+			"file_ids": [
+				"a39cf18a-aaf1-446b-96c0-90ab296061bb"
+			],
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"bc7ad178-c454-492b-99b5-199dbee1776d": {
+		"role": "reader",
+		"value": {
+			"id": "bc7ad178-c454-492b-99b5-199dbee1776d",
+			"version": 10,
+			"type": "text",
+			"created_time": 1664382000000,
+			"last_edited_time": 1664382120000,
+			"parent_id": "d1597387-1e23-4469-a657-f51bff544e53",
+			"parent_table": "block",
+			"alive": true,
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"8ea1ef55-e82d-4f4f-bf91-5313dc6b43d4": {
+		"role": "reader",
+		"value": {
+			"id": "8ea1ef55-e82d-4f4f-bf91-5313dc6b43d4",
+			"version": 5,
+			"type": "divider",
+			"created_time": 1664382033679,
+			"last_edited_time": 1664382000000,
+			"parent_id": "34d94ff2-bbe0-4b41-87c2-68b8b6e7b973",
+			"parent_table": "block",
+			"alive": true,
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"dfe8fe9b-c3f4-4fa9-a423-54d871a02557": {
+		"role": "reader",
+		"value": {
+			"id": "dfe8fe9b-c3f4-4fa9-a423-54d871a02557",
+			"version": 76,
+			"type": "text",
+			"properties": {
+				"title": [
+					[
+						"Let's get it’ :: 성평등을 위한 렛츠기릿",
+						[
+							[
+								"b"
+							]
+						]
+					]
+				]
+			},
+			"created_time": 1661162522688,
+			"last_edited_time": 1664382120000,
+			"parent_id": "34d94ff2-bbe0-4b41-87c2-68b8b6e7b973",
+			"parent_table": "block",
+			"alive": true,
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"2d6a08db-6c31-454e-a082-22ba571c901b": {
+		"role": "reader",
+		"value": {
+			"id": "2d6a08db-6c31-454e-a082-22ba571c901b",
+			"version": 21,
+			"type": "bulleted_list",
+			"properties": {
+				"title": [
+					[
+						"여성 가족부 주관의 공모전 이벤트 페이지 제작"
+					]
+				]
+			},
+			"created_time": 1662088680000,
+			"last_edited_time": 1664382120000,
+			"parent_id": "34d94ff2-bbe0-4b41-87c2-68b8b6e7b973",
+			"parent_table": "block",
+			"alive": true,
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"2424bac3-de10-4c07-8f55-0db38da6a83c": {
+		"role": "reader",
+		"value": {
+			"id": "2424bac3-de10-4c07-8f55-0db38da6a83c",
+			"version": 19,
+			"type": "bulleted_list",
+			"properties": {
+				"title": [
+					[
+						"마케팅 대행 업체 (필라멘트리) 협업"
+					]
+				]
+			},
+			"created_time": 1662088680000,
+			"last_edited_time": 1664382120000,
+			"parent_id": "34d94ff2-bbe0-4b41-87c2-68b8b6e7b973",
+			"parent_table": "block",
+			"alive": true,
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"b4e55b70-02ad-4882-a570-f2dcabf07583": {
+		"role": "reader",
+		"value": {
+			"id": "b4e55b70-02ad-4882-a570-f2dcabf07583",
+			"version": 19,
+			"type": "bulleted_list",
+			"properties": {
+				"title": [
+					[
+						"대용량 파일 전송 시스템 구축"
+					]
+				]
+			},
+			"created_time": 1662088680000,
+			"last_edited_time": 1664382120000,
+			"parent_id": "34d94ff2-bbe0-4b41-87c2-68b8b6e7b973",
+			"parent_table": "block",
+			"alive": true,
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"cb6bead4-8220-405b-b181-85ee111a1d44": {
+		"role": "reader",
+		"value": {
+			"id": "cb6bead4-8220-405b-b181-85ee111a1d44",
+			"version": 20,
+			"type": "bulleted_list",
+			"properties": {
+				"title": [
+					[
+						"실시간 지원자를 위한 어드민 페이지 제작"
+					]
+				]
+			},
+			"created_time": 1662088680000,
+			"last_edited_time": 1664382120000,
+			"parent_id": "34d94ff2-bbe0-4b41-87c2-68b8b6e7b973",
+			"parent_table": "block",
+			"alive": true,
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"964be3e2-9d4d-4405-b915-9cc3405a1b33": {
+		"role": "reader",
+		"value": {
+			"id": "964be3e2-9d4d-4405-b915-9cc3405a1b33",
+			"version": 21,
+			"type": "image",
+			"properties": {
+				"size": [
+					[
+						"755.2KB"
+					]
+				],
+				"title": [
+					[
+						"스크린샷 2022-09-29 오전 1.21.38.png"
+					]
+				],
+				"source": [
+					[
+						"https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2d1e893c-e2a0-4b12-8968-66c3d1bad8ca/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2022-09-29_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_1.21.38.png"
+					]
+				]
+			},
+			"format": {
+				"block_width": 576,
+				"block_height": 792,
+				"display_source": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2d1e893c-e2a0-4b12-8968-66c3d1bad8ca/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2022-09-29_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_1.21.38.png",
+				"block_full_width": false,
+				"block_page_width": false,
+				"block_aspect_ratio": 1.337837837837838,
+				"block_preserve_scale": true
+			},
+			"created_time": 1664382060000,
+			"last_edited_time": 1664382120000,
+			"parent_id": "34d94ff2-bbe0-4b41-87c2-68b8b6e7b973",
+			"parent_table": "block",
+			"alive": true,
+			"file_ids": [
+				"2d1e893c-e2a0-4b12-8968-66c3d1bad8ca"
+			],
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	}
+}

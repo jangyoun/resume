@@ -1,0 +1,381 @@
+{
+	"a36595f8-4daf-4733-bcdd-6b9c29c2deec": {
+		"role": "reader",
+		"value": {
+			"id": "a36595f8-4daf-4733-bcdd-6b9c29c2deec",
+			"version": 3,
+			"type": "page",
+			"properties": {
+				"L$XI": [
+					[
+						"2010-02-06"
+					]
+				],
+				"MNfl": [
+					[
+						"NAVER, DAUM"
+					]
+				],
+				"hf<;": [
+					[
+						"Pronunciation"
+					]
+				],
+				"title": [
+					[
+						"MASHUP CONTEST 2010"
+					]
+				]
+			},
+			"content": [
+				"ef4fac0c-796c-4bd1-afc3-7ef689713691",
+				"117eae9d-fac6-4275-897d-2f6598236083",
+				"3bb57743-73d9-42b1-9eb7-4c1d7e9b580a"
+			],
+			"format": {
+				"copied_from_pointer": {
+					"id": "46da6a67-1863-415b-aa30-e31d9856cd1d",
+					"table": "block",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				}
+			},
+			"created_time": 1661421722614,
+			"last_edited_time": 1661421780000,
+			"parent_id": "6f2948e5-0eb5-459e-977f-960f2e4c9631",
+			"parent_table": "collection",
+			"alive": true,
+			"copied_from": "46da6a67-1863-415b-aa30-e31d9856cd1d",
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"b53b7955-979f-44e4-86ff-a513ff65d3e9": {
+		"role": "reader",
+		"value": {
+			"id": "b53b7955-979f-44e4-86ff-a513ff65d3e9",
+			"version": 30,
+			"type": "collection_view",
+			"view_ids": [
+				"ad9ece50-0002-4ecc-a616-2b84195f0bee"
+			],
+			"collection_id": "6f2948e5-0eb5-459e-977f-960f2e4c9631",
+			"format": {
+				"collection_pointer": {
+					"id": "6f2948e5-0eb5-459e-977f-960f2e4c9631",
+					"table": "collection",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				},
+				"copied_from_pointer": {
+					"id": "a7886321-2301-45f0-b2aa-07b3244f5534",
+					"table": "block",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				}
+			},
+			"created_time": 1661421722615,
+			"last_edited_time": 1661421747973,
+			"parent_id": "f7e92f33-78ff-4152-883f-531dfbe8cf9b",
+			"parent_table": "block",
+			"alive": true,
+			"copied_from": "a7886321-2301-45f0-b2aa-07b3244f5534",
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		},
+		"collection": {
+			"title": [
+				[
+					"수상내역"
+				]
+			],
+			"schema": {
+				"L$XI": {
+					"name": "Date (Y-M-D)",
+					"type": "text",
+					"date_format": "ll"
+				},
+				"MNfl": {
+					"name": "Manage",
+					"type": "text"
+				},
+				"hf<;": {
+					"name": "Rank",
+					"type": "text"
+				},
+				"title": {
+					"name": "대회명",
+					"type": "title"
+				}
+			},
+			"types": [
+				{
+					"id": "ad9ece50-0002-4ecc-a616-2b84195f0bee",
+					"version": 2,
+					"type": "table",
+					"name": "",
+					"parent_id": "b53b7955-979f-44e4-86ff-a513ff65d3e9",
+					"parent_table": "block",
+					"alive": true,
+					"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				}
+			],
+			"data": [
+				{
+					"id": "7d077031-7a67-4b7c-8fe9-d4ac8cca25a1",
+					"Date (Y-M-D)": [
+						[
+							"2013-10-16"
+						]
+					],
+					"Manage": [
+						[
+							"Ministry of ICT (GOV)"
+						]
+					],
+					"Rank": [
+						[
+							"2nd Prize (for SKT)"
+						]
+					],
+					"대회명": [
+						[
+							"2013 DB Mashup Challenge "
+						]
+					]
+				},
+				{
+					"id": "6bbd9abd-4de0-4130-b9f1-a7b7c88c4bc7",
+					"Date (Y-M-D)": [
+						[
+							"2010-03-20"
+						]
+					],
+					"Manage": [
+						[
+							"Microsoft"
+						]
+					],
+					"Rank": [
+						[
+							"Finalist"
+						]
+					],
+					"대회명": [
+						[
+							"Imagine Cup 2010"
+						]
+					]
+				},
+				{
+					"id": "a36595f8-4daf-4733-bcdd-6b9c29c2deec",
+					"Date (Y-M-D)": [
+						[
+							"2010-02-06"
+						]
+					],
+					"Manage": [
+						[
+							"NAVER, DAUM"
+						]
+					],
+					"Rank": [
+						[
+							"Pronunciation"
+						]
+					],
+					"대회명": [
+						[
+							"MASHUP CONTEST 2010"
+						]
+					]
+				}
+			]
+		}
+	},
+	"f7e92f33-78ff-4152-883f-531dfbe8cf9b": {
+		"role": "reader",
+		"value": {
+			"id": "f7e92f33-78ff-4152-883f-531dfbe8cf9b",
+			"version": 291,
+			"type": "page",
+			"properties": {
+				"title": [
+					[
+						"요약"
+					]
+				]
+			},
+			"content": [
+				"52e10e2a-9265-4703-93eb-4f52b66cbf44",
+				"c5df71d7-1dc5-48ae-9aa3-b32e0fcf8054",
+				"c9f17a2a-5411-4fd6-a1aa-d46c9a16e847",
+				"b53ba0b1-8d95-4f03-b9d6-e10071bfd505",
+				"b53b7955-979f-44e4-86ff-a513ff65d3e9",
+				"ff1f05c1-c09a-46a1-8b8c-8dff77f9f406",
+				"4f940a65-0e4c-47c0-8d90-4a30b47f4462",
+				"f83c4393-e46a-4933-af26-b162ca182e72",
+				"7229517e-dfa8-48c9-91e6-2f667ddbdaea",
+				"bc33ae1c-44a4-445b-8c3d-9fad70b6ee72",
+				"9f93274a-b21e-4360-9a25-5a46702934c1",
+				"79937e01-61d3-46c6-8e6b-fac2bfb8cbb7",
+				"4b15a1a6-b2d0-4918-a040-3ce5603acb32",
+				"260f73f9-0388-4c3d-be94-4fb900382638"
+			],
+			"permissions": [
+				{
+					"role": "editor",
+					"type": "user_permission",
+					"user_id": "6362623b-74f5-4e6e-b364-235fb75e31ff"
+				},
+				{
+					"role": "reader",
+					"type": "public_permission",
+					"added_timestamp": 1661325636106
+				},
+				{
+					"role": {
+						"read_content": true
+					},
+					"type": "bot_permission",
+					"bot_id": "c532588c-39b6-4c20-8e41-3ff3766d5067",
+					"parent_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63",
+					"parent_table": "space"
+				},
+				{
+					"role": {
+						"read_content": true,
+						"insert_content": true,
+						"update_content": true
+					},
+					"type": "bot_permission",
+					"bot_id": "e3131756-41ce-46b5-a6fc-827400e1204b"
+				}
+			],
+			"created_time": 1661140560000,
+			"last_edited_time": 1664370540000,
+			"parent_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63",
+			"parent_table": "space",
+			"alive": true,
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"ef4fac0c-796c-4bd1-afc3-7ef689713691": {
+		"role": "reader",
+		"value": {
+			"id": "ef4fac0c-796c-4bd1-afc3-7ef689713691",
+			"version": 3,
+			"type": "text",
+			"format": {
+				"copied_from_pointer": {
+					"id": "91398df8-6990-4e5a-919e-60b801bf8b80",
+					"table": "block",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				}
+			},
+			"created_time": 1661421722615,
+			"last_edited_time": 1661421780000,
+			"parent_id": "a36595f8-4daf-4733-bcdd-6b9c29c2deec",
+			"parent_table": "block",
+			"alive": true,
+			"copied_from": "91398df8-6990-4e5a-919e-60b801bf8b80",
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"117eae9d-fac6-4275-897d-2f6598236083": {
+		"role": "reader",
+		"value": {
+			"id": "117eae9d-fac6-4275-897d-2f6598236083",
+			"version": 3,
+			"type": "image",
+			"properties": {
+				"source": [
+					[
+						"https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1f70ae15-37fc-4125-9cf2-6a9b009853ab/Untitled.png"
+					]
+				]
+			},
+			"format": {
+				"block_width": 720,
+				"block_height": 399,
+				"display_source": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1f70ae15-37fc-4125-9cf2-6a9b009853ab/Untitled.png",
+				"block_full_width": false,
+				"block_page_width": false,
+				"block_aspect_ratio": 0.665,
+				"copied_from_pointer": {
+					"id": "e9b9f705-1a43-4412-a62c-05d12586879c",
+					"table": "block",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				},
+				"block_preserve_scale": true
+			},
+			"created_time": 1661421722615,
+			"last_edited_time": 1661421780000,
+			"parent_id": "a36595f8-4daf-4733-bcdd-6b9c29c2deec",
+			"parent_table": "block",
+			"alive": true,
+			"copied_from": "e9b9f705-1a43-4412-a62c-05d12586879c",
+			"file_ids": [
+				"1f70ae15-37fc-4125-9cf2-6a9b009853ab"
+			],
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"3bb57743-73d9-42b1-9eb7-4c1d7e9b580a": {
+		"role": "reader",
+		"value": {
+			"id": "3bb57743-73d9-42b1-9eb7-4c1d7e9b580a",
+			"version": 3,
+			"type": "image",
+			"properties": {
+				"source": [
+					[
+						"https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d6574a61-f705-448c-9429-9231773585eb/_2020-09-10__3.46.50.png"
+					]
+				]
+			},
+			"format": {
+				"block_width": 720,
+				"display_source": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d6574a61-f705-448c-9429-9231773585eb/_2020-09-10__3.46.50.png",
+				"block_full_width": false,
+				"block_page_width": false,
+				"block_aspect_ratio": 0.5868347338935574,
+				"copied_from_pointer": {
+					"id": "1efd9d13-3387-44e2-b699-129250c591bc",
+					"table": "block",
+					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+				},
+				"block_preserve_scale": true
+			},
+			"created_time": 1661421722615,
+			"last_edited_time": 1661421780000,
+			"parent_id": "a36595f8-4daf-4733-bcdd-6b9c29c2deec",
+			"parent_table": "block",
+			"alive": true,
+			"copied_from": "1efd9d13-3387-44e2-b699-129250c591bc",
+			"file_ids": [
+				"d6574a61-f705-448c-9429-9231773585eb"
+			],
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	}
+}
