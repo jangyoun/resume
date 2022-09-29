@@ -57,7 +57,7 @@
 		"role": "reader",
 		"value": {
 			"id": "b53b7955-979f-44e4-86ff-a513ff65d3e9",
-			"version": 30,
+			"version": 31,
 			"type": "collection_view",
 			"view_ids": [
 				"ad9ece50-0002-4ecc-a616-2b84195f0bee"
@@ -76,7 +76,7 @@
 				}
 			},
 			"created_time": 1661421722615,
-			"last_edited_time": 1661421747973,
+			"last_edited_time": 1664465100000,
 			"parent_id": "f7e92f33-78ff-4152-883f-531dfbe8cf9b",
 			"parent_table": "block",
 			"alive": true,
@@ -115,9 +115,12 @@
 			"types": [
 				{
 					"id": "ad9ece50-0002-4ecc-a616-2b84195f0bee",
-					"version": 2,
+					"version": 3,
 					"type": "table",
 					"name": "",
+					"format": {
+						"hide_linked_collection_name": true
+					},
 					"parent_id": "b53b7955-979f-44e4-86ff-a513ff65d3e9",
 					"parent_table": "block",
 					"alive": true,
