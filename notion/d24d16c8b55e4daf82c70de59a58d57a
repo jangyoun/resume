@@ -3,7 +3,7 @@
 		"role": "reader",
 		"value": {
 			"id": "d24d16c8-b55e-4daf-82c7-0de59a58d57a",
-			"version": 576,
+			"version": 598,
 			"type": "page",
 			"properties": {
 				"I}h}": [
@@ -78,13 +78,11 @@
 				"c27998bd-759b-4ebe-a011-ed3fbaa4a666",
 				"94d89a8a-88bb-4d8c-ace5-a921f37b82e9",
 				"893d9a0c-b903-49bd-9480-75a703449338",
-				"150a9ca0-c9db-4590-9a6a-038901a8a9dc",
-				"77faa0de-96c3-4a03-9257-0f88ad0db114",
+				"adbf1192-46b7-471b-a40b-200760c1523c",
+				"54cc1cad-e8ae-4ef6-8ce7-93b75dee275f",
+				"b0bca762-4b98-4ab1-b57f-fe6e46f5def2",
 				"fc5e78f5-19d0-430c-b276-8431d3b0bb91",
-				"a1a58e2c-8df3-4cc0-bcef-c72a9bc4114c",
-				"3d2b32dd-4e52-4184-b8a1-3e4aed28eddf",
-				"d1ba273f-f7cb-4b1b-98a5-e4259c442038",
-				"996960e4-6898-45a1-a40f-472c2a0b18d7"
+				"b5a8d8d9-2fd0-4711-a570-1a9659c86f5c"
 			],
 			"format": {
 				"page_icon": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0dd0efca-4a3b-44db-a395-6247db80c97e/Untitled-3_copy.png",
@@ -95,7 +93,7 @@
 				}
 			},
 			"created_time": 1661148383930,
-			"last_edited_time": 1664428560000,
+			"last_edited_time": 1664562600000,
 			"parent_id": "d9152762-7dc3-4b60-b095-6888d17b5e34",
 			"parent_table": "collection",
 			"alive": true,
@@ -1465,44 +1463,44 @@
 			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
 		}
 	},
-	"150a9ca0-c9db-4590-9a6a-038901a8a9dc": {
+	"adbf1192-46b7-471b-a40b-200760c1523c": {
 		"role": "reader",
 		"value": {
-			"id": "150a9ca0-c9db-4590-9a6a-038901a8a9dc",
-			"version": 10,
+			"id": "adbf1192-46b7-471b-a40b-200760c1523c",
+			"version": 8,
 			"type": "image",
 			"properties": {
 				"size": [
 					[
-						"543.9KB"
+						"1073.3KB"
 					]
 				],
 				"title": [
 					[
-						"스크린샷 2022-09-28 오후 7.52.29.png"
+						"스크린샷 2022-10-01 오전 2.23.56.png"
 					]
 				],
 				"source": [
 					[
-						"https://s3-us-west-2.amazonaws.com/secure.notion-static.com/aad20100-9bc0-446c-8cbe-0d8af0085099/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2022-09-28_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_7.52.29.png"
+						"https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4456df26-f2ef-4d63-9d09-a23b13ab3c8a/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2022-10-01_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_2.23.56.png"
 					]
 				]
 			},
 			"format": {
-				"block_width": 1306,
-				"display_source": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/aad20100-9bc0-446c-8cbe-0d8af0085099/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2022-09-28_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_7.52.29.png",
+				"block_width": 1286,
+				"display_source": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4456df26-f2ef-4d63-9d09-a23b13ab3c8a/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2022-10-01_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_2.23.56.png",
 				"block_full_width": false,
 				"block_page_width": true,
-				"block_aspect_ratio": 0.3231240428790199,
+				"block_aspect_ratio": 0.7628304821150855,
 				"block_preserve_scale": true
 			},
-			"created_time": 1664362320000,
-			"last_edited_time": 1664362320000,
+			"created_time": 1664558640000,
+			"last_edited_time": 1664558640000,
 			"parent_id": "d24d16c8-b55e-4daf-82c7-0de59a58d57a",
 			"parent_table": "block",
 			"alive": true,
 			"file_ids": [
-				"aad20100-9bc0-446c-8cbe-0d8af0085099"
+				"4456df26-f2ef-4d63-9d09-a23b13ab3c8a"
 			],
 			"created_by_table": "notion_user",
 			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
@@ -1511,44 +1509,90 @@
 			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
 		}
 	},
-	"77faa0de-96c3-4a03-9257-0f88ad0db114": {
+	"54cc1cad-e8ae-4ef6-8ce7-93b75dee275f": {
 		"role": "reader",
 		"value": {
-			"id": "77faa0de-96c3-4a03-9257-0f88ad0db114",
-			"version": 8,
+			"id": "54cc1cad-e8ae-4ef6-8ce7-93b75dee275f",
+			"version": 9,
 			"type": "image",
 			"properties": {
 				"size": [
 					[
-						"265.3KB"
+						"407.8KB"
 					]
 				],
 				"title": [
 					[
-						"스크린샷 2022-09-28 오후 8.58.28.png"
+						"스크린샷 2022-10-01 오전 3.27.06.png"
 					]
 				],
 				"source": [
 					[
-						"https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5e3480dd-66cc-4b7c-836f-69e4247ff06a/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2022-09-28_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_8.58.28.png"
+						"https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f6f86ec8-13e3-430b-94a5-b436cee14dd6/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2022-10-01_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_3.27.06.png"
 					]
 				]
 			},
 			"format": {
-				"block_width": 1309,
-				"display_source": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5e3480dd-66cc-4b7c-836f-69e4247ff06a/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2022-09-28_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_8.58.28.png",
+				"block_width": 1018,
+				"display_source": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f6f86ec8-13e3-430b-94a5-b436cee14dd6/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2022-10-01_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_3.27.06.png",
 				"block_full_width": false,
 				"block_page_width": true,
-				"block_aspect_ratio": 0.32161955691367455,
+				"block_aspect_ratio": 0.6758349705304518,
 				"block_preserve_scale": true
 			},
-			"created_time": 1664366280000,
-			"last_edited_time": 1664366280000,
+			"created_time": 1664562420000,
+			"last_edited_time": 1664562420000,
 			"parent_id": "d24d16c8-b55e-4daf-82c7-0de59a58d57a",
 			"parent_table": "block",
 			"alive": true,
 			"file_ids": [
-				"5e3480dd-66cc-4b7c-836f-69e4247ff06a"
+				"f6f86ec8-13e3-430b-94a5-b436cee14dd6"
+			],
+			"created_by_table": "notion_user",
+			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"last_edited_by_table": "notion_user",
+			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
+			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
+		}
+	},
+	"b0bca762-4b98-4ab1-b57f-fe6e46f5def2": {
+		"role": "reader",
+		"value": {
+			"id": "b0bca762-4b98-4ab1-b57f-fe6e46f5def2",
+			"version": 9,
+			"type": "image",
+			"properties": {
+				"size": [
+					[
+						"679.7KB"
+					]
+				],
+				"title": [
+					[
+						"스크린샷 2022-10-01 오전 3.29.46.png"
+					]
+				],
+				"source": [
+					[
+						"https://s3-us-west-2.amazonaws.com/secure.notion-static.com/437f6d96-404c-48c7-945c-efaf46e643c5/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2022-10-01_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_3.29.46.png"
+					]
+				]
+			},
+			"format": {
+				"block_width": 1011,
+				"display_source": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/437f6d96-404c-48c7-945c-efaf46e643c5/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2022-10-01_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_3.29.46.png",
+				"block_full_width": false,
+				"block_page_width": true,
+				"block_aspect_ratio": 1.0257171117705242,
+				"block_preserve_scale": true
+			},
+			"created_time": 1664562540000,
+			"last_edited_time": 1664562540000,
+			"parent_id": "d24d16c8-b55e-4daf-82c7-0de59a58d57a",
+			"parent_table": "block",
+			"alive": true,
+			"file_ids": [
+				"437f6d96-404c-48c7-945c-efaf46e643c5"
 			],
 			"created_by_table": "notion_user",
 			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
@@ -1561,10 +1605,10 @@
 		"role": "reader",
 		"value": {
 			"id": "fc5e78f5-19d0-430c-b276-8431d3b0bb91",
-			"version": 5,
+			"version": 8,
 			"type": "text",
 			"created_time": 1664366580000,
-			"last_edited_time": 1664366580000,
+			"last_edited_time": 1664562600000,
 			"parent_id": "d24d16c8-b55e-4daf-82c7-0de59a58d57a",
 			"parent_table": "block",
 			"alive": true,
@@ -1575,426 +1619,15 @@
 			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
 		}
 	},
-	"a1a58e2c-8df3-4cc0-bcef-c72a9bc4114c": {
+	"b5a8d8d9-2fd0-4711-a570-1a9659c86f5c": {
 		"role": "reader",
 		"value": {
-			"id": "a1a58e2c-8df3-4cc0-bcef-c72a9bc4114c",
-			"version": 7,
-			"type": "divider",
-			"format": {
-				"copied_from_pointer": {
-					"id": "94d89a8a-88bb-4d8c-ace5-a921f37b82e9",
-					"table": "block",
-					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
-				}
-			},
-			"created_time": 1664366593642,
-			"last_edited_time": 1664366580000,
-			"parent_id": "d24d16c8-b55e-4daf-82c7-0de59a58d57a",
-			"parent_table": "block",
-			"alive": true,
-			"copied_from": "94d89a8a-88bb-4d8c-ace5-a921f37b82e9",
-			"created_by_table": "notion_user",
-			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
-			"last_edited_by_table": "notion_user",
-			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
-			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
-		}
-	},
-	"3d2b32dd-4e52-4184-b8a1-3e4aed28eddf": {
-		"role": "reader",
-		"value": {
-			"id": "3d2b32dd-4e52-4184-b8a1-3e4aed28eddf",
-			"version": 7,
-			"type": "column_list",
-			"content": [
-				"bbcb9cd7-e671-4677-b294-74cd3a520018",
-				"2cc79517-d9f8-433f-a1f3-052d28049226",
-				"4b138e3b-df8a-4f36-a4a8-c54abd811399",
-				"229de9c1-e772-4fdd-8973-b6461ae5772e"
-			],
-			"created_time": 1664366700000,
-			"last_edited_time": 1664366700000,
-			"parent_id": "d24d16c8-b55e-4daf-82c7-0de59a58d57a",
-			"parent_table": "block",
-			"alive": true,
-			"created_by_table": "notion_user",
-			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
-			"last_edited_by_table": "notion_user",
-			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
-			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
-		}
-	},
-	"bbcb9cd7-e671-4677-b294-74cd3a520018": {
-		"role": "reader",
-		"value": {
-			"id": "bbcb9cd7-e671-4677-b294-74cd3a520018",
-			"version": 7,
-			"type": "column",
-			"content": [
-				"54c51fec-b47d-4b36-a95c-27873faadb09"
-			],
-			"format": {
-				"column_ratio": 0.25
-			},
-			"created_time": 1664366700000,
-			"last_edited_time": 1664366700000,
-			"parent_id": "3d2b32dd-4e52-4184-b8a1-3e4aed28eddf",
-			"parent_table": "block",
-			"alive": true,
-			"created_by_table": "notion_user",
-			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
-			"last_edited_by_table": "notion_user",
-			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
-			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
-		}
-	},
-	"2cc79517-d9f8-433f-a1f3-052d28049226": {
-		"role": "reader",
-		"value": {
-			"id": "2cc79517-d9f8-433f-a1f3-052d28049226",
-			"version": 8,
-			"type": "column",
-			"content": [
-				"ef28debd-b4b0-4399-8cbd-c12b0cc92979"
-			],
-			"format": {
-				"column_ratio": 0.25
-			},
-			"created_time": 1664366700000,
-			"last_edited_time": 1664366700000,
-			"parent_id": "3d2b32dd-4e52-4184-b8a1-3e4aed28eddf",
-			"parent_table": "block",
-			"alive": true,
-			"created_by_table": "notion_user",
-			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
-			"last_edited_by_table": "notion_user",
-			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
-			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
-		}
-	},
-	"4b138e3b-df8a-4f36-a4a8-c54abd811399": {
-		"role": "reader",
-		"value": {
-			"id": "4b138e3b-df8a-4f36-a4a8-c54abd811399",
-			"version": 5,
-			"type": "column",
-			"content": [
-				"2eaebf5e-c943-4f0c-864d-c91025b1464b"
-			],
-			"format": {
-				"column_ratio": 0.25
-			},
-			"created_time": 1664366700000,
-			"last_edited_time": 1664366700000,
-			"parent_id": "3d2b32dd-4e52-4184-b8a1-3e4aed28eddf",
-			"parent_table": "block",
-			"alive": true,
-			"created_by_table": "notion_user",
-			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
-			"last_edited_by_table": "notion_user",
-			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
-			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
-		}
-	},
-	"229de9c1-e772-4fdd-8973-b6461ae5772e": {
-		"role": "reader",
-		"value": {
-			"id": "229de9c1-e772-4fdd-8973-b6461ae5772e",
-			"version": 9,
-			"type": "column",
-			"content": [
-				"7bcb4cad-d863-4cdc-b4f9-0f984fdd217c"
-			],
-			"format": {
-				"column_ratio": 0.25
-			},
-			"created_time": 1664366700000,
-			"last_edited_time": 1664366700000,
-			"parent_id": "3d2b32dd-4e52-4184-b8a1-3e4aed28eddf",
-			"parent_table": "block",
-			"alive": true,
-			"created_by_table": "notion_user",
-			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
-			"last_edited_by_table": "notion_user",
-			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
-			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
-		}
-	},
-	"54c51fec-b47d-4b36-a95c-27873faadb09": {
-		"role": "reader",
-		"value": {
-			"id": "54c51fec-b47d-4b36-a95c-27873faadb09",
-			"version": 7,
-			"type": "image",
-			"properties": {
-				"size": [
-					[
-						"3191.7KB"
-					]
-				],
-				"title": [
-					[
-						"ezgif-4-b25674b1d7.gif"
-					]
-				],
-				"source": [
-					[
-						"https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2a9d672b-ae20-4719-87c0-f3d3696e6212/ezgif-4-b25674b1d7.gif"
-					]
-				]
-			},
-			"format": {
-				"block_width": 200,
-				"block_height": 444,
-				"display_source": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2a9d672b-ae20-4719-87c0-f3d3696e6212/ezgif-4-b25674b1d7.gif",
-				"block_full_width": false,
-				"block_page_width": false,
-				"block_aspect_ratio": 2.22,
-				"copied_from_pointer": {
-					"id": "7bcb4cad-d863-4cdc-b4f9-0f984fdd217c",
-					"table": "block",
-					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
-				},
-				"block_preserve_scale": true
-			},
-			"created_time": 1664366693621,
-			"last_edited_time": 1664366700000,
-			"parent_id": "bbcb9cd7-e671-4677-b294-74cd3a520018",
-			"parent_table": "block",
-			"alive": true,
-			"copied_from": "7bcb4cad-d863-4cdc-b4f9-0f984fdd217c",
-			"file_ids": [
-				"2a9d672b-ae20-4719-87c0-f3d3696e6212"
-			],
-			"created_by_table": "notion_user",
-			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
-			"last_edited_by_table": "notion_user",
-			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
-			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
-		}
-	},
-	"ef28debd-b4b0-4399-8cbd-c12b0cc92979": {
-		"role": "reader",
-		"value": {
-			"id": "ef28debd-b4b0-4399-8cbd-c12b0cc92979",
-			"version": 5,
-			"type": "image",
-			"properties": {
-				"size": [
-					[
-						"3191.7KB"
-					]
-				],
-				"title": [
-					[
-						"ezgif-4-b25674b1d7.gif"
-					]
-				],
-				"source": [
-					[
-						"https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2a9d672b-ae20-4719-87c0-f3d3696e6212/ezgif-4-b25674b1d7.gif"
-					]
-				]
-			},
-			"format": {
-				"block_width": 200,
-				"block_height": 444,
-				"display_source": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2a9d672b-ae20-4719-87c0-f3d3696e6212/ezgif-4-b25674b1d7.gif",
-				"block_full_width": false,
-				"block_page_width": false,
-				"block_aspect_ratio": 2.22,
-				"copied_from_pointer": {
-					"id": "7bcb4cad-d863-4cdc-b4f9-0f984fdd217c",
-					"table": "block",
-					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
-				},
-				"block_preserve_scale": true
-			},
-			"created_time": 1664366723856,
-			"last_edited_time": 1664366700000,
-			"parent_id": "2cc79517-d9f8-433f-a1f3-052d28049226",
-			"parent_table": "block",
-			"alive": true,
-			"copied_from": "7bcb4cad-d863-4cdc-b4f9-0f984fdd217c",
-			"file_ids": [
-				"2a9d672b-ae20-4719-87c0-f3d3696e6212"
-			],
-			"created_by_table": "notion_user",
-			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
-			"last_edited_by_table": "notion_user",
-			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
-			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
-		}
-	},
-	"2eaebf5e-c943-4f0c-864d-c91025b1464b": {
-		"role": "reader",
-		"value": {
-			"id": "2eaebf5e-c943-4f0c-864d-c91025b1464b",
-			"version": 5,
-			"type": "image",
-			"properties": {
-				"size": [
-					[
-						"3191.7KB"
-					]
-				],
-				"title": [
-					[
-						"ezgif-4-b25674b1d7.gif"
-					]
-				],
-				"source": [
-					[
-						"https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2a9d672b-ae20-4719-87c0-f3d3696e6212/ezgif-4-b25674b1d7.gif"
-					]
-				]
-			},
-			"format": {
-				"block_width": 200,
-				"block_height": 444,
-				"display_source": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2a9d672b-ae20-4719-87c0-f3d3696e6212/ezgif-4-b25674b1d7.gif",
-				"block_full_width": false,
-				"block_page_width": false,
-				"block_aspect_ratio": 2.22,
-				"copied_from_pointer": {
-					"id": "ef28debd-b4b0-4399-8cbd-c12b0cc92979",
-					"table": "block",
-					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
-				},
-				"block_preserve_scale": true
-			},
-			"created_time": 1664366729626,
-			"last_edited_time": 1664366700000,
-			"parent_id": "4b138e3b-df8a-4f36-a4a8-c54abd811399",
-			"parent_table": "block",
-			"alive": true,
-			"copied_from": "ef28debd-b4b0-4399-8cbd-c12b0cc92979",
-			"file_ids": [
-				"2a9d672b-ae20-4719-87c0-f3d3696e6212"
-			],
-			"created_by_table": "notion_user",
-			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
-			"last_edited_by_table": "notion_user",
-			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
-			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
-		}
-	},
-	"7bcb4cad-d863-4cdc-b4f9-0f984fdd217c": {
-		"role": "reader",
-		"value": {
-			"id": "7bcb4cad-d863-4cdc-b4f9-0f984fdd217c",
-			"version": 16,
-			"type": "image",
-			"properties": {
-				"size": [
-					[
-						"3191.7KB"
-					]
-				],
-				"title": [
-					[
-						"ezgif-4-b25674b1d7.gif"
-					]
-				],
-				"source": [
-					[
-						"https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2a9d672b-ae20-4719-87c0-f3d3696e6212/ezgif-4-b25674b1d7.gif"
-					]
-				]
-			},
-			"format": {
-				"block_width": 200,
-				"block_height": 444,
-				"display_source": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2a9d672b-ae20-4719-87c0-f3d3696e6212/ezgif-4-b25674b1d7.gif",
-				"block_full_width": false,
-				"block_page_width": false,
-				"block_aspect_ratio": 2.22,
-				"copied_from_pointer": {
-					"id": "a8d69bb3-cfe7-4b2b-b6f8-4edcc8d01a58",
-					"table": "block",
-					"spaceId": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
-				},
-				"block_preserve_scale": true
-			},
-			"created_time": 1664352567424,
-			"last_edited_time": 1664366700000,
-			"parent_id": "229de9c1-e772-4fdd-8973-b6461ae5772e",
-			"parent_table": "block",
-			"alive": true,
-			"copied_from": "a8d69bb3-cfe7-4b2b-b6f8-4edcc8d01a58",
-			"file_ids": [
-				"2a9d672b-ae20-4719-87c0-f3d3696e6212"
-			],
-			"created_by_table": "notion_user",
-			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
-			"last_edited_by_table": "notion_user",
-			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
-			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
-		}
-	},
-	"d1ba273f-f7cb-4b1b-98a5-e4259c442038": {
-		"role": "reader",
-		"value": {
-			"id": "d1ba273f-f7cb-4b1b-98a5-e4259c442038",
-			"version": 70,
-			"type": "toggle",
-			"properties": {
-				"title": [
-					[
-						"기타 스크린샷"
-					]
-				]
-			},
-			"content": [
-				"f0d80b63-883a-48f0-a562-bb6a0b0cb9f5"
-			],
-			"created_time": 1664366576765,
-			"last_edited_time": 1664366700000,
-			"parent_id": "d24d16c8-b55e-4daf-82c7-0de59a58d57a",
-			"parent_table": "block",
-			"alive": true,
-			"created_by_table": "notion_user",
-			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
-			"last_edited_by_table": "notion_user",
-			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
-			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
-		}
-	},
-	"996960e4-6898-45a1-a40f-472c2a0b18d7": {
-		"role": "reader",
-		"value": {
-			"id": "996960e4-6898-45a1-a40f-472c2a0b18d7",
-			"version": 7,
-			"type": "text",
-			"properties": {
-				"title": [
-					[
-						"test"
-					]
-				]
-			},
-			"created_time": 1664428560000,
-			"last_edited_time": 1664428560000,
-			"parent_id": "d24d16c8-b55e-4daf-82c7-0de59a58d57a",
-			"parent_table": "block",
-			"alive": true,
-			"created_by_table": "notion_user",
-			"created_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
-			"last_edited_by_table": "notion_user",
-			"last_edited_by_id": "6362623b-74f5-4e6e-b364-235fb75e31ff",
-			"space_id": "c6c62feb-1540-4467-b79b-50a3d5a76a63"
-		}
-	},
-	"f0d80b63-883a-48f0-a562-bb6a0b0cb9f5": {
-		"role": "reader",
-		"value": {
-			"id": "f0d80b63-883a-48f0-a562-bb6a0b0cb9f5",
+			"id": "b5a8d8d9-2fd0-4711-a570-1a9659c86f5c",
 			"version": 3,
 			"type": "text",
-			"created_time": 1664366580000,
-			"last_edited_time": 1664366580000,
-			"parent_id": "d1ba273f-f7cb-4b1b-98a5-e4259c442038",
+			"created_time": 1664562600000,
+			"last_edited_time": 1664562600000,
+			"parent_id": "d24d16c8-b55e-4daf-82c7-0de59a58d57a",
 			"parent_table": "block",
 			"alive": true,
 			"created_by_table": "notion_user",
