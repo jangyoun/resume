@@ -54,7 +54,7 @@ export const PopupInfo: React.FunctionComponent<IPopupInfoProps> = (props) => {
                         size="large"
                         onClick={() => props.onClosed()}
                     />
-                    <div style={{ flex: 1, textAlign: 'center', fontSize: 20, fontWeight: "bold" }}>
+                    <div style={{ flex: 1, textAlign: 'center', fontSize: 14, fontWeight: "bold" }}>
                         {props.type == 1 ? 'Education' : (props.type == 2 ? 'Company' : (props.type == 3 ? 'Project' : (props.type == 4 ? 'Award' : '')))}
                         {' :: '}
                         {props.title}

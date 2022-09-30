@@ -40,3 +40,9 @@
   padding: 0;
   margin: 0;
 }
+.ant-radio-button-wrapper {
+  background-color: unset;
+}
+.ant-typography pre {
+  font-size: 11px;
+}
