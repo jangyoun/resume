@@ -11,7 +11,7 @@ export const Home: React.FunctionComponent = () => {
   const [isEn, setEn] = useState<boolean>(true);
   const [overlayInfo, setOverlayInfo] = useState({ hidden: true, type: 0, title: "", notion: "" });
 
-  useEffect(() => {}, []);
+  useEffect(() => { }, []);
 
   return (
     <div style={{ width: "100%", height: "100%", position: "relative" }}>
@@ -34,6 +34,8 @@ export const Home: React.FunctionComponent = () => {
           </div>
         </div>
 
+
+        {/* ========================== Language ========================== */}
         <div style={{ margin: "30px 20px 0px 20px" }}>
           <Select style={{ width: "100%", marginBottom: 20 }} placeholder="select language" defaultValue={"en"} onChange={(value: string) => setEn(value === "en")}>
             <Select.Option value="en" label="en">
@@ -48,6 +50,7 @@ export const Home: React.FunctionComponent = () => {
           <div style={{ fontSize: 18, fontWeight: "bold" }}>Full-Stack Developer</div>
           <div style={{ fontSize: 18, margin: "0px 10px 30px 0px" }}>{isEn ? "Have developed data crawling search system from a portal service company and DLNA, Miracast technology from a mobile phone manufacturer. Also have founded and managed a company about creating animation stickers and the company was sold to OGQ and I participated in projects related to AI and deep learning at OGQ. Currently, I am developing non-contact construction management platform using bluetooth device as a CTO at Buildprop." : "국내 포털사에서 검색 수집 머신 개발을, 국내 제조사에서 멀티미디어 미러링 개발 하였습니다. 우연한 기회로 콘텐츠 스타트업을 창업하였고, 그 과정에서 기술력을 인정받아 인수 합병을 경험하였습니다. 인수된 회사에서 신사업 및 A.I. 머신러닝 업무를 진행하였으며, 현재는 다수의 건설사 대표님들과 자산과 인력을 추적하는 솔루션을 개발 적용중에 있습니다. 전 개발 영역에 참여 하였으며, 개발 외적으로도 기획 / 디자인 / 운영 분들과 원만한 커뮤니케이션을 통해 다수의 프로젝트를 수행하였습니다."}</div>
 
+
           {/* ==========================  Education ========================== */}
           <div>
             <div style={{ fontSize: 18, fontWeight: "bold" }}>{isEn ? "Education" : "학력사항"}</div>
@@ -57,19 +60,19 @@ export const Home: React.FunctionComponent = () => {
                 width={200}
                 title={isEn ? "Title" : "제목"}
                 render={(item) => (
-                  <div style={{ display: "flex" }}>
+                  <div style={{ display: "flex", width: 200 }}>
                     <img style={{ height: 22, width: 22, marginRight: 5, borderRadius: 2 }} src={item.thumb} />
                     <div>{item.name}</div>
                   </div>
                 )}
               />
-              <Table.Column title={isEn ? "From ~ To" : "기간"} width={160} render={(item) => <div>{item.date}</div>} />
-              <Table.Column title={isEn ? "Major" : "전공"} width={110} render={(item) => <div>{item.major}</div>} />
-              <Table.Column title={isEn ? "Location" : "위치"} width={120} render={(item) => <div>{item.location}</div>} />
-              {/* <Table.Column title={isEn ? "Grade" : "학점"} render={(item) => <div >{item.grade}</div>} /> */}
-              <Table.Column title={isEn ? "" : ""} render={(item) => <></>} />
+              <Table.Column title={isEn ? "From ~ To" : "기간"} width={160} render={(item) => <div style={{ width: 160 }}>{item.date}</div>} />
+              <Table.Column title={isEn ? "Major" : "전공"} width={110} render={(item) => <div style={{ width: 110 }}>{item.major}</div>} />
+              <Table.Column title={isEn ? "Location" : "위치"} width={120} render={(item) => <div style={{ width: 120 }}>{item.location}</div>} />
+              <Table.Column title={isEn ? "Grade" : "학점"} render={(item) => <div style={{ width: 100 }}>{item.grade}</div>} />
             </Table>
           </div>
+
 
           {/* ==========================  Company ========================== */}
           <div>
@@ -89,7 +92,7 @@ export const Home: React.FunctionComponent = () => {
                 width={210}
                 title={isEn ? "Title" : "제목"}
                 render={(item) => (
-                  <div style={{ display: "flex" }}>
+                  <div style={{ display: "flex", width: 210 }}>
                     <img style={{ height: 22, width: 22, marginRight: 5, borderRadius: 2 }} src={item.thumb} />
                     <div>{item.name}</div>
                     &nbsp;&nbsp;
@@ -99,21 +102,22 @@ export const Home: React.FunctionComponent = () => {
                   </div>
                 )}
               />
-              <Table.Column title={isEn ? "Position" : "직책"} width={120} render={(item) => <div>{item.position}</div>} />
+              <Table.Column title={isEn ? "Position" : "직책"} width={100} render={(item) => <div style={{ width: 100 }}>{item.position}</div>} />
               <Table.Column
                 title={isEn ? "From ~ To" : "기간"}
-                width={160}
+                width={120}
                 render={(item) => (
-                  <div>
+                  <div style={{ width: 120 }}>
                     {" "}
                     {item.from.format("YY.MM")} ~ {item.now ? "" : item.to.format("YY.MM")}{" "}
                   </div>
                 )}
               />
-              <Table.Column title={isEn ? "MM" : "MM"} width={80} render={(item) => <div>{item.to.diff(item.from, "months")}M</div>} />
-              <Table.Column title={isEn ? "etc" : "기타"} render={(item) => <div>{item.etc}</div>} />
+              <Table.Column title={isEn ? "MM" : "MM"} width={50} render={(item) => <div style={{ width: 50 }}><div style={{ width: 32, textAlign: 'right' }}>{item.to.diff(item.from, "months")}M</div></div>} />
+              <Table.Column title={isEn ? "ETC" : "기타"} render={(item) => <div style={{ width: 80 }}>{item.etc}</div>} />
             </Table>
           </div>
+
 
           {/* ==========================  Project ========================== */}
           <div>
@@ -133,7 +137,7 @@ export const Home: React.FunctionComponent = () => {
                 width={280}
                 title={isEn ? "Title" : "제목"}
                 render={(item) => (
-                  <div style={{ display: "flex", alignItems: "center" }}>
+                  <div style={{ width: 280, display: "flex", alignItems: "center" }}>
                     <img style={{ height: 22, width: 22, marginRight: 5, borderRadius: 2 }} src={item.thumb} />
                     <div>{item.name}</div>
                     &nbsp;&nbsp;
@@ -147,16 +151,16 @@ export const Home: React.FunctionComponent = () => {
                 title={isEn ? "From ~ To" : "기간"}
                 width={130}
                 render={(item) => (
-                  <div>
+                  <div style={{ width: 130 }}>
                     {item.from.format("YY.MM")} ~ {item.now ? "" : item.to.format("YY.MM")}
                   </div>
                 )}
               />
-              <Table.Column title={isEn ? "MM" : "MM"} width={60} render={(item) => <div>{item.to.diff(item.from, "months")}M</div>} />
+              <Table.Column title={isEn ? "MM" : "MM"} width={50} render={(item) => <div style={{ width: 32, textAlign: 'right' }}>{item.to.diff(item.from, "months")}M</div>} />
               <Table.Column
                 title={isEn ? "TAG" : "상세"}
                 render={(item) => (
-                  <div style={{ height: 24, overflow: "hidden" }}>
+                  <div style={{ width: 300, height: 24, overflow: "hidden" }}>
                     {item.tags.map((tag: string) => (
                       <Tag key={tag}>{tag}</Tag>
                     ))}
@@ -165,6 +169,7 @@ export const Home: React.FunctionComponent = () => {
               />
             </Table>
           </div>
+
 
           {/* ==========================  Award ========================== */}
           <div>
@@ -209,14 +214,15 @@ export const Home: React.FunctionComponent = () => {
               scroll={{ x: 600 }}
               pagination={false}
               onRow={(item, idx) => {
-                return { onClick: (event) => {} };
+                return { onClick: (event) => { } };
               }}
             >
-              <Table.Column title={isEn ? "Category" : "항목"} width={150} render={(item) => <div>{item.name}</div>} />
+              <Table.Column title={isEn ? "Category" : "항목"} width={150} render={(item) =>
+                <div style={{ width: 120 }}>{item.name}</div>} />
               <Table.Column
                 title={isEn ? "Description" : "상세내역"}
                 render={(item) => (
-                  <div>
+                  <div style={{ width: 620 }}>
                     {item.description.map((desc: string) => (
                       <Tag key={desc}>{desc}</Tag>
                     ))}
@@ -247,7 +253,7 @@ export const Home: React.FunctionComponent = () => {
         </div>
 
         {/* ==========================  footer ========================== */}
-        <div style={{ backgroundColor: "#666", padding: "5px 20px", color: "#fff" }}>made with React.js &nbsp; | &nbsp; Modified on : 2022.09.29</div>
+        <div style={{ backgroundColor: "#333", padding: "5px 20px", color: "#fff" }}>made with React.js &nbsp; | &nbsp; Modified on : 2022.10.01</div>
       </div>
     </div>
   );
