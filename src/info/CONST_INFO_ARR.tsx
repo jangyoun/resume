@@ -19,26 +19,26 @@ export const EDU_ARR_KR = [
 export const COMPANY_ARR_EN = [
   { id: 0, thumb: ImgCom00, from: Moment([2020, 9, 1]), to: Moment(), now: true, name: "Buildprop", position: "CTO", etc: "", notion: 'a63ce67d384a41e88bba9c3655606182' },
   { id: 1, thumb: ImgCom01, from: Moment([2019, 8, 1]), to: Moment([2020, 9, 1]), now: false, name: "OGQ", position: "Team Leader", etc: "", notion: '74c75f40ba184f54a298d2a7156290cd' },
-  { id: 2, thumb: ImgCom02, from: Moment([2014, 8, 1]), to: Moment([2019, 7, 1]), now: false, name: "ListenSoft", position: "CEO", etc: "Exit & M&A", notion: '20e87604c4414c1e862a1f19c734fae2' },
+  { id: 2, thumb: ImgCom02, from: Moment([2014, 8, 1]), to: Moment([2019, 7, 1]), now: false, name: "ListenSoft", position: "CEO", etc: "M&A", notion: '20e87604c4414c1e862a1f19c734fae2' },
   { id: 3, thumb: ImgCom03, from: Moment([2011, 0, 1]), to: Moment([2014, 7, 1]), now: false, name: "Pantech", position: "Engineer", etc: "", notion: '43474cdcc6dd4908887c4cedb992d73b' },
   { id: 4, thumb: ImgCom04, from: Moment([2010, 5, 1]), to: Moment([2010, 11, 1]), now: false, name: "SK Communications", position: "Engineer", etc: "", notion: '551a7e378ac3479e89953e484fd8b5ef' },
 ];
 export const COMPANY_ARR_KR = [
   { id: 0, thumb: ImgCom00, from: Moment([2020, 9, 1]), to: Moment(), now: true, name: "빌드프롭 (BuildProp)", position: "CTO", etc: "", notion: 'a63ce67d384a41e88bba9c3655606182' },
   { id: 1, thumb: ImgCom01, from: Moment([2019, 8, 1]), to: Moment([2020, 9, 1]), now: false, name: "오지큐 (OGQ)", position: "팀장", etc: "", notion: '74c75f40ba184f54a298d2a7156290cd' },
-  { id: 2, thumb: ImgCom02, from: Moment([2014, 8, 1]), to: Moment([2019, 7, 1]), now: false, name: "리슨소프트 (ListenSoft)", position: "CEO", etc: "Exit & M&A", notion: '20e87604c4414c1e862a1f19c734fae2' },
+  { id: 2, thumb: ImgCom02, from: Moment([2014, 8, 1]), to: Moment([2019, 7, 1]), now: false, name: "리슨소프트 (ListenSoft)", position: "CEO", etc: "M&A", notion: '20e87604c4414c1e862a1f19c734fae2' },
   { id: 3, thumb: ImgCom03, from: Moment([2011, 0, 1]), to: Moment([2014, 7, 1]), now: false, name: "팬택 (Pantech)", position: "연구원", etc: "", notion: '43474cdcc6dd4908887c4cedb992d73b' },
   { id: 4, thumb: ImgCom04, from: Moment([2010, 5, 1]), to: Moment([2010, 11, 1]), now: false, name: "SK Communications", position: "사원", etc: "", notion: '551a7e378ac3479e89953e484fd8b5ef' },
 ];
 
 // award --------------------------------------
 export const AWARD_ARR_EN = [
-  { id: 0, competition: "2013 DB Mashup Challenge", organizer: "Ministry of ICT", date: "2013.10.16", rank: "2nd Prize (for SKT)", notion: '7d0770317a674b7c8fe9d4ac8cca25a1' },
+  { id: 0, competition: "2013 DB Mashup Challenge", organizer: "Ministry of ICT", date: "2013.10.16", rank: "2nd Prize", notion: '7d0770317a674b7c8fe9d4ac8cca25a1' },
   { id: 1, competition: "Imagine Cup 2010", organizer: "Microsoft", date: "2010.03.20", rank: "Finalist", notion: '6bbd9abd4de04130b9f1a7b7c88c4bc7' },
   { id: 2, competition: "MASHUP CONTEST 2010", organizer: "NAVER, DAUM", date: "2010.02.06", rank: "Pronunciation", notion: 'a36595f84daf4733bcdd6b9c29c2deec' },
 ];
 export const AWARD_ARR_KR = [
-  { id: 0, competition: "2013 DB 매쉬업 공모전", organizer: "미래창조과학부", date: "2013.10.16", rank: "은상 - 2등상", notion: '7d0770317a674b7c8fe9d4ac8cca25a1' },
+  { id: 0, competition: "2013 DB 매쉬업 공모전", organizer: "미래창조과학부", date: "2013.10.16", rank: "은상", notion: '7d0770317a674b7c8fe9d4ac8cca25a1' },
   { id: 1, competition: "2010 이매진컵", organizer: "Microsoft", date: "2010.03.20", rank: "Finalist", notion: '6bbd9abd4de04130b9f1a7b7c88c4bc7' },
   { id: 2, competition: "2010 대한민국 매쉬업 경진대회", organizer: "NAVER, DAUM", date: "2010.02.06", rank: "특별상", notion: 'a36595f84daf4733bcdd6b9c29c2deec' },
 ];
