@@ -7,12 +7,12 @@ import {
 
 // edu --------------------------------------
 export const EDU_ARR_EN = [
-  { id: 0, thumb: ImgEdu00, name: "Sejong University", date: "04.03 ~ 04.03", major: "ICT", location: "Seoul, Korea", grade: "4.09 / 4.5" },
-  { id: 1, thumb: ImgEdu01, name: "Yushin high school", date: "04.03 ~ 04.03", major: "", location: "Suwon, Korea", grade: "" },
+  { id: 0, thumb: ImgEdu00, name: "Sejong University", date: "04.03 ~ 10.08", major: "ICT", location: "Seoul, Korea", grade: "4.09 / 4.5" },
+  { id: 1, thumb: ImgEdu01, name: "Yushin high school", date: "99.03 ~ 02.02", major: "", location: "Suwon, Korea", grade: "" },
 ];
 export const EDU_ARR_KR = [
-  { id: 0, thumb: ImgEdu00, name: "세종대학교", date: "04.03 ~ 04.03", major: "정보통신공학과", location: "서울, 대한민국", grade: "4.09 / 4.5" },
-  { id: 1, thumb: ImgEdu01, name: "유신고등학교", date: "04.03 ~ 04.03", major: "인문계", location: "수원, 대한민국", grade: "" },
+  { id: 0, thumb: ImgEdu00, name: "세종대학교", date: "04.03 ~ 10.08", major: "정보통신공학과", location: "서울, 대한민국", grade: "4.09 / 4.5" },
+  { id: 1, thumb: ImgEdu01, name: "유신고등학교", date: "99.03 ~ 02.02", major: "인문계", location: "수원, 대한민국", grade: "" },
 ];
 
 // comp --------------------------------------
