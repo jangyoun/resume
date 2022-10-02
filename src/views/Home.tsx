@@ -25,9 +25,10 @@ export const Home: React.FunctionComponent = () => {
         </div>
 
         <div style={{ width: "100%", display: "flex" }}>
-          <div style={{ width: 80, height: 80, margin: "0px 10px 0px 20px" }}>
+          {/* <div style={{ width: 80, height: 80, margin: "0px 10px 0px 20px" }}>
             <Image style={{ borderRadius: 10 }} preview={{ mask: <></> }} src={ImgProfileThumb} />
-          </div>
+          </div> */}
+          <img style={{ width: 80, height: 80, margin: "0px 10px 0px 20px", borderRadius: 10, zIndex: 1 }} src={ImgProfileThumb} />
           <div style={{ flex: 1, display: "flex", flexDirection: "column" }}>
             <div style={{ flex: 1, marginTop: 16, fontSize: 22, fontWeight: "bold", color: "#fff", zIndex: 1 }}>{isEn ? "Jangyoun Lee" : "이장연"}</div>
             <Typography.Paragraph style={{ height: 28, fontSize: 18, marginTop: 2 }}>jangyounc@gmail.com</Typography.Paragraph>
